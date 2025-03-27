@@ -1,0 +1,417 @@
+domain,sex,geo,Time period,Level of trust in %
+Legal system,Total,Austria,2013,57.0
+Legal system,Total,Belgium,2013,47.0
+Legal system,Total,Bulgaria,2013,28.0
+Legal system,Total,Switzerland,2013,68.0
+Legal system,Total,Cyprus,2013,35.0
+Legal system,Total,Czechia,2013,36.0
+Legal system,Total,Germany,2013,49.0
+Legal system,Total,Denmark,2013,70.0
+Legal system,Total,Estonia,2013,49.0
+Legal system,Total,Greece,2013,42.0
+Legal system,Total,Spain,2013,28.0
+Legal system,Total,Finland,2013,69.0
+Legal system,Total,France,2013,41.0
+Legal system,Total,Croatia,2013,31.0
+Legal system,Total,Hungary,2013,49.0
+Legal system,Total,Ireland,2013,48.0
+Legal system,Total,Iceland,2013,52.0
+Legal system,Total,Italy,2013,34.0
+Legal system,Total,Lithuania,2013,49.0
+Legal system,Total,Luxembourg,2013,49.0
+Legal system,Total,Latvia,2013,44.0
+Legal system,Total,Montenegro,2013,45.0
+Legal system,Total,North Macedonia,2013,42.0
+Legal system,Total,Malta,2013,49.0
+Legal system,Total,Netherlands,2013,56.0
+Legal system,Total,Norway,2013,68.0
+Legal system,Total,Poland,2013,41.0
+Legal system,Total,Portugal,2013,28.0
+Legal system,Total,Romania,2013,56.0
+Legal system,Total,Serbia,2013,35.0
+Legal system,Total,Sweden,2013,66.0
+Legal system,Total,Slovenia,2013,24.0
+Legal system,Total,Slovakia,2013,35.0
+Legal system,Total,Türkiye,2013,55.0
+Legal system,Total,United Kingdom,2013,49.0
+Legal system,Total,Austria,2013,59.0
+Legal system,Total,Belgium,2013,49.0
+Legal system,Total,Bulgaria,2013,29.0
+Legal system,Total,Switzerland,2013,68.0
+Legal system,Total,Cyprus,2013,35.0
+Legal system,Total,Czechia,2013,37.0
+Legal system,Total,Germany,2013,51.0
+Legal system,Total,Denmark,2013,75.0
+Legal system,Total,Estonia,2013,50.0
+Legal system,Total,Greece,2013,40.0
+Legal system,Total,Spain,2013,32.0
+Legal system,Total,Finland,2013,69.0
+Legal system,Total,France,2013,44.0
+Legal system,Total,Croatia,2013,32.0
+Legal system,Total,Hungary,2013,51.0
+Legal system,Total,Ireland,2013,50.0
+Legal system,Total,Iceland,2013,57.0
+Legal system,Total,Italy,2013,37.0
+Legal system,Total,Lithuania,2013,48.0
+Legal system,Total,Luxembourg,2013,51.0
+Legal system,Total,Latvia,2013,44.0
+Legal system,Total,Montenegro,2013,46.0
+Legal system,Total,North Macedonia,2013,44.0
+Legal system,Total,Malta,2013,51.0
+Legal system,Total,Netherlands,2013,61.0
+Legal system,Total,Norway,2013,70.0
+Legal system,Total,Poland,2013,41.0
+Legal system,Total,Portugal,2013,31.0
+Legal system,Total,Romania,2013,58.0
+Legal system,Total,Serbia,2013,32.0
+Legal system,Total,Sweden,2013,65.0
+Legal system,Total,Slovenia,2013,26.0
+Legal system,Total,Slovakia,2013,35.0
+Legal system,Total,Türkiye,2013,49.0
+Legal system,Total,United Kingdom,2013,52.0
+Legal system,Total,Austria,2013,66.0
+Legal system,Total,Belgium,2013,55.0
+Legal system,Total,Bulgaria,2013,36.0
+Legal system,Total,Switzerland,2013,73.0
+Legal system,Total,Cyprus,2013,37.0
+Legal system,Total,Czechia,2013,44.0
+Legal system,Total,Germany,2013,61.0
+Legal system,Total,Denmark,2013,79.0
+Legal system,Total,Estonia,2013,57.0
+Legal system,Total,Greece,2013,42.0
+Legal system,Total,Spain,2013,34.0
+Legal system,Total,Finland,2013,76.0
+Legal system,Total,France,2013,52.0
+Legal system,Total,Croatia,2013,38.0
+Legal system,Total,Hungary,2013,55.0
+Legal system,Total,Ireland,2013,55.0
+Legal system,Total,Iceland,2013,62.0
+Legal system,Total,Italy,2013,43.0
+Legal system,Total,Lithuania,2013,52.0
+Legal system,Total,Luxembourg,2013,61.0
+Legal system,Total,Latvia,2013,49.0
+Legal system,Total,Montenegro,2013,56.0
+Legal system,Total,North Macedonia,2013,52.0
+Legal system,Total,Malta,2013,52.0
+Legal system,Total,Netherlands,2013,68.0
+Legal system,Total,Norway,2013,76.0
+Legal system,Total,Poland,2013,46.0
+Legal system,Total,Portugal,2013,34.0
+Legal system,Total,Romania,2013,59.0
+Legal system,Total,Serbia,2013,33.0
+Legal system,Total,Sweden,2013,70.0
+Legal system,Total,Slovenia,2013,30.0
+Legal system,Total,Slovakia,2013,40.0
+Legal system,Total,Türkiye,2013,45.0
+Legal system,Total,United Kingdom,2013,61.0
+Legal system,Total,Austria,2013,60.0
+Legal system,Total,Belgium,2013,50.0
+Legal system,Total,Bulgaria,2013,30.0
+Legal system,Total,Switzerland,2013,70.0
+Legal system,Total,Cyprus,2013,36.0
+Legal system,Total,Czechia,2013,38.0
+Legal system,Total,Germany,2013,53.0
+Legal system,Total,Denmark,2013,75.0
+Legal system,Total,Estonia,2013,52.0
+Legal system,Total,Greece,2013,41.0
+Legal system,Total,Spain,2013,31.0
+Legal system,Total,Finland,2013,72.0
+Legal system,Total,France,2013,45.0
+Legal system,Total,Croatia,2013,33.0
+Legal system,Total,Hungary,2013,51.0
+Legal system,Total,Ireland,2013,51.0
+Legal system,Total,Iceland,2013,57.0
+Legal system,Total,Italy,2013,36.0
+Legal system,Total,Lithuania,2013,49.0
+Legal system,Total,Luxembourg,2013,53.0
+Legal system,Total,Latvia,2013,45.0
+Legal system,Total,Montenegro,2013,48.0
+Legal system,Total,North Macedonia,2013,44.0
+Legal system,Total,Malta,2013,49.0
+Legal system,Total,Netherlands,2013,62.0
+Legal system,Total,Norway,2013,72.0
+Legal system,Total,Poland,2013,42.0
+Legal system,Total,Portugal,2013,29.0
+Legal system,Total,Romania,2013,58.0
+Legal system,Total,Serbia,2013,33.0
+Legal system,Total,Sweden,2013,67.0
+Legal system,Total,Slovenia,2013,27.0
+Legal system,Total,Slovakia,2013,36.0
+Legal system,Total,Türkiye,2013,52.0
+Legal system,Total,United Kingdom,2013,54.0
+Police,Total,Austria,2013,71.0
+Police,Total,Belgium,2013,58.0
+Police,Total,Bulgaria,2013,32.0
+Police,Total,Switzerland,2013,75.0
+Police,Total,Cyprus,2013,48.0
+Police,Total,Czechia,2013,46.0
+Police,Total,Germany,2013,61.0
+Police,Total,Denmark,2013,77.0
+Police,Total,Estonia,2013,58.0
+Police,Total,Greece,2013,52.0
+Police,Total,Spain,2013,54.0
+Police,Total,Finland,2013,80.0
+Police,Total,France,2013,55.0
+Police,Total,Hungary,2013,54.0
+Police,Total,Ireland,2013,70.0
+Police,Total,Iceland,2013,75.0
+Police,Total,Italy,2013,58.0
+Police,Total,Lithuania,2013,60.0
+Police,Total,Luxembourg,2013,58.0
+Police,Total,Latvia,2013,52.0
+Police,Total,Montenegro,2013,50.0
+Police,Total,North Macedonia,2013,48.0
+Police,Total,Malta,2013,63.0
+Police,Total,Netherlands,2013,64.0
+Police,Total,Norway,2013,74.0
+Police,Total,Poland,2013,50.0
+Police,Total,Portugal,2013,53.0
+Police,Total,Romania,2013,62.0
+Police,Total,Serbia,2013,43.0
+Police,Total,Sweden,2013,71.0
+Police,Total,Slovenia,2013,54.0
+Police,Total,Slovakia,2013,42.0
+Police,Total,Türkiye,2013,67.0
+Police,Total,United Kingdom,2013,62.0
+Police,Total,Austria,2013,71.0
+Police,Total,Belgium,2013,60.0
+Police,Total,Bulgaria,2013,35.0
+Police,Total,Switzerland,2013,73.0
+Police,Total,Cyprus,2013,46.0
+Police,Total,Czechia,2013,48.0
+Police,Total,Germany,2013,62.0
+Police,Total,Denmark,2013,79.0
+Police,Total,Estonia,2013,59.0
+Police,Total,Greece,2013,48.0
+Police,Total,Spain,2013,55.0
+Police,Total,Finland,2013,81.0
+Police,Total,France,2013,54.0
+Police,Total,Hungary,2013,56.0
+Police,Total,Ireland,2013,67.0
+Police,Total,Iceland,2013,78.0
+Police,Total,Italy,2013,58.0
+Police,Total,Lithuania,2013,57.0
+Police,Total,Luxembourg,2013,59.0
+Police,Total,Latvia,2013,53.0
+Police,Total,Montenegro,2013,50.0
+Police,Total,North Macedonia,2013,50.0
+Police,Total,Malta,2013,63.0
+Police,Total,Netherlands,2013,65.0
+Police,Total,Norway,2013,74.0
+Police,Total,Poland,2013,51.0
+Police,Total,Portugal,2013,54.0
+Police,Total,Romania,2013,64.0
+Police,Total,Serbia,2013,41.0
+Police,Total,Sweden,2013,69.0
+Police,Total,Slovenia,2013,54.0
+Police,Total,Slovakia,2013,42.0
+Police,Total,Türkiye,2013,60.0
+Police,Total,United Kingdom,2013,62.0
+Police,Total,Austria,2013,73.0
+Police,Total,Belgium,2013,64.0
+Police,Total,Bulgaria,2013,41.0
+Police,Total,Switzerland,2013,75.0
+Police,Total,Cyprus,2013,46.0
+Police,Total,Czechia,2013,54.0
+Police,Total,Germany,2013,68.0
+Police,Total,Denmark,2013,80.0
+Police,Total,Estonia,2013,64.0
+Police,Total,Greece,2013,47.0
+Police,Total,Spain,2013,56.0
+Police,Total,Finland,2013,84.0
+Police,Total,France,2013,60.0
+Police,Total,Hungary,2013,59.0
+Police,Total,Ireland,2013,70.0
+Police,Total,Iceland,2013,78.0
+Police,Total,Italy,2013,60.0
+Police,Total,Lithuania,2013,61.0
+Police,Total,Luxembourg,2013,64.0
+Police,Total,Latvia,2013,57.0
+Police,Total,Montenegro,2013,59.0
+Police,Total,North Macedonia,2013,59.0
+Police,Total,Malta,2013,62.0
+Police,Total,Netherlands,2013,69.0
+Police,Total,Norway,2013,77.0
+Police,Total,Poland,2013,55.0
+Police,Total,Portugal,2013,56.0
+Police,Total,Romania,2013,66.0
+Police,Total,Serbia,2013,43.0
+Police,Total,Sweden,2013,72.0
+Police,Total,Slovenia,2013,57.0
+Police,Total,Slovakia,2013,47.0
+Police,Total,Türkiye,2013,55.0
+Police,Total,United Kingdom,2013,68.0
+Police,Total,Austria,2013,72.0
+Police,Total,Belgium,2013,61.0
+Police,Total,Bulgaria,2013,36.0
+Police,Total,Switzerland,2013,74.0
+Police,Total,Cyprus,2013,47.0
+Police,Total,Czechia,2013,49.0
+Police,Total,Germany,2013,63.0
+Police,Total,Denmark,2013,79.0
+Police,Total,Estonia,2013,60.0
+Police,Total,Greece,2013,50.0
+Police,Total,Spain,2013,55.0
+Police,Total,Finland,2013,82.0
+Police,Total,France,2013,56.0
+Police,Total,Hungary,2013,56.0
+Police,Total,Ireland,2013,69.0
+Police,Total,Iceland,2013,77.0
+Police,Total,Italy,2013,58.0
+Police,Total,Lithuania,2013,59.0
+Police,Total,Luxembourg,2013,60.0
+Police,Total,Latvia,2013,54.0
+Police,Total,Montenegro,2013,52.0
+Police,Total,North Macedonia,2013,51.0
+Police,Total,Malta,2013,63.0
+Police,Total,Netherlands,2013,66.0
+Police,Total,Norway,2013,75.0
+Police,Total,Poland,2013,51.0
+Police,Total,Portugal,2013,53.0
+Police,Total,Romania,2013,64.0
+Police,Total,Serbia,2013,42.0
+Police,Total,Sweden,2013,70.0
+Police,Total,Slovenia,2013,55.0
+Police,Total,Slovakia,2013,43.0
+Police,Total,Türkiye,2013,63.0
+Police,Total,United Kingdom,2013,64.0
+Political system,Total,Austria,2013,43.0
+Political system,Total,Belgium,2013,42.0
+Political system,Total,Bulgaria,2013,24.0
+Political system,Total,Switzerland,2013,64.0
+Political system,Total,Cyprus,2013,27.0
+Political system,Total,Czechia,2013,35.0
+Political system,Total,Germany,2013,45.0
+Political system,Total,Denmark,2013,53.0
+Political system,Total,Estonia,2013,42.0
+Political system,Total,Greece,2013,19.0
+Political system,Total,Spain,2013,18.0
+Political system,Total,Finland,2013,55.0
+Political system,Total,France,2013,28.0
+Political system,Total,Croatia,2013,27.0
+Political system,Total,Hungary,2013,43.0
+Political system,Total,Ireland,2013,28.0
+Political system,Total,Iceland,2013,33.0
+Political system,Total,Italy,2013,19.0
+Political system,Total,Lithuania,2013,44.0
+Political system,Total,Luxembourg,2013,46.0
+Political system,Total,Latvia,2013,34.0
+Political system,Total,Montenegro,2013,44.0
+Political system,Total,North Macedonia,2013,41.0
+Political system,Total,Malta,2013,57.0
+Political system,Total,Netherlands,2013,50.0
+Political system,Total,Norway,2013,56.0
+Political system,Total,Poland,2013,34.0
+Political system,Total,Portugal,2013,15.0
+Political system,Total,Romania,2013,47.0
+Political system,Total,Serbia,2013,33.0
+Political system,Total,Sweden,2013,51.0
+Political system,Total,Slovenia,2013,16.0
+Political system,Total,Slovakia,2013,34.0
+Political system,Total,Türkiye,2013,50.0
+Political system,Total,United Kingdom,2013,32.0
+Political system,Total,Austria,2013,43.0
+Political system,Total,Belgium,2013,44.0
+Political system,Total,Bulgaria,2013,25.0
+Political system,Total,Switzerland,2013,64.0
+Political system,Total,Cyprus,2013,25.0
+Political system,Total,Czechia,2013,36.0
+Political system,Total,Germany,2013,48.0
+Political system,Total,Denmark,2013,59.0
+Political system,Total,Estonia,2013,42.0
+Political system,Total,Greece,2013,20.0
+Political system,Total,Spain,2013,19.0
+Political system,Total,Finland,2013,58.0
+Political system,Total,France,2013,28.0
+Political system,Total,Croatia,2013,28.0
+Political system,Total,Hungary,2013,44.0
+Political system,Total,Ireland,2013,31.0
+Political system,Total,Iceland,2013,35.0
+Political system,Total,Italy,2013,22.0
+Political system,Total,Lithuania,2013,43.0
+Political system,Total,Luxembourg,2013,49.0
+Political system,Total,Latvia,2013,34.0
+Political system,Total,Montenegro,2013,45.0
+Political system,Total,North Macedonia,2013,44.0
+Political system,Total,Malta,2013,55.0
+Political system,Total,Netherlands,2013,54.0
+Political system,Total,Norway,2013,57.0
+Political system,Total,Poland,2013,33.0
+Political system,Total,Portugal,2013,18.0
+Political system,Total,Romania,2013,49.0
+Political system,Total,Serbia,2013,32.0
+Political system,Total,Sweden,2013,54.0
+Political system,Total,Slovenia,2013,17.0
+Political system,Total,Slovakia,2013,34.0
+Political system,Total,Türkiye,2013,46.0
+Political system,Total,United Kingdom,2013,36.0
+Political system,Total,Austria,2013,49.0
+Political system,Total,Belgium,2013,50.0
+Political system,Total,Bulgaria,2013,31.0
+Political system,Total,Switzerland,2013,69.0
+Political system,Total,Cyprus,2013,26.0
+Political system,Total,Czechia,2013,44.0
+Political system,Total,Germany,2013,56.0
+Political system,Total,Denmark,2013,63.0
+Political system,Total,Estonia,2013,47.0
+Political system,Total,Greece,2013,21.0
+Political system,Total,Spain,2013,20.0
+Political system,Total,Finland,2013,66.0
+Political system,Total,France,2013,36.0
+Political system,Total,Croatia,2013,31.0
+Political system,Total,Hungary,2013,47.0
+Political system,Total,Ireland,2013,37.0
+Political system,Total,Iceland,2013,42.0
+Political system,Total,Italy,2013,25.0
+Political system,Total,Lithuania,2013,48.0
+Political system,Total,Luxembourg,2013,56.0
+Political system,Total,Latvia,2013,41.0
+Political system,Total,Montenegro,2013,55.0
+Political system,Total,North Macedonia,2013,52.0
+Political system,Total,Malta,2013,56.0
+Political system,Total,Netherlands,2013,62.0
+Political system,Total,Norway,2013,65.0
+Political system,Total,Poland,2013,39.0
+Political system,Total,Portugal,2013,23.0
+Political system,Total,Romania,2013,51.0
+Political system,Total,Serbia,2013,32.0
+Political system,Total,Sweden,2013,61.0
+Political system,Total,Slovenia,2013,20.0
+Political system,Total,Slovakia,2013,39.0
+Political system,Total,Türkiye,2013,43.0
+Political system,Total,United Kingdom,2013,44.0
+Political system,Total,Austria,2013,44.0
+Political system,Total,Belgium,2013,46.0
+Political system,Total,Bulgaria,2013,26.0
+Political system,Total,Switzerland,2013,66.0
+Political system,Total,Cyprus,2013,26.0
+Political system,Total,Czechia,2013,37.0
+Political system,Total,Germany,2013,49.0
+Political system,Total,Denmark,2013,59.0
+Political system,Total,Estonia,2013,44.0
+Political system,Total,Greece,2013,20.0
+Political system,Total,Spain,2013,19.0
+Political system,Total,Finland,2013,60.0
+Political system,Total,France,2013,30.0
+Political system,Total,Croatia,2013,28.0
+Political system,Total,Hungary,2013,45.0
+Political system,Total,Ireland,2013,32.0
+Political system,Total,Iceland,2013,37.0
+Political system,Total,Italy,2013,21.0
+Political system,Total,Lithuania,2013,45.0
+Political system,Total,Luxembourg,2013,50.0
+Political system,Total,Latvia,2013,36.0
+Political system,Total,Montenegro,2013,46.0
+Political system,Total,North Macedonia,2013,44.0
+Political system,Total,Malta,2013,57.0
+Political system,Total,Netherlands,2013,55.0
+Political system,Total,Norway,2013,59.0
+Political system,Total,Poland,2013,35.0
+Political system,Total,Portugal,2013,17.0
+Political system,Total,Romania,2013,48.0
+Political system,Total,Serbia,2013,32.0
+Political system,Total,Sweden,2013,55.0
+Political system,Total,Slovenia,2013,18.0
+Political system,Total,Slovakia,2013,35.0
+Political system,Total,Türkiye,2013,48.0
+Political system,Total,United Kingdom,2013,38.0
