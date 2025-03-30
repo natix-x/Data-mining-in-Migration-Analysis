@@ -1,0 +1,2189 @@
+citizen,unit,geo,TIME_PERIOD,OBS_VALUE
+Foreign country,Number,Albania,2013,84.0
+Foreign country,Number,Albania,2014,99.0
+Foreign country,Number,Albania,2015,89.0
+Foreign country,Number,Albania,2016,89.0
+Foreign country,Number,Albania,2017,101.0
+Foreign country,Number,Albania,2018,90.0
+Foreign country,Number,Albania,2019,113.0
+Foreign country,Number,Albania,2020,109.0
+Foreign country,Number,Albania,2021,114.0
+Foreign country,Number,Albania,2022,123.0
+Foreign country,Number,Austria,2013,4373.0
+Foreign country,Number,Austria,2014,4449.0
+Foreign country,Number,Austria,2015,4702.0
+Foreign country,Number,Austria,2016,4686.0
+Foreign country,Number,Austria,2017,4831.0
+Foreign country,Number,Austria,2018,5029.0
+Foreign country,Number,Austria,2019,4794.0
+Foreign country,Number,Austria,2020,4298.0
+Foreign country,Number,Austria,2021,4156.0
+Foreign country,Number,Austria,2022,4644.0
+Foreign country,Number,Bosnia and Herzegovina,2013,54.0
+Foreign country,Number,Bosnia and Herzegovina,2014,46.0
+Foreign country,Number,Bosnia and Herzegovina,2015,57.0
+Foreign country,Number,Bosnia and Herzegovina,2016,49.0
+Foreign country,Number,Bosnia and Herzegovina,2017,32.0
+Foreign country,Number,Bosnia and Herzegovina,2018,51.0
+Foreign country,Number,Bosnia and Herzegovina,2019,78.0
+Foreign country,Number,Bosnia and Herzegovina,2020,174.0
+Foreign country,Number,Bosnia and Herzegovina,2021,100.0
+Foreign country,Number,Bosnia and Herzegovina,2022,120.0
+Foreign country,Number,Belgium,2013,5271.0
+Foreign country,Number,Belgium,2015,4812.0
+Foreign country,Number,Belgium,2017,4627.0
+Foreign country,Number,Belgium,2018,4555.0
+Foreign country,Number,Belgium,2019,4771.0
+Foreign country,Number,Belgium,2020,4593.0
+Foreign country,Number,Belgium,2021,4706.0
+Foreign country,Number,Belgium,2022,4730.0
+Foreign country,Number,Bulgaria,2013,253.0
+Foreign country,Number,Bulgaria,2014,232.0
+Foreign country,Number,Bulgaria,2015,242.0
+Foreign country,Number,Bulgaria,2016,215.0
+Foreign country,Number,Bulgaria,2017,186.0
+Foreign country,Number,Bulgaria,2018,161.0
+Foreign country,Number,Bulgaria,2019,137.0
+Foreign country,Number,Bulgaria,2020,154.0
+Foreign country,Number,Bulgaria,2021,159.0
+Foreign country,Number,Bulgaria,2022,134.0
+Foreign country,Number,Switzerland,2013,4857.0
+Foreign country,Number,Switzerland,2014,4673.0
+Foreign country,Number,Switzerland,2015,4514.0
+Foreign country,Number,Switzerland,2016,4599.0
+Foreign country,Number,Switzerland,2017,4615.0
+Foreign country,Number,Switzerland,2018,4679.0
+Foreign country,Number,Switzerland,2019,4478.0
+Foreign country,Number,Switzerland,2020,4340.0
+Foreign country,Number,Switzerland,2021,4230.0
+Foreign country,Number,Switzerland,2022,4396.0
+Foreign country,Number,Cyprus,2013,306.0
+Foreign country,Number,Cyprus,2014,239.0
+Foreign country,Number,Cyprus,2015,214.0
+Foreign country,Number,Cyprus,2016,237.0
+Foreign country,Number,Cyprus,2017,151.0
+Foreign country,Number,Cyprus,2018,276.0
+Foreign country,Number,Cyprus,2019,372.0
+Foreign country,Number,Cyprus,2020,260.0
+Foreign country,Number,Cyprus,2021,417.0
+Foreign country,Number,Cyprus,2022,531.0
+Foreign country,Number,Czechia,2013,1523.0
+Foreign country,Number,Czechia,2014,1549.0
+Foreign country,Number,Czechia,2015,1670.0
+Foreign country,Number,Czechia,2016,1807.0
+Foreign country,Number,Czechia,2017,1814.0
+Foreign country,Number,Czechia,2018,1768.0
+Foreign country,Number,Czechia,2019,1794.0
+Foreign country,Number,Czechia,2020,1534.0
+Foreign country,Number,Czechia,2021,1396.0
+Foreign country,Number,Czechia,2022,1459.0
+Foreign country,Number,Denmark,2013,1098.0
+Foreign country,Number,Denmark,2014,1002.0
+Foreign country,Number,Denmark,2015,865.0
+Foreign country,Number,Denmark,2016,954.0
+Foreign country,Number,Denmark,2017,968.0
+Foreign country,Number,Denmark,2018,1039.0
+Foreign country,Number,Denmark,2019,1137.0
+Foreign country,Number,Denmark,2020,1171.0
+Foreign country,Number,Denmark,2021,1074.0
+Foreign country,Number,Denmark,2022,1145.0
+Foreign country,Number,Estonia,2013,1192.0
+Foreign country,Number,Estonia,2014,1226.0
+Foreign country,Number,Estonia,2015,1096.0
+Foreign country,Number,Estonia,2016,1060.0
+Foreign country,Number,Estonia,2017,996.0
+Foreign country,Number,Estonia,2018,916.0
+Foreign country,Number,Estonia,2019,837.0
+Foreign country,Number,Estonia,2020,799.0
+Foreign country,Number,Estonia,2021,725.0
+Foreign country,Number,Estonia,2022,686.0
+Foreign country,Number,Greece,2013,7623.0
+Foreign country,Number,Greece,2014,6882.0
+Foreign country,Number,Greece,2015,5289.0
+Foreign country,Number,Greece,2016,5195.0
+Foreign country,Number,Greece,2017,5291.0
+Foreign country,Number,Greece,2018,5822.0
+Foreign country,Number,Greece,2019,6314.0
+Foreign country,Number,Greece,2020,6799.0
+Foreign country,Number,Greece,2021,6499.0
+Foreign country,Number,Greece,2022,6022.0
+Foreign country,Number,Spain,2013,21116.0
+Foreign country,Number,Spain,2014,19697.0
+Foreign country,Number,Spain,2015,17870.0
+Foreign country,Number,Spain,2016,17130.0
+Foreign country,Number,Spain,2017,16549.0
+Foreign country,Number,Spain,2018,16536.0
+Foreign country,Number,Spain,2019,16470.0
+Foreign country,Number,Spain,2020,15918.0
+Foreign country,Number,Spain,2021,16272.0
+Foreign country,Number,Spain,2022,16758.0
+Foreign country,Number,Finland,2013,458.0
+Foreign country,Number,Finland,2014,483.0
+Foreign country,Number,Finland,2015,489.0
+Foreign country,Number,Finland,2016,531.0
+Foreign country,Number,Finland,2017,555.0
+Foreign country,Number,Finland,2018,503.0
+Foreign country,Number,Finland,2019,502.0
+Foreign country,Number,Finland,2020,474.0
+Foreign country,Number,Finland,2021,421.0
+Foreign country,Number,Finland,2022,461.0
+Foreign country,Number,France,2013,13843.0
+Foreign country,Number,France,2014,13814.0
+Foreign country,Number,France,2015,14071.0
+Foreign country,Number,France,2016,14964.0
+Foreign country,Number,France,2017,15418.0
+Foreign country,Number,France,2018,16151.0
+Foreign country,Number,France,2019,16414.0
+Foreign country,Number,France,2020,15357.0
+Foreign country,Number,France,2021,17447.0
+Foreign country,Number,France,2022,18068.0
+Foreign country,Number,Croatia,2013,275.0
+Foreign country,Number,Croatia,2014,231.0
+Foreign country,Number,Croatia,2015,197.0
+Foreign country,Number,Croatia,2016,197.0
+Foreign country,Number,Croatia,2017,225.0
+Foreign country,Number,Croatia,2018,313.0
+Foreign country,Number,Croatia,2019,481.0
+Foreign country,Number,Croatia,2020,381.0
+Foreign country,Number,Croatia,2021,467.0
+Foreign country,Number,Croatia,2022,423.0
+Foreign country,Number,Hungary,2013,653.0
+Foreign country,Number,Hungary,2014,700.0
+Foreign country,Number,Hungary,2015,906.0
+Foreign country,Number,Hungary,2016,878.0
+Foreign country,Number,Hungary,2017,861.0
+Foreign country,Number,Hungary,2018,753.0
+Foreign country,Number,Hungary,2019,805.0
+Foreign country,Number,Hungary,2020,998.0
+Foreign country,Number,Hungary,2021,1879.0
+Foreign country,Number,Hungary,2022,2893.0
+Foreign country,Number,Ireland,2013,420.0
+Foreign country,Number,Ireland,2014,371.0
+Foreign country,Number,Ireland,2015,342.0
+Foreign country,Number,Ireland,2018,520.0
+Foreign country,Number,Ireland,2019,615.0
+Foreign country,Number,Ireland,2020,592.0
+Foreign country,Number,Ireland,2021,575.0
+Foreign country,Number,Ireland,2022,651.0
+Foreign country,Number,Iceland,2013,25.0
+Foreign country,Number,Iceland,2014,22.0
+Foreign country,Number,Iceland,2015,29.0
+Foreign country,Number,Iceland,2016,26.0
+Foreign country,Number,Iceland,2017,31.0
+Foreign country,Number,Iceland,2018,31.0
+Foreign country,Number,Iceland,2019,32.0
+Foreign country,Number,Iceland,2020,34.0
+Foreign country,Number,Iceland,2021,32.0
+Foreign country,Number,Iceland,2022,39.0
+Foreign country,Number,Italy,2013,22344.0
+Foreign country,Number,Italy,2014,17856.0
+Foreign country,Number,Italy,2015,17799.0
+Foreign country,Number,Italy,2016,19149.0
+Foreign country,Number,Italy,2017,20307.0
+Foreign country,Number,Italy,2018,20774.0
+Foreign country,Number,Italy,2019,20352.0
+Foreign country,Number,Italy,2020,17741.0
+Foreign country,Number,Italy,2021,17429.0
+Foreign country,Number,Italy,2022,18138.0
+Foreign country,Number,Liechtenstein,2013,51.0
+Foreign country,Number,Liechtenstein,2014,41.0
+Foreign country,Number,Liechtenstein,2015,42.0
+Foreign country,Number,Liechtenstein,2016,62.0
+Foreign country,Number,Liechtenstein,2017,61.0
+Foreign country,Number,Liechtenstein,2018,54.0
+Foreign country,Number,Liechtenstein,2019,36.0
+Foreign country,Number,Liechtenstein,2020,38.0
+Foreign country,Number,Liechtenstein,2022,53.0
+Foreign country,Number,Lithuania,2013,149.0
+Foreign country,Number,Lithuania,2014,159.0
+Foreign country,Number,Lithuania,2015,128.0
+Foreign country,Number,Lithuania,2016,111.0
+Foreign country,Number,Lithuania,2017,114.0
+Foreign country,Number,Lithuania,2018,125.0
+Foreign country,Number,Lithuania,2019,128.0
+Foreign country,Number,Lithuania,2020,102.0
+Foreign country,Number,Lithuania,2021,167.0
+Foreign country,Number,Lithuania,2022,166.0
+Foreign country,Number,Luxembourg,2013,454.0
+Foreign country,Number,Luxembourg,2014,465.0
+Foreign country,Number,Luxembourg,2015,516.0
+Foreign country,Number,Luxembourg,2016,543.0
+Foreign country,Number,Luxembourg,2017,493.0
+Foreign country,Number,Luxembourg,2018,491.0
+Foreign country,Number,Luxembourg,2019,439.0
+Foreign country,Number,Luxembourg,2020,407.0
+Foreign country,Number,Luxembourg,2021,447.0
+Foreign country,Number,Luxembourg,2022,549.0
+Foreign country,Number,Latvia,2013,68.0
+Foreign country,Number,Latvia,2014,87.0
+Foreign country,Number,Latvia,2015,106.0
+Foreign country,Number,Latvia,2016,142.0
+Foreign country,Number,Latvia,2017,94.0
+Foreign country,Number,Latvia,2018,84.0
+Foreign country,Number,Latvia,2019,65.0
+Foreign country,Number,Latvia,2020,45.0
+Foreign country,Number,Latvia,2021,58.0
+Foreign country,Number,Latvia,2022,79.0
+Foreign country,Number,Montenegro,2013,234.0
+Foreign country,Number,Montenegro,2014,374.0
+Foreign country,Number,Montenegro,2015,171.0
+Foreign country,Number,Montenegro,2016,284.0
+Foreign country,Number,Montenegro,2017,187.0
+Foreign country,Number,Montenegro,2018,174.0
+Foreign country,Number,Montenegro,2019,192.0
+Foreign country,Number,Montenegro,2020,132.0
+Foreign country,Number,Montenegro,2021,153.0
+Foreign country,Number,Montenegro,2022,144.0
+Foreign country,Number,North Macedonia,2016,303.0
+Foreign country,Number,North Macedonia,2017,133.0
+Foreign country,Number,Malta,2016,237.0
+Foreign country,Number,Malta,2017,249.0
+Foreign country,Number,Malta,2018,257.0
+Foreign country,Number,Malta,2019,390.0
+Foreign country,Number,Malta,2020,528.0
+Foreign country,Number,Malta,2021,311.0
+Foreign country,Number,Malta,2022,264.0
+Foreign country,Number,Netherlands,2013,2409.0
+Foreign country,Number,Netherlands,2014,2170.0
+Foreign country,Number,Netherlands,2015,1893.0
+Foreign country,Number,Netherlands,2016,1832.0
+Foreign country,Number,Netherlands,2017,2057.0
+Foreign country,Number,Netherlands,2018,2185.0
+Foreign country,Number,Netherlands,2019,2295.0
+Foreign country,Number,Netherlands,2020,2301.0
+Foreign country,Number,Netherlands,2021,2279.0
+Foreign country,Number,Netherlands,2022,2456.0
+Foreign country,Number,Norway,2013,1212.0
+Foreign country,Number,Norway,2014,1276.0
+Foreign country,Number,Norway,2015,1361.0
+Foreign country,Number,Norway,2016,1327.0
+Foreign country,Number,Norway,2017,1328.0
+Foreign country,Number,Norway,2018,1196.0
+Foreign country,Number,Norway,2019,1063.0
+Foreign country,Number,Norway,2020,992.0
+Foreign country,Number,Norway,2021,900.0
+Foreign country,Number,Norway,2022,875.0
+Foreign country,Number,Poland,2013,521.0
+Foreign country,Number,Poland,2014,543.0
+Foreign country,Number,Poland,2015,521.0
+Foreign country,Number,Poland,2016,665.0
+Foreign country,Number,Poland,2017,844.0
+Foreign country,Number,Poland,2018,1041.0
+Foreign country,Number,Poland,2019,1310.0
+Foreign country,Number,Poland,2020,1268.0
+Foreign country,Number,Poland,2021,1741.0
+Foreign country,Number,Poland,2022,1829.0
+Foreign country,Number,Portugal,2013,2647.0
+Foreign country,Number,Portugal,2014,2492.0
+Foreign country,Number,Portugal,2015,2502.0
+Foreign country,Number,Portugal,2016,2307.0
+Foreign country,Number,Portugal,2017,2164.0
+Foreign country,Number,Portugal,2018,1968.0
+Foreign country,Number,Portugal,2019,1985.0
+Foreign country,Number,Portugal,2020,1769.0
+Foreign country,Number,Portugal,2021,1672.0
+Foreign country,Number,Portugal,2022,1914.0
+Foreign country,Number,Romania,2013,195.0
+Foreign country,Number,Romania,2014,253.0
+Foreign country,Number,Romania,2015,269.0
+Foreign country,Number,Romania,2016,302.0
+Foreign country,Number,Romania,2017,286.0
+Foreign country,Number,Romania,2018,253.0
+Foreign country,Number,Romania,2019,235.0
+Foreign country,Number,Romania,2020,226.0
+Foreign country,Number,Romania,2021,225.0
+Foreign country,Number,Romania,2022,248.0
+Foreign country,Number,Serbia,2013,352.0
+Foreign country,Number,Serbia,2014,302.0
+Foreign country,Number,Serbia,2015,353.0
+Foreign country,Number,Serbia,2016,358.0
+Foreign country,Number,Serbia,2017,350.0
+Foreign country,Number,Serbia,2018,317.0
+Foreign country,Number,Serbia,2019,348.0
+Foreign country,Number,Serbia,2020,386.0
+Foreign country,Number,Serbia,2021,423.0
+Foreign country,Number,Serbia,2022,394.0
+Foreign country,Number,Sweden,2013,1853.0
+Foreign country,Number,Sweden,2014,1324.0
+Foreign country,Number,Sweden,2015,1325.0
+Foreign country,Number,Sweden,2016,1274.0
+Foreign country,Number,Sweden,2017,1240.0
+Foreign country,Number,Sweden,2018,1319.0
+Foreign country,Number,Sweden,2019,1414.0
+Foreign country,Number,Sweden,2020,1466.0
+Foreign country,Number,Sweden,2021,1429.0
+Foreign country,Number,Sweden,2022,1486.0
+Foreign country,Number,Slovenia,2013,145.0
+Foreign country,Number,Slovenia,2014,150.0
+Foreign country,Number,Slovenia,2015,131.0
+Foreign country,Number,Slovenia,2016,118.0
+Foreign country,Number,Slovenia,2018,189.0
+Foreign country,Number,Slovenia,2019,281.0
+Foreign country,Number,Slovenia,2020,416.0
+Foreign country,Number,Slovenia,2021,359.0
+Foreign country,Number,Slovenia,2022,404.0
+Foreign country,Number,Slovakia,2013,188.0
+Foreign country,Number,Slovakia,2014,177.0
+Foreign country,Number,Slovakia,2015,181.0
+Foreign country,Number,Slovakia,2016,211.0
+Foreign country,Number,Slovakia,2017,219.0
+Foreign country,Number,Slovakia,2018,209.0
+Foreign country,Number,Slovakia,2019,256.0
+Foreign country,Number,Slovakia,2020,219.0
+Foreign country,Number,Slovakia,2021,261.0
+Foreign country,Number,Slovakia,2022,407.0
+Foreign country,Number,Türkiye,2013,2465.0
+Foreign country,Number,Türkiye,2014,2943.0
+Foreign country,Number,Türkiye,2015,3807.0
+Foreign country,Number,Türkiye,2016,4441.0
+Foreign country,Number,Türkiye,2017,6488.0
+Foreign country,Number,Türkiye,2018,8578.0
+Foreign country,Number,Türkiye,2019,10002.0
+Foreign country,Number,Türkiye,2020,10299.0
+Foreign country,Number,Türkiye,2021,12045.0
+Foreign country,Number,Türkiye,2022,15028.0
+Foreign country,Number,England and Wales,2013,8925.0
+Foreign country,Number,England and Wales,2014,9089.0
+Foreign country,Number,England and Wales,2015,8843.0
+Foreign country,Number,England and Wales,2016,8436.0
+Foreign country,Number,England and Wales,2017,8425.0
+Foreign country,Number,England and Wales,2018,8259.0
+Foreign country,Number,Scotland (NUTS 2021),2013,268.0
+Foreign country,Number,Scotland (NUTS 2021),2014,288.0
+Foreign country,Number,Scotland (NUTS 2021),2015,295.0
+Foreign country,Number,Northern Ireland (UK) (NUTS 2021),2013,144.0
+Foreign country,Number,Northern Ireland (UK) (NUTS 2021),2014,133.0
+Foreign country,Number,Northern Ireland (UK) (NUTS 2021),2015,122.0
+Foreign country,Number,Northern Ireland (UK) (NUTS 2021),2016,198.0
+Foreign country,Number,Northern Ireland (UK) (NUTS 2021),2017,125.0
+Foreign country,Number,Northern Ireland (UK) (NUTS 2021),2018,141.0
+Foreign country,Number,Kosovo*,2013,125.0
+Foreign country,Number,Kosovo*,2014,127.0
+Foreign country,Number,Kosovo*,2015,89.0
+Foreign country,Number,Kosovo*,2016,90.0
+Foreign country,Number,Kosovo*,2017,115.0
+Foreign country,Number,Kosovo*,2018,82.0
+Foreign country,Number,Kosovo*,2019,101.0
+Foreign country,Number,Kosovo*,2020,102.0
+Foreign country,Per hundred thousand inhabitants,Albania,2014,3.42
+Foreign country,Per hundred thousand inhabitants,Albania,2015,3.08
+Foreign country,Per hundred thousand inhabitants,Albania,2016,3.08
+Foreign country,Per hundred thousand inhabitants,Albania,2017,3.51
+Foreign country,Per hundred thousand inhabitants,Albania,2018,3.14
+Foreign country,Per hundred thousand inhabitants,Albania,2019,3.95
+Foreign country,Per hundred thousand inhabitants,Albania,2020,3.83
+Foreign country,Per hundred thousand inhabitants,Albania,2021,4.03
+Foreign country,Per hundred thousand inhabitants,Albania,2022,4.4
+Foreign country,Per hundred thousand inhabitants,Austria,2013,51.74
+Foreign country,Per hundred thousand inhabitants,Austria,2014,52.3
+Foreign country,Per hundred thousand inhabitants,Austria,2015,54.83
+Foreign country,Per hundred thousand inhabitants,Austria,2016,53.92
+Foreign country,Per hundred thousand inhabitants,Austria,2017,55.07
+Foreign country,Per hundred thousand inhabitants,Austria,2018,57.0
+Foreign country,Per hundred thousand inhabitants,Austria,2019,54.12
+Foreign country,Per hundred thousand inhabitants,Austria,2020,48.29
+Foreign country,Per hundred thousand inhabitants,Austria,2021,46.53
+Foreign country,Per hundred thousand inhabitants,Austria,2022,51.72
+Foreign country,Per hundred thousand inhabitants,Belgium,2013,47.22
+Foreign country,Per hundred thousand inhabitants,Belgium,2015,42.82
+Foreign country,Per hundred thousand inhabitants,Belgium,2017,40.76
+Foreign country,Per hundred thousand inhabitants,Belgium,2018,39.96
+Foreign country,Per hundred thousand inhabitants,Belgium,2019,41.65
+Foreign country,Per hundred thousand inhabitants,Belgium,2020,39.86
+Foreign country,Per hundred thousand inhabitants,Belgium,2021,40.73
+Foreign country,Per hundred thousand inhabitants,Belgium,2022,40.71
+Foreign country,Per hundred thousand inhabitants,Bulgaria,2013,3.47
+Foreign country,Per hundred thousand inhabitants,Bulgaria,2014,3.2
+Foreign country,Per hundred thousand inhabitants,Bulgaria,2015,3.36
+Foreign country,Per hundred thousand inhabitants,Bulgaria,2016,3.01
+Foreign country,Per hundred thousand inhabitants,Bulgaria,2017,2.62
+Foreign country,Per hundred thousand inhabitants,Bulgaria,2018,2.28
+Foreign country,Per hundred thousand inhabitants,Bulgaria,2019,1.96
+Foreign country,Per hundred thousand inhabitants,Bulgaria,2020,2.22
+Foreign country,Per hundred thousand inhabitants,Bulgaria,2021,2.3
+Foreign country,Per hundred thousand inhabitants,Bulgaria,2022,1.96
+Foreign country,Per hundred thousand inhabitants,Switzerland,2013,60.42
+Foreign country,Per hundred thousand inhabitants,Switzerland,2014,57.41
+Foreign country,Per hundred thousand inhabitants,Switzerland,2015,54.8
+Foreign country,Per hundred thousand inhabitants,Switzerland,2016,55.23
+Foreign country,Per hundred thousand inhabitants,Switzerland,2017,54.81
+Foreign country,Per hundred thousand inhabitants,Switzerland,2018,55.15
+Foreign country,Per hundred thousand inhabitants,Switzerland,2019,52.41
+Foreign country,Per hundred thousand inhabitants,Switzerland,2020,50.43
+Foreign country,Per hundred thousand inhabitants,Switzerland,2021,48.79
+Foreign country,Per hundred thousand inhabitants,Switzerland,2022,50.3
+Foreign country,Per hundred thousand inhabitants,Cyprus,2013,35.34
+Foreign country,Per hundred thousand inhabitants,Cyprus,2014,27.86
+Foreign country,Per hundred thousand inhabitants,Cyprus,2015,25.27
+Foreign country,Per hundred thousand inhabitants,Cyprus,2016,27.94
+Foreign country,Per hundred thousand inhabitants,Cyprus,2017,17.66
+Foreign country,Per hundred thousand inhabitants,Cyprus,2018,31.94
+Foreign country,Per hundred thousand inhabitants,Cyprus,2019,42.47
+Foreign country,Per hundred thousand inhabitants,Cyprus,2020,29.28
+Foreign country,Per hundred thousand inhabitants,Cyprus,2021,46.54
+Foreign country,Per hundred thousand inhabitants,Cyprus,2022,58.69
+Foreign country,Per hundred thousand inhabitants,Czechia,2013,14.48
+Foreign country,Per hundred thousand inhabitants,Czechia,2014,14.73
+Foreign country,Per hundred thousand inhabitants,Czechia,2015,15.85
+Foreign country,Per hundred thousand inhabitants,Czechia,2016,17.12
+Foreign country,Per hundred thousand inhabitants,Czechia,2017,17.15
+Foreign country,Per hundred thousand inhabitants,Czechia,2018,16.66
+Foreign country,Per hundred thousand inhabitants,Czechia,2019,16.85
+Foreign country,Per hundred thousand inhabitants,Czechia,2020,14.34
+Foreign country,Per hundred thousand inhabitants,Czechia,2021,13.04
+Foreign country,Per hundred thousand inhabitants,Czechia,2022,13.87
+Foreign country,Per hundred thousand inhabitants,Denmark,2013,19.6
+Foreign country,Per hundred thousand inhabitants,Denmark,2014,17.81
+Foreign country,Per hundred thousand inhabitants,Denmark,2015,15.28
+Foreign country,Per hundred thousand inhabitants,Denmark,2016,16.72
+Foreign country,Per hundred thousand inhabitants,Denmark,2017,16.84
+Foreign country,Per hundred thousand inhabitants,Denmark,2018,17.97
+Foreign country,Per hundred thousand inhabitants,Denmark,2019,19.58
+Foreign country,Per hundred thousand inhabitants,Denmark,2020,20.11
+Foreign country,Per hundred thousand inhabitants,Denmark,2021,18.39
+Foreign country,Per hundred thousand inhabitants,Denmark,2022,19.49
+Foreign country,Per hundred thousand inhabitants,Estonia,2013,90.29
+Foreign country,Per hundred thousand inhabitants,Estonia,2014,93.17
+Foreign country,Per hundred thousand inhabitants,Estonia,2015,83.35
+Foreign country,Per hundred thousand inhabitants,Estonia,2016,80.55
+Foreign country,Per hundred thousand inhabitants,Estonia,2017,75.7
+Foreign country,Per hundred thousand inhabitants,Estonia,2018,69.44
+Foreign country,Per hundred thousand inhabitants,Estonia,2019,63.18
+Foreign country,Per hundred thousand inhabitants,Estonia,2020,60.12
+Foreign country,Per hundred thousand inhabitants,Estonia,2021,54.51
+Foreign country,Per hundred thousand inhabitants,Estonia,2022,51.51
+Foreign country,Per hundred thousand inhabitants,Greece,2013,69.28
+Foreign country,Per hundred thousand inhabitants,Greece,2014,62.98
+Foreign country,Per hundred thousand inhabitants,Greece,2015,48.71
+Foreign country,Per hundred thousand inhabitants,Greece,2016,48.17
+Foreign country,Per hundred thousand inhabitants,Greece,2017,49.14
+Foreign country,Per hundred thousand inhabitants,Greece,2018,54.2
+Foreign country,Per hundred thousand inhabitants,Greece,2019,58.87
+Foreign country,Per hundred thousand inhabitants,Greece,2020,63.43
+Foreign country,Per hundred thousand inhabitants,Greece,2021,60.86
+Foreign country,Per hundred thousand inhabitants,Greece,2022,57.57
+Foreign country,Per hundred thousand inhabitants,Spain,2013,45.19
+Foreign country,Per hundred thousand inhabitants,Spain,2014,42.35
+Foreign country,Per hundred thousand inhabitants,Spain,2015,38.47
+Foreign country,Per hundred thousand inhabitants,Spain,2016,36.89
+Foreign country,Per hundred thousand inhabitants,Spain,2017,35.57
+Foreign country,Per hundred thousand inhabitants,Spain,2018,35.44
+Foreign country,Per hundred thousand inhabitants,Spain,2019,35.09
+Foreign country,Per hundred thousand inhabitants,Spain,2020,33.63
+Foreign country,Per hundred thousand inhabitants,Spain,2021,34.33
+Foreign country,Per hundred thousand inhabitants,Spain,2022,35.33
+Foreign country,Per hundred thousand inhabitants,Finland,2013,8.44
+Foreign country,Per hundred thousand inhabitants,Finland,2014,8.86
+Foreign country,Per hundred thousand inhabitants,Finland,2015,8.94
+Foreign country,Per hundred thousand inhabitants,Finland,2016,9.68
+Foreign country,Per hundred thousand inhabitants,Finland,2017,10.08
+Foreign country,Per hundred thousand inhabitants,Finland,2018,9.12
+Foreign country,Per hundred thousand inhabitants,Finland,2019,9.1
+Foreign country,Per hundred thousand inhabitants,Finland,2020,8.58
+Foreign country,Per hundred thousand inhabitants,Finland,2021,7.61
+Foreign country,Per hundred thousand inhabitants,Finland,2022,8.31
+Foreign country,Per hundred thousand inhabitants,France,2013,21.1
+Foreign country,Per hundred thousand inhabitants,France,2014,20.95
+Foreign country,Per hundred thousand inhabitants,France,2015,21.16
+Foreign country,Per hundred thousand inhabitants,France,2016,22.41
+Foreign country,Per hundred thousand inhabitants,France,2017,23.08
+Foreign country,Per hundred thousand inhabitants,France,2018,24.14
+Foreign country,Per hundred thousand inhabitants,France,2019,24.43
+Foreign country,Per hundred thousand inhabitants,France,2020,22.81
+Foreign country,Per hundred thousand inhabitants,France,2021,25.79
+Foreign country,Per hundred thousand inhabitants,France,2022,26.62
+Foreign country,Per hundred thousand inhabitants,Croatia,2013,6.45
+Foreign country,Per hundred thousand inhabitants,Croatia,2014,5.44
+Foreign country,Per hundred thousand inhabitants,Croatia,2015,4.66
+Foreign country,Per hundred thousand inhabitants,Croatia,2016,4.7
+Foreign country,Per hundred thousand inhabitants,Croatia,2017,5.42
+Foreign country,Per hundred thousand inhabitants,Croatia,2018,7.62
+Foreign country,Per hundred thousand inhabitants,Croatia,2019,11.8
+Foreign country,Per hundred thousand inhabitants,Croatia,2020,9.39
+Foreign country,Per hundred thousand inhabitants,Croatia,2021,11.57
+Foreign country,Per hundred thousand inhabitants,Croatia,2022,10.95
+Foreign country,Per hundred thousand inhabitants,Hungary,2013,6.59
+Foreign country,Per hundred thousand inhabitants,Hungary,2014,7.09
+Foreign country,Per hundred thousand inhabitants,Hungary,2015,9.19
+Foreign country,Per hundred thousand inhabitants,Hungary,2016,8.93
+Foreign country,Per hundred thousand inhabitants,Hungary,2017,8.79
+Foreign country,Per hundred thousand inhabitants,Hungary,2018,7.7
+Foreign country,Per hundred thousand inhabitants,Hungary,2019,8.24
+Foreign country,Per hundred thousand inhabitants,Hungary,2020,10.22
+Foreign country,Per hundred thousand inhabitants,Hungary,2021,19.31
+Foreign country,Per hundred thousand inhabitants,Hungary,2022,29.86
+Foreign country,Per hundred thousand inhabitants,Ireland,2013,9.15
+Foreign country,Per hundred thousand inhabitants,Ireland,2014,8.06
+Foreign country,Per hundred thousand inhabitants,Ireland,2015,7.39
+Foreign country,Per hundred thousand inhabitants,Ireland,2018,10.77
+Foreign country,Per hundred thousand inhabitants,Ireland,2019,12.54
+Foreign country,Per hundred thousand inhabitants,Ireland,2020,11.92
+Foreign country,Per hundred thousand inhabitants,Ireland,2021,11.49
+Foreign country,Per hundred thousand inhabitants,Ireland,2022,12.87
+Foreign country,Per hundred thousand inhabitants,Iceland,2013,7.77
+Foreign country,Per hundred thousand inhabitants,Iceland,2014,6.76
+Foreign country,Per hundred thousand inhabitants,Iceland,2015,8.81
+Foreign country,Per hundred thousand inhabitants,Iceland,2016,7.82
+Foreign country,Per hundred thousand inhabitants,Iceland,2017,9.16
+Foreign country,Per hundred thousand inhabitants,Iceland,2018,8.9
+Foreign country,Per hundred thousand inhabitants,Iceland,2019,8.96
+Foreign country,Per hundred thousand inhabitants,Iceland,2020,9.34
+Foreign country,Per hundred thousand inhabitants,Iceland,2021,8.68
+Foreign country,Per hundred thousand inhabitants,Iceland,2022,10.37
+Foreign country,Per hundred thousand inhabitants,Italy,2013,37.44
+Foreign country,Per hundred thousand inhabitants,Italy,2014,29.38
+Foreign country,Per hundred thousand inhabitants,Italy,2015,29.28
+Foreign country,Per hundred thousand inhabitants,Italy,2016,31.56
+Foreign country,Per hundred thousand inhabitants,Italy,2017,33.52
+Foreign country,Per hundred thousand inhabitants,Italy,2018,34.35
+Foreign country,Per hundred thousand inhabitants,Italy,2019,34.02
+Foreign country,Per hundred thousand inhabitants,Italy,2020,29.75
+Foreign country,Per hundred thousand inhabitants,Italy,2021,29.42
+Foreign country,Per hundred thousand inhabitants,Italy,2022,30.73
+Foreign country,Per hundred thousand inhabitants,Liechtenstein,2013,138.44
+Foreign country,Per hundred thousand inhabitants,Liechtenstein,2014,110.43
+Foreign country,Per hundred thousand inhabitants,Liechtenstein,2015,112.4
+Foreign country,Per hundred thousand inhabitants,Liechtenstein,2016,164.8
+Foreign country,Per hundred thousand inhabitants,Liechtenstein,2017,161.33
+Foreign country,Per hundred thousand inhabitants,Liechtenstein,2018,141.68
+Foreign country,Per hundred thousand inhabitants,Liechtenstein,2019,93.8
+Foreign country,Per hundred thousand inhabitants,Liechtenstein,2020,98.07
+Foreign country,Per hundred thousand inhabitants,Liechtenstein,2022,134.83
+Foreign country,Per hundred thousand inhabitants,Lithuania,2013,5.01
+Foreign country,Per hundred thousand inhabitants,Lithuania,2014,5.4
+Foreign country,Per hundred thousand inhabitants,Lithuania,2015,4.38
+Foreign country,Per hundred thousand inhabitants,Lithuania,2016,3.84
+Foreign country,Per hundred thousand inhabitants,Lithuania,2017,4.0
+Foreign country,Per hundred thousand inhabitants,Lithuania,2018,4.45
+Foreign country,Per hundred thousand inhabitants,Lithuania,2019,4.58
+Foreign country,Per hundred thousand inhabitants,Lithuania,2020,3.65
+Foreign country,Per hundred thousand inhabitants,Lithuania,2021,5.97
+Foreign country,Per hundred thousand inhabitants,Lithuania,2022,5.92
+Foreign country,Per hundred thousand inhabitants,Luxembourg,2013,84.54
+Foreign country,Per hundred thousand inhabitants,Luxembourg,2014,84.59
+Foreign country,Per hundred thousand inhabitants,Luxembourg,2015,91.66
+Foreign country,Per hundred thousand inhabitants,Luxembourg,2016,94.23
+Foreign country,Per hundred thousand inhabitants,Luxembourg,2017,83.46
+Foreign country,Per hundred thousand inhabitants,Luxembourg,2018,81.56
+Foreign country,Per hundred thousand inhabitants,Luxembourg,2019,71.51
+Foreign country,Per hundred thousand inhabitants,Luxembourg,2020,65.0
+Foreign country,Per hundred thousand inhabitants,Luxembourg,2021,70.42
+Foreign country,Per hundred thousand inhabitants,Luxembourg,2022,85.06
+Foreign country,Per hundred thousand inhabitants,Latvia,2013,3.36
+Foreign country,Per hundred thousand inhabitants,Latvia,2014,4.35
+Foreign country,Per hundred thousand inhabitants,Latvia,2015,5.34
+Foreign country,Per hundred thousand inhabitants,Latvia,2016,7.21
+Foreign country,Per hundred thousand inhabitants,Latvia,2017,4.82
+Foreign country,Per hundred thousand inhabitants,Latvia,2018,4.34
+Foreign country,Per hundred thousand inhabitants,Latvia,2019,3.39
+Foreign country,Per hundred thousand inhabitants,Latvia,2020,2.36
+Foreign country,Per hundred thousand inhabitants,Latvia,2021,3.06
+Foreign country,Per hundred thousand inhabitants,Latvia,2022,4.21
+Foreign country,Per hundred thousand inhabitants,Montenegro,2013,37.69
+Foreign country,Per hundred thousand inhabitants,Montenegro,2014,60.17
+Foreign country,Per hundred thousand inhabitants,Montenegro,2015,27.49
+Foreign country,Per hundred thousand inhabitants,Montenegro,2016,45.64
+Foreign country,Per hundred thousand inhabitants,Montenegro,2017,30.05
+Foreign country,Per hundred thousand inhabitants,Montenegro,2018,27.96
+Foreign country,Per hundred thousand inhabitants,Montenegro,2019,30.86
+Foreign country,Per hundred thousand inhabitants,Montenegro,2020,21.23
+Foreign country,Per hundred thousand inhabitants,Montenegro,2021,24.65
+Foreign country,Per hundred thousand inhabitants,Montenegro,2022,23.31
+Foreign country,Per hundred thousand inhabitants,North Macedonia,2016,14.63
+Foreign country,Per hundred thousand inhabitants,North Macedonia,2017,6.41
+Foreign country,Per hundred thousand inhabitants,Malta,2016,52.62
+Foreign country,Per hundred thousand inhabitants,Malta,2017,54.1
+Foreign country,Per hundred thousand inhabitants,Malta,2018,54.03
+Foreign country,Per hundred thousand inhabitants,Malta,2019,79.02
+Foreign country,Per hundred thousand inhabitants,Malta,2020,102.61
+Foreign country,Per hundred thousand inhabitants,Malta,2021,60.26
+Foreign country,Per hundred thousand inhabitants,Malta,2022,50.67
+Foreign country,Per hundred thousand inhabitants,Netherlands,2013,14.36
+Foreign country,Per hundred thousand inhabitants,Netherlands,2014,12.89
+Foreign country,Per hundred thousand inhabitants,Netherlands,2015,11.2
+Foreign country,Per hundred thousand inhabitants,Netherlands,2016,10.79
+Foreign country,Per hundred thousand inhabitants,Netherlands,2017,12.04
+Foreign country,Per hundred thousand inhabitants,Netherlands,2018,12.72
+Foreign country,Per hundred thousand inhabitants,Netherlands,2019,13.28
+Foreign country,Per hundred thousand inhabitants,Netherlands,2020,13.22
+Foreign country,Per hundred thousand inhabitants,Netherlands,2021,13.04
+Foreign country,Per hundred thousand inhabitants,Netherlands,2022,13.96
+Foreign country,Per hundred thousand inhabitants,Norway,2013,23.99
+Foreign country,Per hundred thousand inhabitants,Norway,2014,24.98
+Foreign country,Per hundred thousand inhabitants,Norway,2015,26.34
+Foreign country,Per hundred thousand inhabitants,Norway,2016,25.47
+Foreign country,Per hundred thousand inhabitants,Norway,2017,25.26
+Foreign country,Per hundred thousand inhabitants,Norway,2018,22.58
+Foreign country,Per hundred thousand inhabitants,Norway,2019,19.95
+Foreign country,Per hundred thousand inhabitants,Norway,2020,18.48
+Foreign country,Per hundred thousand inhabitants,Norway,2021,16.69
+Foreign country,Per hundred thousand inhabitants,Norway,2022,16.13
+Foreign country,Per hundred thousand inhabitants,Poland,2013,1.37
+Foreign country,Per hundred thousand inhabitants,Poland,2014,1.43
+Foreign country,Per hundred thousand inhabitants,Poland,2015,1.37
+Foreign country,Per hundred thousand inhabitants,Poland,2016,1.75
+Foreign country,Per hundred thousand inhabitants,Poland,2017,2.22
+Foreign country,Per hundred thousand inhabitants,Poland,2018,2.74
+Foreign country,Per hundred thousand inhabitants,Poland,2019,3.45
+Foreign country,Per hundred thousand inhabitants,Poland,2020,3.34
+Foreign country,Per hundred thousand inhabitants,Poland,2021,4.6
+Foreign country,Per hundred thousand inhabitants,Poland,2022,4.86
+Foreign country,Per hundred thousand inhabitants,Portugal,2013,25.24
+Foreign country,Per hundred thousand inhabitants,Portugal,2014,23.9
+Foreign country,Per hundred thousand inhabitants,Portugal,2015,24.12
+Foreign country,Per hundred thousand inhabitants,Portugal,2016,22.31
+Foreign country,Per hundred thousand inhabitants,Portugal,2017,20.99
+Foreign country,Per hundred thousand inhabitants,Portugal,2018,19.12
+Foreign country,Per hundred thousand inhabitants,Portugal,2019,19.32
+Foreign country,Per hundred thousand inhabitants,Portugal,2020,17.18
+Foreign country,Per hundred thousand inhabitants,Portugal,2021,16.24
+Foreign country,Per hundred thousand inhabitants,Portugal,2022,18.49
+Foreign country,Per hundred thousand inhabitants,Romania,2013,0.97
+Foreign country,Per hundred thousand inhabitants,Romania,2014,1.27
+Foreign country,Per hundred thousand inhabitants,Romania,2015,1.35
+Foreign country,Per hundred thousand inhabitants,Romania,2016,1.53
+Foreign country,Per hundred thousand inhabitants,Romania,2017,1.46
+Foreign country,Per hundred thousand inhabitants,Romania,2018,1.3
+Foreign country,Per hundred thousand inhabitants,Romania,2019,1.21
+Foreign country,Per hundred thousand inhabitants,Romania,2020,1.17
+Foreign country,Per hundred thousand inhabitants,Romania,2021,1.17
+Foreign country,Per hundred thousand inhabitants,Romania,2022,1.3
+Foreign country,Per hundred thousand inhabitants,Serbia,2013,4.9
+Foreign country,Per hundred thousand inhabitants,Serbia,2014,4.23
+Foreign country,Per hundred thousand inhabitants,Serbia,2015,4.96
+Foreign country,Per hundred thousand inhabitants,Serbia,2016,5.06
+Foreign country,Per hundred thousand inhabitants,Serbia,2017,4.97
+Foreign country,Per hundred thousand inhabitants,Serbia,2018,4.53
+Foreign country,Per hundred thousand inhabitants,Serbia,2019,5.0
+Foreign country,Per hundred thousand inhabitants,Serbia,2020,5.57
+Foreign country,Per hundred thousand inhabitants,Serbia,2021,6.16
+Foreign country,Per hundred thousand inhabitants,Serbia,2022,5.8
+Foreign country,Per hundred thousand inhabitants,Sweden,2013,19.39
+Foreign country,Per hundred thousand inhabitants,Sweden,2014,13.73
+Foreign country,Per hundred thousand inhabitants,Sweden,2015,13.59
+Foreign country,Per hundred thousand inhabitants,Sweden,2016,12.93
+Foreign country,Per hundred thousand inhabitants,Sweden,2017,12.41
+Foreign country,Per hundred thousand inhabitants,Sweden,2018,13.03
+Foreign country,Per hundred thousand inhabitants,Sweden,2019,13.82
+Foreign country,Per hundred thousand inhabitants,Sweden,2020,14.19
+Foreign country,Per hundred thousand inhabitants,Sweden,2021,13.77
+Foreign country,Per hundred thousand inhabitants,Sweden,2022,14.22
+Foreign country,Per hundred thousand inhabitants,Slovenia,2013,7.04
+Foreign country,Per hundred thousand inhabitants,Slovenia,2014,7.28
+Foreign country,Per hundred thousand inhabitants,Slovenia,2015,6.35
+Foreign country,Per hundred thousand inhabitants,Slovenia,2016,5.72
+Foreign country,Per hundred thousand inhabitants,Slovenia,2018,9.14
+Foreign country,Per hundred thousand inhabitants,Slovenia,2019,13.5
+Foreign country,Per hundred thousand inhabitants,Slovenia,2020,19.85
+Foreign country,Per hundred thousand inhabitants,Slovenia,2021,17.02
+Foreign country,Per hundred thousand inhabitants,Slovenia,2022,19.17
+Foreign country,Per hundred thousand inhabitants,Slovakia,2013,3.47
+Foreign country,Per hundred thousand inhabitants,Slovakia,2014,3.27
+Foreign country,Per hundred thousand inhabitants,Slovakia,2015,3.34
+Foreign country,Per hundred thousand inhabitants,Slovakia,2016,3.89
+Foreign country,Per hundred thousand inhabitants,Slovakia,2017,4.03
+Foreign country,Per hundred thousand inhabitants,Slovakia,2018,3.84
+Foreign country,Per hundred thousand inhabitants,Slovakia,2019,4.7
+Foreign country,Per hundred thousand inhabitants,Slovakia,2020,4.01
+Foreign country,Per hundred thousand inhabitants,Slovakia,2021,4.78
+Foreign country,Per hundred thousand inhabitants,Slovakia,2022,7.49
+Foreign country,Per hundred thousand inhabitants,Türkiye,2013,3.26
+Foreign country,Per hundred thousand inhabitants,Türkiye,2014,3.84
+Foreign country,Per hundred thousand inhabitants,Türkiye,2015,4.9
+Foreign country,Per hundred thousand inhabitants,Türkiye,2016,5.64
+Foreign country,Per hundred thousand inhabitants,Türkiye,2017,8.13
+Foreign country,Per hundred thousand inhabitants,Türkiye,2018,10.61
+Foreign country,Per hundred thousand inhabitants,Türkiye,2019,12.2
+Foreign country,Per hundred thousand inhabitants,Türkiye,2020,12.39
+Foreign country,Per hundred thousand inhabitants,Türkiye,2021,14.41
+Foreign country,Per hundred thousand inhabitants,Türkiye,2022,17.75
+Foreign country,Per hundred thousand inhabitants,England and Wales,2013,15.72
+Foreign country,Per hundred thousand inhabitants,England and Wales,2014,15.9
+Foreign country,Per hundred thousand inhabitants,England and Wales,2015,15.33
+Foreign country,Per hundred thousand inhabitants,England and Wales,2016,14.51
+Foreign country,Per hundred thousand inhabitants,England and Wales,2017,14.39
+Foreign country,Per hundred thousand inhabitants,England and Wales,2018,14.01
+Foreign country,Per hundred thousand inhabitants,Scotland (NUTS 2021),2013,5.04
+Foreign country,Per hundred thousand inhabitants,Scotland (NUTS 2021),2014,5.4
+Foreign country,Per hundred thousand inhabitants,Scotland (NUTS 2021),2015,5.51
+Foreign country,Per hundred thousand inhabitants,Northern Ireland (UK) (NUTS 2021),2013,7.88
+Foreign country,Per hundred thousand inhabitants,Northern Ireland (UK) (NUTS 2021),2014,7.24
+Foreign country,Per hundred thousand inhabitants,Northern Ireland (UK) (NUTS 2021),2015,6.6
+Foreign country,Per hundred thousand inhabitants,Northern Ireland (UK) (NUTS 2021),2016,10.65
+Foreign country,Per hundred thousand inhabitants,Northern Ireland (UK) (NUTS 2021),2017,6.7
+Foreign country,Per hundred thousand inhabitants,Northern Ireland (UK) (NUTS 2021),2018,7.52
+Foreign country,Per hundred thousand inhabitants,Kosovo*,2016,5.08
+Foreign country,Per hundred thousand inhabitants,Kosovo*,2017,6.45
+Foreign country,Per hundred thousand inhabitants,Kosovo*,2018,4.56
+Foreign country,Per hundred thousand inhabitants,Kosovo*,2019,5.62
+Foreign country,Per hundred thousand inhabitants,Kosovo*,2020,5.72
+Reporting country,Number,Albania,2013,4914.0
+Reporting country,Number,Albania,2014,5590.0
+Reporting country,Number,Albania,2015,5892.0
+Reporting country,Number,Albania,2016,5942.0
+Reporting country,Number,Albania,2017,5573.0
+Reporting country,Number,Albania,2018,5226.0
+Reporting country,Number,Albania,2019,4932.0
+Reporting country,Number,Albania,2020,4505.0
+Reporting country,Number,Albania,2021,4842.0
+Reporting country,Number,Albania,2022,4937.0
+Reporting country,Number,Austria,2013,4489.0
+Reporting country,Number,Austria,2014,4243.0
+Reporting country,Number,Austria,2015,3963.0
+Reporting country,Number,Austria,2016,3933.0
+Reporting country,Number,Austria,2017,4021.0
+Reporting country,Number,Austria,2018,4134.0
+Reporting country,Number,Austria,2019,4278.0
+Reporting country,Number,Austria,2020,4190.0
+Reporting country,Number,Austria,2021,4280.0
+Reporting country,Number,Austria,2022,4349.0
+Reporting country,Number,Bosnia and Herzegovina,2013,2844.0
+Reporting country,Number,Bosnia and Herzegovina,2014,2779.0
+Reporting country,Number,Bosnia and Herzegovina,2015,2673.0
+Reporting country,Number,Bosnia and Herzegovina,2016,2783.0
+Reporting country,Number,Bosnia and Herzegovina,2017,2788.0
+Reporting country,Number,Bosnia and Herzegovina,2018,4326.0
+Reporting country,Number,Bosnia and Herzegovina,2019,4404.0
+Reporting country,Number,Bosnia and Herzegovina,2020,3923.0
+Reporting country,Number,Bosnia and Herzegovina,2021,2842.0
+Reporting country,Number,Bosnia and Herzegovina,2022,2704.0
+Reporting country,Number,Belgium,2013,6531.0
+Reporting country,Number,Belgium,2015,6103.0
+Reporting country,Number,Belgium,2017,5844.0
+Reporting country,Number,Belgium,2018,5706.0
+Reporting country,Number,Belgium,2019,6023.0
+Reporting country,Number,Belgium,2020,5764.0
+Reporting country,Number,Belgium,2021,6063.0
+Reporting country,Number,Belgium,2022,6320.0
+Reporting country,Number,Bulgaria,2013,8581.0
+Reporting country,Number,Bulgaria,2014,7638.0
+Reporting country,Number,Bulgaria,2015,7166.0
+Reporting country,Number,Bulgaria,2016,7130.0
+Reporting country,Number,Bulgaria,2017,6802.0
+Reporting country,Number,Bulgaria,2018,6490.0
+Reporting country,Number,Bulgaria,2019,6311.0
+Reporting country,Number,Bulgaria,2020,6097.0
+Reporting country,Number,Bulgaria,2021,5714.0
+Reporting country,Number,Bulgaria,2022,5443.0
+Reporting country,Number,Switzerland,2013,1795.0
+Reporting country,Number,Switzerland,2014,1846.0
+Reporting country,Number,Switzerland,2015,1984.0
+Reporting country,Number,Switzerland,2016,1908.0
+Reporting country,Number,Switzerland,2017,1949.0
+Reporting country,Number,Switzerland,2018,1923.0
+Reporting country,Number,Switzerland,2019,2090.0
+Reporting country,Number,Switzerland,2020,1843.0
+Reporting country,Number,Switzerland,2021,1883.0
+Reporting country,Number,Switzerland,2022,1856.0
+Reporting country,Number,Cyprus,2013,247.0
+Reporting country,Number,Cyprus,2014,293.0
+Reporting country,Number,Cyprus,2015,333.0
+Reporting country,Number,Cyprus,2016,349.0
+Reporting country,Number,Cyprus,2017,441.0
+Reporting country,Number,Cyprus,2018,343.0
+Reporting country,Number,Cyprus,2019,387.0
+Reporting country,Number,Cyprus,2020,341.0
+Reporting country,Number,Cyprus,2021,378.0
+Reporting country,Number,Cyprus,2022,427.0
+Reporting country,Number,Czechia,2013,15122.0
+Reporting country,Number,Czechia,2014,17109.0
+Reporting country,Number,Czechia,2015,19196.0
+Reporting country,Number,Czechia,2016,20674.0
+Reporting country,Number,Czechia,2017,20345.0
+Reporting country,Number,Czechia,2018,19809.0
+Reporting country,Number,Czechia,2019,19254.0
+Reporting country,Number,Czechia,2020,17752.0
+Reporting country,Number,Czechia,2021,17352.0
+Reporting country,Number,Czechia,2022,17593.0
+Reporting country,Number,Denmark,2013,2993.0
+Reporting country,Number,Denmark,2014,2581.0
+Reporting country,Number,Denmark,2015,2338.0
+Reporting country,Number,Denmark,2016,2454.0
+Reporting country,Number,Denmark,2017,2450.0
+Reporting country,Number,Denmark,2018,2596.0
+Reporting country,Number,Denmark,2019,2783.0
+Reporting country,Number,Denmark,2020,2995.0
+Reporting country,Number,Denmark,2021,3148.0
+Reporting country,Number,Denmark,2022,3063.0
+Reporting country,Number,Estonia,2013,1931.0
+Reporting country,Number,Estonia,2014,1808.0
+Reporting country,Number,Estonia,2015,1727.0
+Reporting country,Number,Estonia,2016,1804.0
+Reporting country,Number,Estonia,2017,1727.0
+Reporting country,Number,Estonia,2018,1668.0
+Reporting country,Number,Estonia,2019,1650.0
+Reporting country,Number,Estonia,2020,1567.0
+Reporting country,Number,Estonia,2021,1464.0
+Reporting country,Number,Estonia,2022,1387.0
+Reporting country,Number,Greece,2013,5070.0
+Reporting country,Number,Greece,2014,4916.0
+Reporting country,Number,Greece,2015,4322.0
+Reporting country,Number,Greece,2016,4365.0
+Reporting country,Number,Greece,2017,4720.0
+Reporting country,Number,Greece,2018,4832.0
+Reporting country,Number,Greece,2019,4577.0
+Reporting country,Number,Greece,2020,4580.0
+Reporting country,Number,Greece,2021,4531.0
+Reporting country,Number,Greece,2022,4504.0
+Reporting country,Number,Spain,2013,45649.0
+Reporting country,Number,Spain,2014,45320.0
+Reporting country,Number,Spain,2015,43744.0
+Reporting country,Number,Spain,2016,42459.0
+Reporting country,Number,Spain,2017,42265.0
+Reporting country,Number,Spain,2018,42347.0
+Reporting country,Number,Spain,2019,42047.0
+Reporting country,Number,Spain,2020,39262.0
+Reporting country,Number,Spain,2021,38825.0
+Reporting country,Number,Spain,2022,38993.0
+Reporting country,Number,Finland,2013,2837.0
+Reporting country,Number,Finland,2014,2665.0
+Reporting country,Number,Finland,2015,2646.0
+Reporting country,Number,Finland,2016,2625.0
+Reporting country,Number,Finland,2017,2527.0
+Reporting country,Number,Finland,2018,2453.0
+Reporting country,Number,Finland,2019,2443.0
+Reporting country,Number,Finland,2020,2277.0
+Reporting country,Number,Finland,2021,2390.0
+Reporting country,Number,Finland,2022,2400.0
+Reporting country,Number,France,2013,53232.0
+Reporting country,Number,France,2014,52456.0
+Reporting country,Number,France,2015,52586.0
+Reporting country,Number,France,2016,53468.0
+Reporting country,Number,France,2017,53556.0
+Reporting country,Number,France,2018,53908.0
+Reporting country,Number,France,2019,54325.0
+Reporting country,Number,France,2020,47186.0
+Reporting country,Number,France,2021,52001.0
+Reporting country,Number,France,2022,54105.0
+Reporting country,Number,Croatia,2014,3532.0
+Reporting country,Number,Croatia,2015,3144.0
+Reporting country,Number,Croatia,2016,2880.0
+Reporting country,Number,Croatia,2017,2912.0
+Reporting country,Number,Croatia,2018,2904.0
+Reporting country,Number,Croatia,2019,3052.0
+Reporting country,Number,Croatia,2020,3150.0
+Reporting country,Number,Croatia,2021,3438.0
+Reporting country,Number,Croatia,2022,3668.0
+Reporting country,Number,Hungary,2013,17188.0
+Reporting country,Number,Hungary,2014,17190.0
+Reporting country,Number,Hungary,2015,16543.0
+Reporting country,Number,Hungary,2016,16780.0
+Reporting country,Number,Hungary,2017,16482.0
+Reporting country,Number,Hungary,2018,15550.0
+Reporting country,Number,Hungary,2019,15529.0
+Reporting country,Number,Hungary,2020,15754.0
+Reporting country,Number,Hungary,2021,16744.0
+Reporting country,Number,Hungary,2022,16454.0
+Reporting country,Number,Ireland,2013,3054.0
+Reporting country,Number,Ireland,2014,2833.0
+Reporting country,Number,Ireland,2015,3413.0
+Reporting country,Number,Ireland,2018,3442.0
+Reporting country,Number,Ireland,2019,3402.0
+Reporting country,Number,Ireland,2020,3218.0
+Reporting country,Number,Ireland,2021,3231.0
+Reporting country,Number,Ireland,2022,3718.0
+Reporting country,Number,Iceland,2013,122.0
+Reporting country,Number,Iceland,2014,132.0
+Reporting country,Number,Iceland,2015,110.0
+Reporting country,Number,Iceland,2016,90.0
+Reporting country,Number,Iceland,2017,106.0
+Reporting country,Number,Iceland,2018,105.0
+Reporting country,Number,Iceland,2019,126.0
+Reporting country,Number,Iceland,2020,107.0
+Reporting country,Number,Iceland,2021,110.0
+Reporting country,Number,Iceland,2022,99.0
+Reporting country,Number,Italy,2013,41504.0
+Reporting country,Number,Italy,2014,36889.0
+Reporting country,Number,Italy,2015,35611.0
+Reporting country,Number,Italy,2016,36829.0
+Reporting country,Number,Italy,2017,38731.0
+Reporting country,Number,Italy,2018,40357.0
+Reporting country,Number,Italy,2019,41880.0
+Reporting country,Number,Italy,2020,36864.0
+Reporting country,Number,Italy,2021,37920.0
+Reporting country,Number,Italy,2022,39317.0
+Reporting country,Number,Liechtenstein,2013,17.0
+Reporting country,Number,Liechtenstein,2014,12.0
+Reporting country,Number,Liechtenstein,2015,11.0
+Reporting country,Number,Liechtenstein,2016,10.0
+Reporting country,Number,Liechtenstein,2017,12.0
+Reporting country,Number,Liechtenstein,2018,9.0
+Reporting country,Number,Liechtenstein,2019,7.0
+Reporting country,Number,Liechtenstein,2020,19.0
+Reporting country,Number,Liechtenstein,2022,5.0
+Reporting country,Number,Lithuania,2013,9112.0
+Reporting country,Number,Lithuania,2014,8477.0
+Reporting country,Number,Lithuania,2015,7227.0
+Reporting country,Number,Lithuania,2016,6704.0
+Reporting country,Number,Lithuania,2017,6485.0
+Reporting country,Number,Lithuania,2018,6360.0
+Reporting country,Number,Lithuania,2019,6010.0
+Reporting country,Number,Lithuania,2020,5218.0
+Reporting country,Number,Lithuania,2021,4919.0
+Reporting country,Number,Lithuania,2022,4807.0
+Reporting country,Number,Luxembourg,2013,202.0
+Reporting country,Number,Luxembourg,2014,161.0
+Reporting country,Number,Luxembourg,2015,175.0
+Reporting country,Number,Luxembourg,2016,181.0
+Reporting country,Number,Luxembourg,2017,191.0
+Reporting country,Number,Luxembourg,2018,165.0
+Reporting country,Number,Luxembourg,2019,155.0
+Reporting country,Number,Luxembourg,2020,150.0
+Reporting country,Number,Luxembourg,2021,170.0
+Reporting country,Number,Luxembourg,2022,156.0
+Reporting country,Number,Latvia,2013,5068.0
+Reporting country,Number,Latvia,2014,4658.0
+Reporting country,Number,Latvia,2015,4303.0
+Reporting country,Number,Latvia,2016,4101.0
+Reporting country,Number,Latvia,2017,3671.0
+Reporting country,Number,Latvia,2018,3438.0
+Reporting country,Number,Latvia,2019,3349.0
+Reporting country,Number,Latvia,2020,3059.0
+Reporting country,Number,Latvia,2021,3125.0
+Reporting country,Number,Latvia,2022,3150.0
+Reporting country,Number,Montenegro,2013,830.0
+Reporting country,Number,Montenegro,2014,749.0
+Reporting country,Number,Montenegro,2015,960.0
+Reporting country,Number,Montenegro,2016,839.0
+Reporting country,Number,Montenegro,2017,932.0
+Reporting country,Number,Montenegro,2018,951.0
+Reporting country,Number,Montenegro,2019,898.0
+Reporting country,Number,Montenegro,2020,678.0
+Reporting country,Number,Montenegro,2021,767.0
+Reporting country,Number,Montenegro,2022,882.0
+Reporting country,Number,North Macedonia,2016,2928.0
+Reporting country,Number,North Macedonia,2017,2898.0
+Reporting country,Number,Malta,2015,6.0
+Reporting country,Number,Malta,2016,316.0
+Reporting country,Number,Malta,2017,342.0
+Reporting country,Number,Malta,2018,378.0
+Reporting country,Number,Malta,2019,364.0
+Reporting country,Number,Malta,2020,336.0
+Reporting country,Number,Malta,2021,303.0
+Reporting country,Number,Malta,2022,295.0
+Reporting country,Number,Netherlands,2013,10312.0
+Reporting country,Number,Netherlands,2014,9764.0
+Reporting country,Number,Netherlands,2015,8957.0
+Reporting country,Number,Netherlands,2016,8769.0
+Reporting country,Number,Netherlands,2017,8817.0
+Reporting country,Number,Netherlands,2018,9066.0
+Reporting country,Number,Netherlands,2019,9398.0
+Reporting country,Number,Netherlands,2020,8723.0
+Reporting country,Number,Netherlands,2021,9030.0
+Reporting country,Number,Netherlands,2022,8782.0
+Reporting country,Number,Norway,2013,2624.0
+Reporting country,Number,Norway,2014,2772.0
+Reporting country,Number,Norway,2015,2632.0
+Reporting country,Number,Norway,2016,2791.0
+Reporting country,Number,Norway,2017,2771.0
+Reporting country,Number,Norway,2018,2531.0
+Reporting country,Number,Norway,2019,2452.0
+Reporting country,Number,Norway,2020,2526.0
+Reporting country,Number,Norway,2021,2735.0
+Reporting country,Number,Norway,2022,2796.0
+Reporting country,Number,Poland,2013,79644.0
+Reporting country,Number,Poland,2014,78802.0
+Reporting country,Number,Poland,2015,72174.0
+Reporting country,Number,Poland,2016,71544.0
+Reporting country,Number,Poland,2017,73636.0
+Reporting country,Number,Poland,2018,71777.0
+Reporting country,Number,Poland,2019,73302.0
+Reporting country,Number,Poland,2020,67086.0
+Reporting country,Number,Poland,2021,70528.0
+Reporting country,Number,Poland,2022,69894.0
+Reporting country,Number,Portugal,2013,11637.0
+Reporting country,Number,Portugal,2014,11706.0
+Reporting country,Number,Portugal,2015,11871.0
+Reporting country,Number,Portugal,2016,11610.0
+Reporting country,Number,Portugal,2017,11423.0
+Reporting country,Number,Portugal,2018,11053.0
+Reporting country,Number,Portugal,2019,10962.0
+Reporting country,Number,Portugal,2020,9733.0
+Reporting country,Number,Portugal,2021,10032.0
+Reporting country,Number,Portugal,2022,10588.0
+Reporting country,Number,Romania,2013,33239.0
+Reporting country,Number,Romania,2014,29903.0
+Reporting country,Number,Romania,2015,28065.0
+Reporting country,Number,Romania,2016,27153.0
+Reporting country,Number,Romania,2017,23164.0
+Reporting country,Number,Romania,2018,20539.0
+Reporting country,Number,Romania,2019,20343.0
+Reporting country,Number,Romania,2020,21527.0
+Reporting country,Number,Romania,2021,22764.0
+Reporting country,Number,Romania,2022,22834.0
+Reporting country,Number,Serbia,2013,9679.0
+Reporting country,Number,Serbia,2014,9986.0
+Reporting country,Number,Serbia,2015,9711.0
+Reporting country,Number,Serbia,2016,10314.0
+Reporting country,Number,Serbia,2017,10457.0
+Reporting country,Number,Serbia,2018,10554.0
+Reporting country,Number,Serbia,2019,10729.0
+Reporting country,Number,Serbia,2020,10154.0
+Reporting country,Number,Serbia,2021,10134.0
+Reporting country,Number,Serbia,2022,10393.0
+Reporting country,Number,Sweden,2013,3870.0
+Reporting country,Number,Sweden,2014,2995.0
+Reporting country,Number,Sweden,2015,2967.0
+Reporting country,Number,Sweden,2016,2957.0
+Reporting country,Number,Sweden,2017,2908.0
+Reporting country,Number,Sweden,2018,3074.0
+Reporting country,Number,Sweden,2019,3420.0
+Reporting country,Number,Sweden,2020,3810.0
+Reporting country,Number,Sweden,2021,4258.0
+Reporting country,Number,Sweden,2022,4660.0
+Reporting country,Number,Slovenia,2013,1215.0
+Reporting country,Number,Slovenia,2014,1372.0
+Reporting country,Number,Slovenia,2015,1268.0
+Reporting country,Number,Slovenia,2016,1190.0
+Reporting country,Number,Slovenia,2018,1157.0
+Reporting country,Number,Slovenia,2019,1115.0
+Reporting country,Number,Slovenia,2020,1033.0
+Reporting country,Number,Slovenia,2021,777.0
+Reporting country,Number,Slovenia,2022,976.0
+Reporting country,Number,Slovakia,2013,9565.0
+Reporting country,Number,Slovakia,2014,9843.0
+Reporting country,Number,Slovakia,2015,9732.0
+Reporting country,Number,Slovakia,2016,9784.0
+Reporting country,Number,Slovakia,2017,9809.0
+Reporting country,Number,Slovakia,2018,10085.0
+Reporting country,Number,Slovakia,2019,10299.0
+Reporting country,Number,Slovakia,2020,10300.0
+Reporting country,Number,Slovakia,2021,9843.0
+Reporting country,Number,Slovakia,2022,9532.0
+Reporting country,Number,Türkiye,2013,145003.0
+Reporting country,Number,Türkiye,2014,156454.0
+Reporting country,Number,Türkiye,2015,174450.0
+Reporting country,Number,Türkiye,2016,196286.0
+Reporting country,Number,Türkiye,2017,226927.0
+Reporting country,Number,Türkiye,2018,256264.0
+Reporting country,Number,Türkiye,2019,281544.0
+Reporting country,Number,Türkiye,2020,257548.0
+Reporting country,Number,Türkiye,2021,285780.0
+Reporting country,Number,Türkiye,2022,326266.0
+Reporting country,Number,England and Wales,2013,72126.0
+Reporting country,Number,England and Wales,2014,73960.0
+Reporting country,Number,England and Wales,2015,75120.0
+Reporting country,Number,England and Wales,2016,74945.0
+Reporting country,Number,England and Wales,2017,75715.0
+Reporting country,Number,England and Wales,2018,73365.0
+Reporting country,Number,Scotland (NUTS 2021),2013,7626.0
+Reporting country,Number,Scotland (NUTS 2021),2014,7591.0
+Reporting country,Number,Scotland (NUTS 2021),2015,7449.0
+Reporting country,Number,Northern Ireland (UK) (NUTS 2021),2013,1652.0
+Reporting country,Number,Northern Ireland (UK) (NUTS 2021),2014,1576.0
+Reporting country,Number,Northern Ireland (UK) (NUTS 2021),2015,1325.0
+Reporting country,Number,Northern Ireland (UK) (NUTS 2021),2016,1290.0
+Reporting country,Number,Northern Ireland (UK) (NUTS 2021),2017,1286.0
+Reporting country,Number,Northern Ireland (UK) (NUTS 2021),2018,1266.0
+Reporting country,Number,Kosovo*,2013,1651.0
+Reporting country,Number,Kosovo*,2014,1727.0
+Reporting country,Number,Kosovo*,2015,1389.0
+Reporting country,Number,Kosovo*,2016,1558.0
+Reporting country,Number,Kosovo*,2017,1494.0
+Reporting country,Number,Kosovo*,2018,1485.0
+Reporting country,Number,Kosovo*,2019,1705.0
+Reporting country,Number,Kosovo*,2020,1294.0
+Reporting country,Per hundred thousand inhabitants,Albania,2014,193.03
+Reporting country,Per hundred thousand inhabitants,Albania,2015,203.71
+Reporting country,Per hundred thousand inhabitants,Albania,2016,205.89
+Reporting country,Per hundred thousand inhabitants,Albania,2017,193.74
+Reporting country,Per hundred thousand inhabitants,Albania,2018,182.07
+Reporting country,Per hundred thousand inhabitants,Albania,2019,172.3
+Reporting country,Per hundred thousand inhabitants,Albania,2020,158.29
+Reporting country,Per hundred thousand inhabitants,Albania,2021,171.11
+Reporting country,Per hundred thousand inhabitants,Albania,2022,176.73
+Reporting country,Per hundred thousand inhabitants,Austria,2013,53.11
+Reporting country,Per hundred thousand inhabitants,Austria,2014,49.88
+Reporting country,Per hundred thousand inhabitants,Austria,2015,46.21
+Reporting country,Per hundred thousand inhabitants,Austria,2016,45.26
+Reporting country,Per hundred thousand inhabitants,Austria,2017,45.83
+Reporting country,Per hundred thousand inhabitants,Austria,2018,46.86
+Reporting country,Per hundred thousand inhabitants,Austria,2019,48.29
+Reporting country,Per hundred thousand inhabitants,Austria,2020,47.07
+Reporting country,Per hundred thousand inhabitants,Austria,2021,47.91
+Reporting country,Per hundred thousand inhabitants,Austria,2022,48.44
+Reporting country,Per hundred thousand inhabitants,Belgium,2013,58.51
+Reporting country,Per hundred thousand inhabitants,Belgium,2015,54.31
+Reporting country,Per hundred thousand inhabitants,Belgium,2017,51.48
+Reporting country,Per hundred thousand inhabitants,Belgium,2018,50.06
+Reporting country,Per hundred thousand inhabitants,Belgium,2019,52.58
+Reporting country,Per hundred thousand inhabitants,Belgium,2020,50.02
+Reporting country,Per hundred thousand inhabitants,Belgium,2021,52.47
+Reporting country,Per hundred thousand inhabitants,Belgium,2022,54.4
+Reporting country,Per hundred thousand inhabitants,Bulgaria,2013,117.8
+Reporting country,Per hundred thousand inhabitants,Bulgaria,2014,105.41
+Reporting country,Per hundred thousand inhabitants,Bulgaria,2015,99.5
+Reporting country,Per hundred thousand inhabitants,Bulgaria,2016,99.67
+Reporting country,Per hundred thousand inhabitants,Bulgaria,2017,95.78
+Reporting country,Per hundred thousand inhabitants,Bulgaria,2018,92.06
+Reporting country,Per hundred thousand inhabitants,Bulgaria,2019,90.16
+Reporting country,Per hundred thousand inhabitants,Bulgaria,2020,87.71
+Reporting country,Per hundred thousand inhabitants,Bulgaria,2021,82.61
+Reporting country,Per hundred thousand inhabitants,Bulgaria,2022,79.59
+Reporting country,Per hundred thousand inhabitants,Switzerland,2013,22.33
+Reporting country,Per hundred thousand inhabitants,Switzerland,2014,22.68
+Reporting country,Per hundred thousand inhabitants,Switzerland,2015,24.08
+Reporting country,Per hundred thousand inhabitants,Switzerland,2016,22.91
+Reporting country,Per hundred thousand inhabitants,Switzerland,2017,23.15
+Reporting country,Per hundred thousand inhabitants,Switzerland,2018,22.67
+Reporting country,Per hundred thousand inhabitants,Switzerland,2019,24.46
+Reporting country,Per hundred thousand inhabitants,Switzerland,2020,21.42
+Reporting country,Per hundred thousand inhabitants,Switzerland,2021,21.72
+Reporting country,Per hundred thousand inhabitants,Switzerland,2022,21.24
+Reporting country,Per hundred thousand inhabitants,Cyprus,2013,28.53
+Reporting country,Per hundred thousand inhabitants,Cyprus,2014,34.15
+Reporting country,Per hundred thousand inhabitants,Cyprus,2015,39.31
+Reporting country,Per hundred thousand inhabitants,Cyprus,2016,41.14
+Reporting country,Per hundred thousand inhabitants,Cyprus,2017,51.59
+Reporting country,Per hundred thousand inhabitants,Cyprus,2018,39.69
+Reporting country,Per hundred thousand inhabitants,Cyprus,2019,44.18
+Reporting country,Per hundred thousand inhabitants,Cyprus,2020,38.4
+Reporting country,Per hundred thousand inhabitants,Cyprus,2021,42.19
+Reporting country,Per hundred thousand inhabitants,Cyprus,2022,47.2
+Reporting country,Per hundred thousand inhabitants,Czechia,2013,143.8
+Reporting country,Per hundred thousand inhabitants,Czechia,2014,162.75
+Reporting country,Per hundred thousand inhabitants,Czechia,2015,182.16
+Reporting country,Per hundred thousand inhabitants,Czechia,2016,195.89
+Reporting country,Per hundred thousand inhabitants,Czechia,2017,192.32
+Reporting country,Per hundred thousand inhabitants,Czechia,2018,186.7
+Reporting country,Per hundred thousand inhabitants,Czechia,2019,180.79
+Reporting country,Per hundred thousand inhabitants,Czechia,2020,166.0
+Reporting country,Per hundred thousand inhabitants,Czechia,2021,162.14
+Reporting country,Per hundred thousand inhabitants,Czechia,2022,167.29
+Reporting country,Per hundred thousand inhabitants,Denmark,2013,53.42
+Reporting country,Per hundred thousand inhabitants,Denmark,2014,45.87
+Reporting country,Per hundred thousand inhabitants,Denmark,2015,41.31
+Reporting country,Per hundred thousand inhabitants,Denmark,2016,43.0
+Reporting country,Per hundred thousand inhabitants,Denmark,2017,42.62
+Reporting country,Per hundred thousand inhabitants,Denmark,2018,44.9
+Reporting country,Per hundred thousand inhabitants,Denmark,2019,47.93
+Reporting country,Per hundred thousand inhabitants,Denmark,2020,51.44
+Reporting country,Per hundred thousand inhabitants,Denmark,2021,53.9
+Reporting country,Per hundred thousand inhabitants,Denmark,2022,52.15
+Reporting country,Per hundred thousand inhabitants,Estonia,2013,146.27
+Reporting country,Per hundred thousand inhabitants,Estonia,2014,137.4
+Reporting country,Per hundred thousand inhabitants,Estonia,2015,131.34
+Reporting country,Per hundred thousand inhabitants,Estonia,2016,137.09
+Reporting country,Per hundred thousand inhabitants,Estonia,2017,131.27
+Reporting country,Per hundred thousand inhabitants,Estonia,2018,126.45
+Reporting country,Per hundred thousand inhabitants,Estonia,2019,124.55
+Reporting country,Per hundred thousand inhabitants,Estonia,2020,117.91
+Reporting country,Per hundred thousand inhabitants,Estonia,2021,110.07
+Reporting country,Per hundred thousand inhabitants,Estonia,2022,104.15
+Reporting country,Per hundred thousand inhabitants,Greece,2013,46.08
+Reporting country,Per hundred thousand inhabitants,Greece,2014,44.99
+Reporting country,Per hundred thousand inhabitants,Greece,2015,39.8
+Reporting country,Per hundred thousand inhabitants,Greece,2016,40.48
+Reporting country,Per hundred thousand inhabitants,Greece,2017,43.83
+Reporting country,Per hundred thousand inhabitants,Greece,2018,44.99
+Reporting country,Per hundred thousand inhabitants,Greece,2019,42.68
+Reporting country,Per hundred thousand inhabitants,Greece,2020,42.73
+Reporting country,Per hundred thousand inhabitants,Greece,2021,42.43
+Reporting country,Per hundred thousand inhabitants,Greece,2022,43.06
+Reporting country,Per hundred thousand inhabitants,Spain,2013,97.69
+Reporting country,Per hundred thousand inhabitants,Spain,2014,97.44
+Reporting country,Per hundred thousand inhabitants,Spain,2015,94.18
+Reporting country,Per hundred thousand inhabitants,Spain,2016,91.43
+Reporting country,Per hundred thousand inhabitants,Spain,2017,90.84
+Reporting country,Per hundred thousand inhabitants,Spain,2018,90.76
+Reporting country,Per hundred thousand inhabitants,Spain,2019,89.58
+Reporting country,Per hundred thousand inhabitants,Spain,2020,82.95
+Reporting country,Per hundred thousand inhabitants,Spain,2021,81.91
+Reporting country,Per hundred thousand inhabitants,Spain,2022,82.21
+Reporting country,Per hundred thousand inhabitants,Finland,2013,52.28
+Reporting country,Per hundred thousand inhabitants,Finland,2014,48.89
+Reporting country,Per hundred thousand inhabitants,Finland,2015,48.36
+Reporting country,Per hundred thousand inhabitants,Finland,2016,47.84
+Reporting country,Per hundred thousand inhabitants,Finland,2017,45.92
+Reporting country,Per hundred thousand inhabitants,Finland,2018,44.49
+Reporting country,Per hundred thousand inhabitants,Finland,2019,44.27
+Reporting country,Per hundred thousand inhabitants,Finland,2020,41.21
+Reporting country,Per hundred thousand inhabitants,Finland,2021,43.19
+Reporting country,Per hundred thousand inhabitants,Finland,2022,43.26
+Reporting country,Per hundred thousand inhabitants,France,2013,81.15
+Reporting country,Per hundred thousand inhabitants,France,2014,79.55
+Reporting country,Per hundred thousand inhabitants,France,2015,79.09
+Reporting country,Per hundred thousand inhabitants,France,2016,80.09
+Reporting country,Per hundred thousand inhabitants,France,2017,80.17
+Reporting country,Per hundred thousand inhabitants,France,2018,80.56
+Reporting country,Per hundred thousand inhabitants,France,2019,80.87
+Reporting country,Per hundred thousand inhabitants,France,2020,70.09
+Reporting country,Per hundred thousand inhabitants,France,2021,76.86
+Reporting country,Per hundred thousand inhabitants,France,2022,79.72
+Reporting country,Per hundred thousand inhabitants,Croatia,2014,83.17
+Reporting country,Per hundred thousand inhabitants,Croatia,2015,74.41
+Reporting country,Per hundred thousand inhabitants,Croatia,2016,68.72
+Reporting country,Per hundred thousand inhabitants,Croatia,2017,70.1
+Reporting country,Per hundred thousand inhabitants,Croatia,2018,70.73
+Reporting country,Per hundred thousand inhabitants,Croatia,2019,74.87
+Reporting country,Per hundred thousand inhabitants,Croatia,2020,77.62
+Reporting country,Per hundred thousand inhabitants,Croatia,2021,85.18
+Reporting country,Per hundred thousand inhabitants,Croatia,2022,94.97
+Reporting country,Per hundred thousand inhabitants,Hungary,2013,173.46
+Reporting country,Per hundred thousand inhabitants,Hungary,2014,174.03
+Reporting country,Per hundred thousand inhabitants,Hungary,2015,167.85
+Reporting country,Per hundred thousand inhabitants,Hungary,2016,170.69
+Reporting country,Per hundred thousand inhabitants,Hungary,2017,168.23
+Reporting country,Per hundred thousand inhabitants,Hungary,2018,159.02
+Reporting country,Per hundred thousand inhabitants,Hungary,2019,158.9
+Reporting country,Per hundred thousand inhabitants,Hungary,2020,161.26
+Reporting country,Per hundred thousand inhabitants,Hungary,2021,172.07
+Reporting country,Per hundred thousand inhabitants,Hungary,2022,169.82
+Reporting country,Per hundred thousand inhabitants,Ireland,2013,66.52
+Reporting country,Per hundred thousand inhabitants,Ireland,2014,61.51
+Reporting country,Per hundred thousand inhabitants,Ireland,2015,73.73
+Reporting country,Per hundred thousand inhabitants,Ireland,2018,71.26
+Reporting country,Per hundred thousand inhabitants,Ireland,2019,69.37
+Reporting country,Per hundred thousand inhabitants,Ireland,2020,64.82
+Reporting country,Per hundred thousand inhabitants,Ireland,2021,64.54
+Reporting country,Per hundred thousand inhabitants,Ireland,2022,73.48
+Reporting country,Per hundred thousand inhabitants,Iceland,2013,37.91
+Reporting country,Per hundred thousand inhabitants,Iceland,2014,40.53
+Reporting country,Per hundred thousand inhabitants,Iceland,2015,33.42
+Reporting country,Per hundred thousand inhabitants,Iceland,2016,27.07
+Reporting country,Per hundred thousand inhabitants,Iceland,2017,31.33
+Reporting country,Per hundred thousand inhabitants,Iceland,2018,30.13
+Reporting country,Per hundred thousand inhabitants,Iceland,2019,35.3
+Reporting country,Per hundred thousand inhabitants,Iceland,2020,29.38
+Reporting country,Per hundred thousand inhabitants,Iceland,2021,29.83
+Reporting country,Per hundred thousand inhabitants,Iceland,2022,26.31
+Reporting country,Per hundred thousand inhabitants,Italy,2013,69.54
+Reporting country,Per hundred thousand inhabitants,Italy,2014,60.69
+Reporting country,Per hundred thousand inhabitants,Italy,2015,58.57
+Reporting country,Per hundred thousand inhabitants,Italy,2016,60.71
+Reporting country,Per hundred thousand inhabitants,Italy,2017,63.92
+Reporting country,Per hundred thousand inhabitants,Italy,2018,66.72
+Reporting country,Per hundred thousand inhabitants,Italy,2019,70.01
+Reporting country,Per hundred thousand inhabitants,Italy,2020,61.81
+Reporting country,Per hundred thousand inhabitants,Italy,2021,64.01
+Reporting country,Per hundred thousand inhabitants,Italy,2022,66.6
+Reporting country,Per hundred thousand inhabitants,Liechtenstein,2013,46.15
+Reporting country,Per hundred thousand inhabitants,Liechtenstein,2014,32.32
+Reporting country,Per hundred thousand inhabitants,Liechtenstein,2015,29.44
+Reporting country,Per hundred thousand inhabitants,Liechtenstein,2016,26.58
+Reporting country,Per hundred thousand inhabitants,Liechtenstein,2017,31.74
+Reporting country,Per hundred thousand inhabitants,Liechtenstein,2018,23.61
+Reporting country,Per hundred thousand inhabitants,Liechtenstein,2019,18.24
+Reporting country,Per hundred thousand inhabitants,Liechtenstein,2020,49.04
+Reporting country,Per hundred thousand inhabitants,Liechtenstein,2022,12.72
+Reporting country,Per hundred thousand inhabitants,Lithuania,2013,306.6
+Reporting country,Per hundred thousand inhabitants,Lithuania,2014,287.99
+Reporting country,Per hundred thousand inhabitants,Lithuania,2015,247.39
+Reporting country,Per hundred thousand inhabitants,Lithuania,2016,232.09
+Reporting country,Per hundred thousand inhabitants,Lithuania,2017,227.71
+Reporting country,Per hundred thousand inhabitants,Lithuania,2018,226.42
+Reporting country,Per hundred thousand inhabitants,Lithuania,2019,215.09
+Reporting country,Per hundred thousand inhabitants,Lithuania,2020,186.75
+Reporting country,Per hundred thousand inhabitants,Lithuania,2021,175.95
+Reporting country,Per hundred thousand inhabitants,Lithuania,2022,171.31
+Reporting country,Per hundred thousand inhabitants,Luxembourg,2013,37.61
+Reporting country,Per hundred thousand inhabitants,Luxembourg,2014,29.29
+Reporting country,Per hundred thousand inhabitants,Luxembourg,2015,31.09
+Reporting country,Per hundred thousand inhabitants,Luxembourg,2016,31.41
+Reporting country,Per hundred thousand inhabitants,Luxembourg,2017,32.34
+Reporting country,Per hundred thousand inhabitants,Luxembourg,2018,27.41
+Reporting country,Per hundred thousand inhabitants,Luxembourg,2019,25.25
+Reporting country,Per hundred thousand inhabitants,Luxembourg,2020,23.96
+Reporting country,Per hundred thousand inhabitants,Luxembourg,2021,26.78
+Reporting country,Per hundred thousand inhabitants,Luxembourg,2022,24.17
+Reporting country,Per hundred thousand inhabitants,Latvia,2013,250.42
+Reporting country,Per hundred thousand inhabitants,Latvia,2014,232.73
+Reporting country,Per hundred thousand inhabitants,Latvia,2015,216.66
+Reporting country,Per hundred thousand inhabitants,Latvia,2016,208.28
+Reporting country,Per hundred thousand inhabitants,Latvia,2017,188.25
+Reporting country,Per hundred thousand inhabitants,Latvia,2018,177.73
+Reporting country,Per hundred thousand inhabitants,Latvia,2019,174.43
+Reporting country,Per hundred thousand inhabitants,Latvia,2020,160.35
+Reporting country,Per hundred thousand inhabitants,Latvia,2021,165.06
+Reporting country,Per hundred thousand inhabitants,Latvia,2022,167.93
+Reporting country,Per hundred thousand inhabitants,Montenegro,2013,133.68
+Reporting country,Per hundred thousand inhabitants,Montenegro,2014,120.51
+Reporting country,Per hundred thousand inhabitants,Montenegro,2015,154.32
+Reporting country,Per hundred thousand inhabitants,Montenegro,2016,134.84
+Reporting country,Per hundred thousand inhabitants,Montenegro,2017,149.75
+Reporting country,Per hundred thousand inhabitants,Montenegro,2018,152.81
+Reporting country,Per hundred thousand inhabitants,Montenegro,2019,144.33
+Reporting country,Per hundred thousand inhabitants,Montenegro,2020,109.03
+Reporting country,Per hundred thousand inhabitants,Montenegro,2021,123.56
+Reporting country,Per hundred thousand inhabitants,Montenegro,2022,142.79
+Reporting country,Per hundred thousand inhabitants,North Macedonia,2016,141.36
+Reporting country,Per hundred thousand inhabitants,North Macedonia,2017,139.75
+Reporting country,Per hundred thousand inhabitants,Malta,2015,1.4
+Reporting country,Per hundred thousand inhabitants,Malta,2016,70.16
+Reporting country,Per hundred thousand inhabitants,Malta,2017,74.3
+Reporting country,Per hundred thousand inhabitants,Malta,2018,79.46
+Reporting country,Per hundred thousand inhabitants,Malta,2019,73.75
+Reporting country,Per hundred thousand inhabitants,Malta,2020,65.3
+Reporting country,Per hundred thousand inhabitants,Malta,2021,58.71
+Reporting country,Per hundred thousand inhabitants,Malta,2022,56.63
+Reporting country,Per hundred thousand inhabitants,Netherlands,2013,61.46
+Reporting country,Per hundred thousand inhabitants,Netherlands,2014,58.02
+Reporting country,Per hundred thousand inhabitants,Netherlands,2015,53.0
+Reporting country,Per hundred thousand inhabitants,Netherlands,2016,51.65
+Reporting country,Per hundred thousand inhabitants,Netherlands,2017,51.62
+Reporting country,Per hundred thousand inhabitants,Netherlands,2018,52.77
+Reporting country,Per hundred thousand inhabitants,Netherlands,2019,54.38
+Reporting country,Per hundred thousand inhabitants,Netherlands,2020,50.11
+Reporting country,Per hundred thousand inhabitants,Netherlands,2021,51.67
+Reporting country,Per hundred thousand inhabitants,Netherlands,2022,49.92
+Reporting country,Per hundred thousand inhabitants,Norway,2013,51.95
+Reporting country,Per hundred thousand inhabitants,Norway,2014,54.27
+Reporting country,Per hundred thousand inhabitants,Norway,2015,50.94
+Reporting country,Per hundred thousand inhabitants,Norway,2016,53.56
+Reporting country,Per hundred thousand inhabitants,Norway,2017,52.7
+Reporting country,Per hundred thousand inhabitants,Norway,2018,47.79
+Reporting country,Per hundred thousand inhabitants,Norway,2019,46.02
+Reporting country,Per hundred thousand inhabitants,Norway,2020,47.06
+Reporting country,Per hundred thousand inhabitants,Norway,2021,50.73
+Reporting country,Per hundred thousand inhabitants,Norway,2022,51.54
+Reporting country,Per hundred thousand inhabitants,Poland,2013,209.25
+Reporting country,Per hundred thousand inhabitants,Poland,2014,207.28
+Reporting country,Per hundred thousand inhabitants,Poland,2015,189.9
+Reporting country,Per hundred thousand inhabitants,Poland,2016,188.44
+Reporting country,Per hundred thousand inhabitants,Poland,2017,193.92
+Reporting country,Per hundred thousand inhabitants,Poland,2018,189.0
+Reporting country,Per hundred thousand inhabitants,Poland,2019,193.04
+Reporting country,Per hundred thousand inhabitants,Poland,2020,176.74
+Reporting country,Per hundred thousand inhabitants,Poland,2021,186.38
+Reporting country,Per hundred thousand inhabitants,Poland,2022,185.62
+Reporting country,Per hundred thousand inhabitants,Portugal,2013,110.96
+Reporting country,Per hundred thousand inhabitants,Portugal,2014,112.26
+Reporting country,Per hundred thousand inhabitants,Portugal,2015,114.42
+Reporting country,Per hundred thousand inhabitants,Portugal,2016,112.27
+Reporting country,Per hundred thousand inhabitants,Portugal,2017,110.8
+Reporting country,Per hundred thousand inhabitants,Portugal,2018,107.4
+Reporting country,Per hundred thousand inhabitants,Portugal,2019,106.67
+Reporting country,Per hundred thousand inhabitants,Portugal,2020,94.53
+Reporting country,Per hundred thousand inhabitants,Portugal,2021,97.41
+Reporting country,Per hundred thousand inhabitants,Portugal,2022,102.28
+Reporting country,Per hundred thousand inhabitants,Romania,2013,166.03
+Reporting country,Per hundred thousand inhabitants,Romania,2014,149.91
+Reporting country,Per hundred thousand inhabitants,Romania,2015,141.24
+Reporting country,Per hundred thousand inhabitants,Romania,2016,137.41
+Reporting country,Per hundred thousand inhabitants,Romania,2017,117.92
+Reporting country,Per hundred thousand inhabitants,Romania,2018,105.16
+Reporting country,Per hundred thousand inhabitants,Romania,2019,104.78
+Reporting country,Per hundred thousand inhabitants,Romania,2020,111.37
+Reporting country,Per hundred thousand inhabitants,Romania,2021,118.55
+Reporting country,Per hundred thousand inhabitants,Romania,2022,119.91
+Reporting country,Per hundred thousand inhabitants,Serbia,2013,134.78
+Reporting country,Per hundred thousand inhabitants,Serbia,2014,139.73
+Reporting country,Per hundred thousand inhabitants,Serbia,2015,136.5
+Reporting country,Per hundred thousand inhabitants,Serbia,2016,145.75
+Reporting country,Per hundred thousand inhabitants,Serbia,2017,148.53
+Reporting country,Per hundred thousand inhabitants,Serbia,2018,150.74
+Reporting country,Per hundred thousand inhabitants,Serbia,2019,154.07
+Reporting country,Per hundred thousand inhabitants,Serbia,2020,146.59
+Reporting country,Per hundred thousand inhabitants,Serbia,2021,147.48
+Reporting country,Per hundred thousand inhabitants,Serbia,2022,152.9
+Reporting country,Per hundred thousand inhabitants,Sweden,2013,40.5
+Reporting country,Per hundred thousand inhabitants,Sweden,2014,31.05
+Reporting country,Per hundred thousand inhabitants,Sweden,2015,30.44
+Reporting country,Per hundred thousand inhabitants,Sweden,2016,30.02
+Reporting country,Per hundred thousand inhabitants,Sweden,2017,29.09
+Reporting country,Per hundred thousand inhabitants,Sweden,2018,30.37
+Reporting country,Per hundred thousand inhabitants,Sweden,2019,33.43
+Reporting country,Per hundred thousand inhabitants,Sweden,2020,36.89
+Reporting country,Per hundred thousand inhabitants,Sweden,2021,41.02
+Reporting country,Per hundred thousand inhabitants,Sweden,2022,44.58
+Reporting country,Per hundred thousand inhabitants,Slovenia,2013,59.01
+Reporting country,Per hundred thousand inhabitants,Slovenia,2014,66.57
+Reporting country,Per hundred thousand inhabitants,Slovenia,2015,61.47
+Reporting country,Per hundred thousand inhabitants,Slovenia,2016,57.65
+Reporting country,Per hundred thousand inhabitants,Slovenia,2018,55.98
+Reporting country,Per hundred thousand inhabitants,Slovenia,2019,53.58
+Reporting country,Per hundred thousand inhabitants,Slovenia,2020,49.29
+Reporting country,Per hundred thousand inhabitants,Slovenia,2021,36.84
+Reporting country,Per hundred thousand inhabitants,Slovenia,2022,46.32
+Reporting country,Per hundred thousand inhabitants,Slovakia,2013,176.77
+Reporting country,Per hundred thousand inhabitants,Slovakia,2014,181.74
+Reporting country,Per hundred thousand inhabitants,Slovakia,2015,179.51
+Reporting country,Per hundred thousand inhabitants,Slovakia,2016,180.31
+Reporting country,Per hundred thousand inhabitants,Slovakia,2017,180.47
+Reporting country,Per hundred thousand inhabitants,Slovakia,2018,185.28
+Reporting country,Per hundred thousand inhabitants,Slovakia,2019,188.96
+Reporting country,Per hundred thousand inhabitants,Slovakia,2020,188.72
+Reporting country,Per hundred thousand inhabitants,Slovakia,2021,180.28
+Reporting country,Per hundred thousand inhabitants,Slovakia,2022,175.39
+Reporting country,Per hundred thousand inhabitants,Türkiye,2013,191.73
+Reporting country,Per hundred thousand inhabitants,Türkiye,2014,204.07
+Reporting country,Per hundred thousand inhabitants,Türkiye,2015,224.53
+Reporting country,Per hundred thousand inhabitants,Türkiye,2016,249.28
+Reporting country,Per hundred thousand inhabitants,Türkiye,2017,284.32
+Reporting country,Per hundred thousand inhabitants,Türkiye,2018,317.12
+Reporting country,Per hundred thousand inhabitants,Türkiye,2019,343.33
+Reporting country,Per hundred thousand inhabitants,Türkiye,2020,309.72
+Reporting country,Per hundred thousand inhabitants,Türkiye,2021,341.78
+Reporting country,Per hundred thousand inhabitants,Türkiye,2022,385.29
+Reporting country,Per hundred thousand inhabitants,England and Wales,2013,127.08
+Reporting country,Per hundred thousand inhabitants,England and Wales,2014,129.35
+Reporting country,Per hundred thousand inhabitants,England and Wales,2015,130.25
+Reporting country,Per hundred thousand inhabitants,England and Wales,2016,128.89
+Reporting country,Per hundred thousand inhabitants,England and Wales,2017,129.29
+Reporting country,Per hundred thousand inhabitants,England and Wales,2018,124.43
+Reporting country,Per hundred thousand inhabitants,Scotland (NUTS 2021),2013,143.34
+Reporting country,Per hundred thousand inhabitants,Scotland (NUTS 2021),2014,142.22
+Reporting country,Per hundred thousand inhabitants,Scotland (NUTS 2021),2015,139.06
+Reporting country,Per hundred thousand inhabitants,Northern Ireland (UK) (NUTS 2021),2013,90.44
+Reporting country,Per hundred thousand inhabitants,Northern Ireland (UK) (NUTS 2021),2014,85.78
+Reporting country,Per hundred thousand inhabitants,Northern Ireland (UK) (NUTS 2021),2015,71.73
+Reporting country,Per hundred thousand inhabitants,Northern Ireland (UK) (NUTS 2021),2016,69.41
+Reporting country,Per hundred thousand inhabitants,Northern Ireland (UK) (NUTS 2021),2017,68.89
+Reporting country,Per hundred thousand inhabitants,Northern Ireland (UK) (NUTS 2021),2018,67.49
+Reporting country,Per hundred thousand inhabitants,Kosovo*,2016,87.94
+Reporting country,Per hundred thousand inhabitants,Kosovo*,2017,83.77
+Reporting country,Per hundred thousand inhabitants,Kosovo*,2018,82.57
+Reporting country,Per hundred thousand inhabitants,Kosovo*,2019,94.95
+Reporting country,Per hundred thousand inhabitants,Kosovo*,2020,72.61
+Total,Number,Albania,2013,4998.0
+Total,Number,Albania,2014,5689.0
+Total,Number,Albania,2015,5981.0
+Total,Number,Albania,2016,6031.0
+Total,Number,Albania,2017,5674.0
+Total,Number,Albania,2018,5316.0
+Total,Number,Albania,2019,5045.0
+Total,Number,Albania,2020,4614.0
+Total,Number,Albania,2021,4956.0
+Total,Number,Albania,2022,5060.0
+Total,Number,Austria,2013,8862.0
+Total,Number,Austria,2014,8692.0
+Total,Number,Austria,2015,8665.0
+Total,Number,Austria,2016,8619.0
+Total,Number,Austria,2017,8852.0
+Total,Number,Austria,2018,9163.0
+Total,Number,Austria,2019,9072.0
+Total,Number,Austria,2020,8488.0
+Total,Number,Austria,2021,8436.0
+Total,Number,Austria,2022,8993.0
+Total,Number,Bosnia and Herzegovina,2013,2898.0
+Total,Number,Bosnia and Herzegovina,2014,2825.0
+Total,Number,Bosnia and Herzegovina,2015,2730.0
+Total,Number,Bosnia and Herzegovina,2016,2832.0
+Total,Number,Bosnia and Herzegovina,2017,2820.0
+Total,Number,Bosnia and Herzegovina,2018,4377.0
+Total,Number,Bosnia and Herzegovina,2019,4482.0
+Total,Number,Bosnia and Herzegovina,2020,4097.0
+Total,Number,Bosnia and Herzegovina,2021,4108.0
+Total,Number,Bosnia and Herzegovina,2022,4081.0
+Total,Number,Belgium,2013,11818.0
+Total,Number,Belgium,2015,10994.0
+Total,Number,Belgium,2017,10471.0
+Total,Number,Belgium,2018,10261.0
+Total,Number,Belgium,2019,10794.0
+Total,Number,Belgium,2020,10357.0
+Total,Number,Belgium,2021,10769.0
+Total,Number,Belgium,2022,11050.0
+Total,Number,Bulgaria,2013,8834.0
+Total,Number,Bulgaria,2014,7870.0
+Total,Number,Bulgaria,2015,7408.0
+Total,Number,Bulgaria,2016,7345.0
+Total,Number,Bulgaria,2017,6988.0
+Total,Number,Bulgaria,2018,6651.0
+Total,Number,Bulgaria,2019,6448.0
+Total,Number,Bulgaria,2020,6251.0
+Total,Number,Bulgaria,2021,5873.0
+Total,Number,Bulgaria,2022,5577.0
+Total,Number,Switzerland,2013,6652.0
+Total,Number,Switzerland,2014,6519.0
+Total,Number,Switzerland,2015,6498.0
+Total,Number,Switzerland,2016,6507.0
+Total,Number,Switzerland,2017,6564.0
+Total,Number,Switzerland,2018,6602.0
+Total,Number,Switzerland,2019,6568.0
+Total,Number,Switzerland,2020,6183.0
+Total,Number,Switzerland,2021,6113.0
+Total,Number,Switzerland,2022,6252.0
+Total,Number,Cyprus,2013,553.0
+Total,Number,Cyprus,2014,532.0
+Total,Number,Cyprus,2015,547.0
+Total,Number,Cyprus,2016,586.0
+Total,Number,Cyprus,2017,592.0
+Total,Number,Cyprus,2018,619.0
+Total,Number,Cyprus,2019,759.0
+Total,Number,Cyprus,2020,601.0
+Total,Number,Cyprus,2021,795.0
+Total,Number,Cyprus,2022,958.0
+Total,Number,Czechia,2013,16645.0
+Total,Number,Czechia,2014,18658.0
+Total,Number,Czechia,2015,20866.0
+Total,Number,Czechia,2016,22481.0
+Total,Number,Czechia,2017,22159.0
+Total,Number,Czechia,2018,21577.0
+Total,Number,Czechia,2019,21048.0
+Total,Number,Czechia,2020,19286.0
+Total,Number,Czechia,2021,18748.0
+Total,Number,Czechia,2022,19052.0
+Total,Number,Germany,2013,66221.0
+Total,Number,Germany,2014,63228.0
+Total,Number,Germany,2015,63020.0
+Total,Number,Germany,2016,64291.0
+Total,Number,Germany,2017,65841.0
+Total,Number,Germany,2018,65762.0
+Total,Number,Germany,2019,63146.0
+Total,Number,Germany,2020,59585.0
+Total,Number,Germany,2021,57525.0
+Total,Number,Germany,2022,57465.0
+Total,Number,Denmark,2013,4091.0
+Total,Number,Denmark,2014,3583.0
+Total,Number,Denmark,2015,3203.0
+Total,Number,Denmark,2016,3408.0
+Total,Number,Denmark,2017,3418.0
+Total,Number,Denmark,2018,3635.0
+Total,Number,Denmark,2019,3920.0
+Total,Number,Denmark,2020,4166.0
+Total,Number,Denmark,2021,4222.0
+Total,Number,Denmark,2022,4208.0
+Total,Number,Estonia,2013,3023.0
+Total,Number,Estonia,2014,3034.0
+Total,Number,Estonia,2015,2823.0
+Total,Number,Estonia,2016,2864.0
+Total,Number,Estonia,2017,2723.0
+Total,Number,Estonia,2018,2584.0
+Total,Number,Estonia,2019,2487.0
+Total,Number,Estonia,2020,2348.0
+Total,Number,Estonia,2021,2189.0
+Total,Number,Estonia,2022,2073.0
+Total,Number,Greece,2013,12693.0
+Total,Number,Greece,2014,11798.0
+Total,Number,Greece,2015,9611.0
+Total,Number,Greece,2016,9560.0
+Total,Number,Greece,2017,10011.0
+Total,Number,Greece,2018,10654.0
+Total,Number,Greece,2019,10891.0
+Total,Number,Greece,2020,11379.0
+Total,Number,Greece,2021,11030.0
+Total,Number,Greece,2022,10526.0
+Total,Number,Spain,2013,66765.0
+Total,Number,Spain,2014,65017.0
+Total,Number,Spain,2015,61614.0
+Total,Number,Spain,2016,59589.0
+Total,Number,Spain,2017,58812.0
+Total,Number,Spain,2018,58883.0
+Total,Number,Spain,2019,58517.0
+Total,Number,Spain,2020,55180.0
+Total,Number,Spain,2021,55097.0
+Total,Number,Spain,2022,55751.0
+Total,Number,Finland,2013,3295.0
+Total,Number,Finland,2014,3148.0
+Total,Number,Finland,2015,3135.0
+Total,Number,Finland,2016,3156.0
+Total,Number,Finland,2017,3082.0
+Total,Number,Finland,2018,2956.0
+Total,Number,Finland,2019,2945.0
+Total,Number,Finland,2020,2751.0
+Total,Number,Finland,2021,2811.0
+Total,Number,Finland,2022,2861.0
+Total,Number,France,2013,67075.0
+Total,Number,France,2014,66270.0
+Total,Number,France,2015,66678.0
+Total,Number,France,2016,68432.0
+Total,Number,France,2017,68974.0
+Total,Number,France,2018,70059.0
+Total,Number,France,2019,70739.0
+Total,Number,France,2020,62543.0
+Total,Number,France,2021,69448.0
+Total,Number,France,2022,72173.0
+Total,Number,Croatia,2013,4352.0
+Total,Number,Croatia,2014,3763.0
+Total,Number,Croatia,2015,3341.0
+Total,Number,Croatia,2016,3108.0
+Total,Number,Croatia,2017,3190.0
+Total,Number,Croatia,2018,3217.0
+Total,Number,Croatia,2019,3533.0
+Total,Number,Croatia,2020,3531.0
+Total,Number,Croatia,2021,3905.0
+Total,Number,Croatia,2022,4091.0
+Total,Number,Hungary,2013,17841.0
+Total,Number,Hungary,2014,17890.0
+Total,Number,Hungary,2015,17449.0
+Total,Number,Hungary,2016,17658.0
+Total,Number,Hungary,2017,17343.0
+Total,Number,Hungary,2018,16303.0
+Total,Number,Hungary,2019,16334.0
+Total,Number,Hungary,2020,16752.0
+Total,Number,Hungary,2021,18623.0
+Total,Number,Hungary,2022,19347.0
+Total,Number,Ireland,2013,4088.0
+Total,Number,Ireland,2014,3777.0
+Total,Number,Ireland,2015,3755.0
+Total,Number,Ireland,2016,3718.0
+Total,Number,Ireland,2017,3680.0
+Total,Number,Ireland,2018,3962.0
+Total,Number,Ireland,2019,4017.0
+Total,Number,Ireland,2020,3810.0
+Total,Number,Ireland,2021,3806.0
+Total,Number,Ireland,2022,4369.0
+Total,Number,Iceland,2013,147.0
+Total,Number,Iceland,2014,154.0
+Total,Number,Iceland,2015,139.0
+Total,Number,Iceland,2016,116.0
+Total,Number,Iceland,2017,137.0
+Total,Number,Iceland,2018,136.0
+Total,Number,Iceland,2019,158.0
+Total,Number,Iceland,2020,141.0
+Total,Number,Iceland,2021,142.0
+Total,Number,Iceland,2022,138.0
+Total,Number,Italy,2013,63848.0
+Total,Number,Italy,2014,54745.0
+Total,Number,Italy,2015,53410.0
+Total,Number,Italy,2016,55978.0
+Total,Number,Italy,2017,59038.0
+Total,Number,Italy,2018,61131.0
+Total,Number,Italy,2019,62232.0
+Total,Number,Italy,2020,54605.0
+Total,Number,Italy,2021,55349.0
+Total,Number,Italy,2022,57455.0
+Total,Number,Liechtenstein,2013,68.0
+Total,Number,Liechtenstein,2014,53.0
+Total,Number,Liechtenstein,2015,53.0
+Total,Number,Liechtenstein,2016,72.0
+Total,Number,Liechtenstein,2017,73.0
+Total,Number,Liechtenstein,2018,63.0
+Total,Number,Liechtenstein,2019,43.0
+Total,Number,Liechtenstein,2020,57.0
+Total,Number,Liechtenstein,2021,52.0
+Total,Number,Liechtenstein,2022,58.0
+Total,Number,Lithuania,2013,9261.0
+Total,Number,Lithuania,2014,8636.0
+Total,Number,Lithuania,2015,7355.0
+Total,Number,Lithuania,2016,6815.0
+Total,Number,Lithuania,2017,6599.0
+Total,Number,Lithuania,2018,6485.0
+Total,Number,Lithuania,2019,6138.0
+Total,Number,Lithuania,2020,5320.0
+Total,Number,Lithuania,2021,5086.0
+Total,Number,Lithuania,2022,4973.0
+Total,Number,Luxembourg,2013,656.0
+Total,Number,Luxembourg,2014,626.0
+Total,Number,Luxembourg,2015,691.0
+Total,Number,Luxembourg,2017,684.0
+Total,Number,Luxembourg,2018,656.0
+Total,Number,Luxembourg,2019,594.0
+Total,Number,Luxembourg,2020,557.0
+Total,Number,Luxembourg,2021,617.0
+Total,Number,Luxembourg,2022,705.0
+Total,Number,Latvia,2013,5136.0
+Total,Number,Latvia,2014,4745.0
+Total,Number,Latvia,2015,4409.0
+Total,Number,Latvia,2016,4243.0
+Total,Number,Latvia,2017,3765.0
+Total,Number,Latvia,2018,3522.0
+Total,Number,Latvia,2019,3414.0
+Total,Number,Latvia,2020,3104.0
+Total,Number,Latvia,2021,3183.0
+Total,Number,Latvia,2022,3229.0
+Total,Number,Montenegro,2013,1064.0
+Total,Number,Montenegro,2014,1123.0
+Total,Number,Montenegro,2015,1131.0
+Total,Number,Montenegro,2016,1123.0
+Total,Number,Montenegro,2017,1119.0
+Total,Number,Montenegro,2018,1125.0
+Total,Number,Montenegro,2019,1090.0
+Total,Number,Montenegro,2020,810.0
+Total,Number,Montenegro,2021,920.0
+Total,Number,Montenegro,2022,1026.0
+Total,Number,North Macedonia,2016,3231.0
+Total,Number,North Macedonia,2017,3031.0
+Total,Number,Malta,2013,615.0
+Total,Number,Malta,2014,581.0
+Total,Number,Malta,2015,569.0
+Total,Number,Malta,2016,553.0
+Total,Number,Malta,2017,591.0
+Total,Number,Malta,2018,635.0
+Total,Number,Malta,2019,754.0
+Total,Number,Malta,2020,864.0
+Total,Number,Malta,2021,614.0
+Total,Number,Malta,2022,559.0
+Total,Number,Netherlands,2013,12721.0
+Total,Number,Netherlands,2014,11934.0
+Total,Number,Netherlands,2015,10850.0
+Total,Number,Netherlands,2016,10601.0
+Total,Number,Netherlands,2017,10874.0
+Total,Number,Netherlands,2018,11251.0
+Total,Number,Netherlands,2019,11777.0
+Total,Number,Netherlands,2020,11024.0
+Total,Number,Netherlands,2021,11309.0
+Total,Number,Netherlands,2022,11238.0
+Total,Number,Norway,2013,3869.0
+Total,Number,Norway,2014,4103.0
+Total,Number,Norway,2015,4056.0
+Total,Number,Norway,2016,4192.0
+Total,Number,Norway,2017,4164.0
+Total,Number,Norway,2018,3791.0
+Total,Number,Norway,2019,3561.0
+Total,Number,Norway,2020,3533.0
+Total,Number,Norway,2021,3651.0
+Total,Number,Norway,2022,3687.0
+Total,Number,Poland,2013,80165.0
+Total,Number,Poland,2014,79345.0
+Total,Number,Poland,2015,72695.0
+Total,Number,Poland,2016,72209.0
+Total,Number,Poland,2017,74480.0
+Total,Number,Poland,2018,72818.0
+Total,Number,Poland,2019,74612.0
+Total,Number,Poland,2020,68354.0
+Total,Number,Poland,2021,72269.0
+Total,Number,Poland,2022,71723.0
+Total,Number,Portugal,2013,14535.0
+Total,Number,Portugal,2014,14198.0
+Total,Number,Portugal,2015,14373.0
+Total,Number,Portugal,2016,13917.0
+Total,Number,Portugal,2017,13587.0
+Total,Number,Portugal,2018,13021.0
+Total,Number,Portugal,2019,12947.0
+Total,Number,Portugal,2020,11502.0
+Total,Number,Portugal,2021,11704.0
+Total,Number,Portugal,2022,12502.0
+Total,Number,Romania,2013,33434.0
+Total,Number,Romania,2014,30156.0
+Total,Number,Romania,2015,28334.0
+Total,Number,Romania,2016,27455.0
+Total,Number,Romania,2017,23450.0
+Total,Number,Romania,2018,20792.0
+Total,Number,Romania,2019,20578.0
+Total,Number,Romania,2020,21753.0
+Total,Number,Romania,2021,22989.0
+Total,Number,Romania,2022,23082.0
+Total,Number,Serbia,2013,10031.0
+Total,Number,Serbia,2014,10288.0
+Total,Number,Serbia,2015,10064.0
+Total,Number,Serbia,2016,10672.0
+Total,Number,Serbia,2017,10807.0
+Total,Number,Serbia,2018,10871.0
+Total,Number,Serbia,2019,11077.0
+Total,Number,Serbia,2020,10540.0
+Total,Number,Serbia,2021,10557.0
+Total,Number,Serbia,2022,10787.0
+Total,Number,Sweden,2013,5723.0
+Total,Number,Sweden,2014,5807.0
+Total,Number,Sweden,2015,5691.0
+Total,Number,Sweden,2016,5658.0
+Total,Number,Sweden,2017,5713.0
+Total,Number,Sweden,2018,6114.0
+Total,Number,Sweden,2019,6719.0
+Total,Number,Sweden,2020,7297.0
+Total,Number,Sweden,2021,7776.0
+Total,Number,Sweden,2022,8414.0
+Total,Number,Slovenia,2013,1360.0
+Total,Number,Slovenia,2014,1522.0
+Total,Number,Slovenia,2015,1399.0
+Total,Number,Slovenia,2016,1308.0
+Total,Number,Slovenia,2018,1346.0
+Total,Number,Slovenia,2019,1396.0
+Total,Number,Slovenia,2020,1449.0
+Total,Number,Slovenia,2021,1136.0
+Total,Number,Slovenia,2022,1380.0
+Total,Number,Slovakia,2013,9753.0
+Total,Number,Slovakia,2014,10020.0
+Total,Number,Slovakia,2015,9913.0
+Total,Number,Slovakia,2016,9995.0
+Total,Number,Slovakia,2017,10028.0
+Total,Number,Slovakia,2018,10294.0
+Total,Number,Slovakia,2019,10555.0
+Total,Number,Slovakia,2020,10519.0
+Total,Number,Slovakia,2021,10104.0
+Total,Number,Slovakia,2022,9839.0
+Total,Number,Türkiye,2013,145468.0
+Total,Number,Türkiye,2014,159397.0
+Total,Number,Türkiye,2015,178257.0
+Total,Number,Türkiye,2016,200727.0
+Total,Number,Türkiye,2017,233415.0
+Total,Number,Türkiye,2018,264842.0
+Total,Number,Türkiye,2019,291546.0
+Total,Number,Türkiye,2020,267883.0
+Total,Number,Türkiye,2021,297863.0
+Total,Number,Türkiye,2022,341294.0
+Total,Number,England and Wales,2013,81884.0
+Total,Number,England and Wales,2014,83678.0
+Total,Number,England and Wales,2015,84444.0
+Total,Number,England and Wales,2016,83604.0
+Total,Number,England and Wales,2017,84441.0
+Total,Number,England and Wales,2018,81904.0
+Total,Number,Scotland (NUTS 2021),2013,7894.0
+Total,Number,Scotland (NUTS 2021),2014,7731.0
+Total,Number,Scotland (NUTS 2021),2015,7744.0
+Total,Number,Scotland (NUTS 2021),2016,7579.0
+Total,Number,Scotland (NUTS 2021),2017,7436.0
+Total,Number,Northern Ireland (UK) (NUTS 2021),2013,1796.0
+Total,Number,Northern Ireland (UK) (NUTS 2021),2014,1709.0
+Total,Number,Northern Ireland (UK) (NUTS 2021),2015,1447.0
+Total,Number,Northern Ireland (UK) (NUTS 2021),2016,1407.0
+Total,Number,Northern Ireland (UK) (NUTS 2021),2017,1411.0
+Total,Number,Northern Ireland (UK) (NUTS 2021),2018,1407.0
+Total,Number,Kosovo*,2013,1776.0
+Total,Number,Kosovo*,2014,1854.0
+Total,Number,Kosovo*,2015,1478.0
+Total,Number,Kosovo*,2016,1648.0
+Total,Number,Kosovo*,2017,1709.0
+Total,Number,Kosovo*,2018,1567.0
+Total,Number,Kosovo*,2019,1806.0
+Total,Number,Kosovo*,2020,1396.0
+Total,Per hundred thousand inhabitants,Albania,2014,196.45
+Total,Per hundred thousand inhabitants,Albania,2015,206.79
+Total,Per hundred thousand inhabitants,Albania,2016,208.97
+Total,Per hundred thousand inhabitants,Albania,2017,197.25
+Total,Per hundred thousand inhabitants,Albania,2018,185.21
+Total,Per hundred thousand inhabitants,Albania,2019,176.25
+Total,Per hundred thousand inhabitants,Albania,2020,162.12
+Total,Per hundred thousand inhabitants,Albania,2021,175.14
+Total,Per hundred thousand inhabitants,Albania,2022,181.13
+Total,Per hundred thousand inhabitants,Austria,2013,104.85
+Total,Per hundred thousand inhabitants,Austria,2014,102.18
+Total,Per hundred thousand inhabitants,Austria,2015,101.03
+Total,Per hundred thousand inhabitants,Austria,2016,99.18
+Total,Per hundred thousand inhabitants,Austria,2017,100.9
+Total,Per hundred thousand inhabitants,Austria,2018,103.86
+Total,Per hundred thousand inhabitants,Austria,2019,102.41
+Total,Per hundred thousand inhabitants,Austria,2020,95.36
+Total,Per hundred thousand inhabitants,Austria,2021,94.44
+Total,Per hundred thousand inhabitants,Austria,2022,100.16
+Total,Per hundred thousand inhabitants,Belgium,2013,105.88
+Total,Per hundred thousand inhabitants,Belgium,2015,97.84
+Total,Per hundred thousand inhabitants,Belgium,2017,92.24
+Total,Per hundred thousand inhabitants,Belgium,2018,90.02
+Total,Per hundred thousand inhabitants,Belgium,2019,94.23
+Total,Per hundred thousand inhabitants,Belgium,2020,89.89
+Total,Per hundred thousand inhabitants,Belgium,2021,93.2
+Total,Per hundred thousand inhabitants,Belgium,2022,95.11
+Total,Per hundred thousand inhabitants,Bulgaria,2013,121.27
+Total,Per hundred thousand inhabitants,Bulgaria,2014,108.62
+Total,Per hundred thousand inhabitants,Bulgaria,2015,102.86
+Total,Per hundred thousand inhabitants,Bulgaria,2016,102.67
+Total,Per hundred thousand inhabitants,Bulgaria,2017,98.4
+Total,Per hundred thousand inhabitants,Bulgaria,2018,94.34
+Total,Per hundred thousand inhabitants,Bulgaria,2019,92.11
+Total,Per hundred thousand inhabitants,Bulgaria,2020,89.92
+Total,Per hundred thousand inhabitants,Bulgaria,2021,84.91
+Total,Per hundred thousand inhabitants,Bulgaria,2022,81.55
+Total,Per hundred thousand inhabitants,Switzerland,2013,82.75
+Total,Per hundred thousand inhabitants,Switzerland,2014,80.09
+Total,Per hundred thousand inhabitants,Switzerland,2015,78.88
+Total,Per hundred thousand inhabitants,Switzerland,2016,78.14
+Total,Per hundred thousand inhabitants,Switzerland,2017,77.96
+Total,Per hundred thousand inhabitants,Switzerland,2018,77.82
+Total,Per hundred thousand inhabitants,Switzerland,2019,76.87
+Total,Per hundred thousand inhabitants,Switzerland,2020,71.84
+Total,Per hundred thousand inhabitants,Switzerland,2021,70.51
+Total,Per hundred thousand inhabitants,Switzerland,2022,71.54
+Total,Per hundred thousand inhabitants,Cyprus,2013,63.87
+Total,Per hundred thousand inhabitants,Cyprus,2014,62.0
+Total,Per hundred thousand inhabitants,Cyprus,2015,64.58
+Total,Per hundred thousand inhabitants,Cyprus,2016,69.08
+Total,Per hundred thousand inhabitants,Cyprus,2017,69.26
+Total,Per hundred thousand inhabitants,Cyprus,2018,71.62
+Total,Per hundred thousand inhabitants,Cyprus,2019,86.65
+Total,Per hundred thousand inhabitants,Cyprus,2020,67.68
+Total,Per hundred thousand inhabitants,Cyprus,2021,88.73
+Total,Per hundred thousand inhabitants,Cyprus,2022,105.89
+Total,Per hundred thousand inhabitants,Czechia,2013,158.28
+Total,Per hundred thousand inhabitants,Czechia,2014,177.49
+Total,Per hundred thousand inhabitants,Czechia,2015,198.0
+Total,Per hundred thousand inhabitants,Czechia,2016,213.01
+Total,Per hundred thousand inhabitants,Czechia,2017,209.47
+Total,Per hundred thousand inhabitants,Czechia,2018,203.36
+Total,Per hundred thousand inhabitants,Czechia,2019,197.64
+Total,Per hundred thousand inhabitants,Czechia,2020,180.35
+Total,Per hundred thousand inhabitants,Czechia,2021,175.19
+Total,Per hundred thousand inhabitants,Czechia,2022,181.16
+Total,Per hundred thousand inhabitants,Germany,2013,82.24
+Total,Per hundred thousand inhabitants,Germany,2014,78.28
+Total,Per hundred thousand inhabitants,Germany,2015,77.61
+Total,Per hundred thousand inhabitants,Germany,2016,78.24
+Total,Per hundred thousand inhabitants,Germany,2017,79.79
+Total,Per hundred thousand inhabitants,Germany,2018,79.43
+Total,Per hundred thousand inhabitants,Germany,2019,76.06
+Total,Per hundred thousand inhabitants,Germany,2020,71.65
+Total,Per hundred thousand inhabitants,Germany,2021,69.18
+Total,Per hundred thousand inhabitants,Germany,2022,69.04
+Total,Per hundred thousand inhabitants,Denmark,2013,73.02
+Total,Per hundred thousand inhabitants,Denmark,2014,63.67
+Total,Per hundred thousand inhabitants,Denmark,2015,56.59
+Total,Per hundred thousand inhabitants,Denmark,2016,59.71
+Total,Per hundred thousand inhabitants,Denmark,2017,59.46
+Total,Per hundred thousand inhabitants,Denmark,2018,62.88
+Total,Per hundred thousand inhabitants,Denmark,2019,67.52
+Total,Per hundred thousand inhabitants,Denmark,2020,71.55
+Total,Per hundred thousand inhabitants,Denmark,2021,72.29
+Total,Per hundred thousand inhabitants,Denmark,2022,71.64
+Total,Per hundred thousand inhabitants,Estonia,2013,228.98
+Total,Per hundred thousand inhabitants,Estonia,2014,230.58
+Total,Per hundred thousand inhabitants,Estonia,2015,214.7
+Total,Per hundred thousand inhabitants,Estonia,2016,217.64
+Total,Per hundred thousand inhabitants,Estonia,2017,206.97
+Total,Per hundred thousand inhabitants,Estonia,2018,195.89
+Total,Per hundred thousand inhabitants,Estonia,2019,187.72
+Total,Per hundred thousand inhabitants,Estonia,2020,176.68
+Total,Per hundred thousand inhabitants,Estonia,2021,164.58
+Total,Per hundred thousand inhabitants,Estonia,2022,155.65
+Total,Per hundred thousand inhabitants,Greece,2013,115.35
+Total,Per hundred thousand inhabitants,Greece,2014,107.97
+Total,Per hundred thousand inhabitants,Greece,2015,88.52
+Total,Per hundred thousand inhabitants,Greece,2016,88.65
+Total,Per hundred thousand inhabitants,Greece,2017,92.97
+Total,Per hundred thousand inhabitants,Greece,2018,99.19
+Total,Per hundred thousand inhabitants,Greece,2019,101.55
+Total,Per hundred thousand inhabitants,Greece,2020,106.16
+Total,Per hundred thousand inhabitants,Greece,2021,103.29
+Total,Per hundred thousand inhabitants,Greece,2022,100.63
+Total,Per hundred thousand inhabitants,Spain,2013,142.88
+Total,Per hundred thousand inhabitants,Spain,2014,139.78
+Total,Per hundred thousand inhabitants,Spain,2015,132.65
+Total,Per hundred thousand inhabitants,Spain,2016,128.31
+Total,Per hundred thousand inhabitants,Spain,2017,126.4
+Total,Per hundred thousand inhabitants,Spain,2018,126.2
+Total,Per hundred thousand inhabitants,Spain,2019,124.67
+Total,Per hundred thousand inhabitants,Spain,2020,116.58
+Total,Per hundred thousand inhabitants,Spain,2021,116.24
+Total,Per hundred thousand inhabitants,Spain,2022,117.54
+Total,Per hundred thousand inhabitants,Finland,2013,60.72
+Total,Per hundred thousand inhabitants,Finland,2014,57.75
+Total,Per hundred thousand inhabitants,Finland,2015,57.29
+Total,Per hundred thousand inhabitants,Finland,2016,57.51
+Total,Per hundred thousand inhabitants,Finland,2017,56.0
+Total,Per hundred thousand inhabitants,Finland,2018,53.62
+Total,Per hundred thousand inhabitants,Finland,2019,53.37
+Total,Per hundred thousand inhabitants,Finland,2020,49.79
+Total,Per hundred thousand inhabitants,Finland,2021,50.8
+Total,Per hundred thousand inhabitants,Finland,2022,51.57
+Total,Per hundred thousand inhabitants,France,2013,102.25
+Total,Per hundred thousand inhabitants,France,2014,100.5
+Total,Per hundred thousand inhabitants,France,2015,100.29
+Total,Per hundred thousand inhabitants,France,2016,102.5
+Total,Per hundred thousand inhabitants,France,2017,103.25
+Total,Per hundred thousand inhabitants,France,2018,104.69
+Total,Per hundred thousand inhabitants,France,2019,105.3
+Total,Per hundred thousand inhabitants,France,2020,92.9
+Total,Per hundred thousand inhabitants,France,2021,102.65
+Total,Per hundred thousand inhabitants,France,2022,106.34
+Total,Per hundred thousand inhabitants,Croatia,2013,102.11
+Total,Per hundred thousand inhabitants,Croatia,2014,88.61
+Total,Per hundred thousand inhabitants,Croatia,2015,79.07
+Total,Per hundred thousand inhabitants,Croatia,2016,74.16
+Total,Per hundred thousand inhabitants,Croatia,2017,76.79
+Total,Per hundred thousand inhabitants,Croatia,2018,78.36
+Total,Per hundred thousand inhabitants,Croatia,2019,86.67
+Total,Per hundred thousand inhabitants,Croatia,2020,87.01
+Total,Per hundred thousand inhabitants,Croatia,2021,96.75
+Total,Per hundred thousand inhabitants,Croatia,2022,105.92
+Total,Per hundred thousand inhabitants,Hungary,2013,180.05
+Total,Per hundred thousand inhabitants,Hungary,2014,181.12
+Total,Per hundred thousand inhabitants,Hungary,2015,177.05
+Total,Per hundred thousand inhabitants,Hungary,2016,179.62
+Total,Per hundred thousand inhabitants,Hungary,2017,177.01
+Total,Per hundred thousand inhabitants,Hungary,2018,166.73
+Total,Per hundred thousand inhabitants,Hungary,2019,167.14
+Total,Per hundred thousand inhabitants,Hungary,2020,171.47
+Total,Per hundred thousand inhabitants,Hungary,2021,191.38
+Total,Per hundred thousand inhabitants,Hungary,2022,199.68
+Total,Per hundred thousand inhabitants,Ireland,2013,89.04
+Total,Per hundred thousand inhabitants,Ireland,2014,82.01
+Total,Per hundred thousand inhabitants,Ireland,2015,81.12
+Total,Per hundred thousand inhabitants,Ireland,2016,78.67
+Total,Per hundred thousand inhabitants,Ireland,2017,76.92
+Total,Per hundred thousand inhabitants,Ireland,2018,82.02
+Total,Per hundred thousand inhabitants,Ireland,2019,81.91
+Total,Per hundred thousand inhabitants,Ireland,2020,76.75
+Total,Per hundred thousand inhabitants,Ireland,2021,76.02
+Total,Per hundred thousand inhabitants,Ireland,2022,86.34
+Total,Per hundred thousand inhabitants,Iceland,2013,45.67
+Total,Per hundred thousand inhabitants,Iceland,2014,47.29
+Total,Per hundred thousand inhabitants,Iceland,2015,42.24
+Total,Per hundred thousand inhabitants,Iceland,2016,34.88
+Total,Per hundred thousand inhabitants,Iceland,2017,40.49
+Total,Per hundred thousand inhabitants,Iceland,2018,39.03
+Total,Per hundred thousand inhabitants,Iceland,2019,44.26
+Total,Per hundred thousand inhabitants,Iceland,2020,38.72
+Total,Per hundred thousand inhabitants,Iceland,2021,38.5
+Total,Per hundred thousand inhabitants,Iceland,2022,36.68
+Total,Per hundred thousand inhabitants,Italy,2013,106.97
+Total,Per hundred thousand inhabitants,Italy,2014,90.07
+Total,Per hundred thousand inhabitants,Italy,2015,87.85
+Total,Per hundred thousand inhabitants,Italy,2016,92.27
+Total,Per hundred thousand inhabitants,Italy,2017,97.44
+Total,Per hundred thousand inhabitants,Italy,2018,101.07
+Total,Per hundred thousand inhabitants,Italy,2019,104.04
+Total,Per hundred thousand inhabitants,Italy,2020,91.56
+Total,Per hundred thousand inhabitants,Italy,2021,93.44
+Total,Per hundred thousand inhabitants,Italy,2022,97.33
+Total,Per hundred thousand inhabitants,Liechtenstein,2013,184.59
+Total,Per hundred thousand inhabitants,Liechtenstein,2014,142.75
+Total,Per hundred thousand inhabitants,Liechtenstein,2015,141.84
+Total,Per hundred thousand inhabitants,Liechtenstein,2016,191.38
+Total,Per hundred thousand inhabitants,Liechtenstein,2017,193.07
+Total,Per hundred thousand inhabitants,Liechtenstein,2018,165.29
+Total,Per hundred thousand inhabitants,Liechtenstein,2019,112.04
+Total,Per hundred thousand inhabitants,Liechtenstein,2020,147.11
+Total,Per hundred thousand inhabitants,Liechtenstein,2021,133.15
+Total,Per hundred thousand inhabitants,Liechtenstein,2022,147.55
+Total,Per hundred thousand inhabitants,Lithuania,2013,311.62
+Total,Per hundred thousand inhabitants,Lithuania,2014,293.4
+Total,Per hundred thousand inhabitants,Lithuania,2015,251.77
+Total,Per hundred thousand inhabitants,Lithuania,2016,235.93
+Total,Per hundred thousand inhabitants,Lithuania,2017,231.71
+Total,Per hundred thousand inhabitants,Lithuania,2018,230.87
+Total,Per hundred thousand inhabitants,Lithuania,2019,219.67
+Total,Per hundred thousand inhabitants,Lithuania,2020,190.4
+Total,Per hundred thousand inhabitants,Lithuania,2021,181.92
+Total,Per hundred thousand inhabitants,Lithuania,2022,177.23
+Total,Per hundred thousand inhabitants,Luxembourg,2013,122.15
+Total,Per hundred thousand inhabitants,Luxembourg,2014,113.88
+Total,Per hundred thousand inhabitants,Luxembourg,2015,122.74
+Total,Per hundred thousand inhabitants,Luxembourg,2017,115.8
+Total,Per hundred thousand inhabitants,Luxembourg,2018,108.97
+Total,Per hundred thousand inhabitants,Luxembourg,2019,96.76
+Total,Per hundred thousand inhabitants,Luxembourg,2020,88.96
+Total,Per hundred thousand inhabitants,Luxembourg,2021,97.21
+Total,Per hundred thousand inhabitants,Luxembourg,2022,109.24
+Total,Per hundred thousand inhabitants,Latvia,2013,253.78
+Total,Per hundred thousand inhabitants,Latvia,2014,237.08
+Total,Per hundred thousand inhabitants,Latvia,2015,221.99
+Total,Per hundred thousand inhabitants,Latvia,2016,215.49
+Total,Per hundred thousand inhabitants,Latvia,2017,193.07
+Total,Per hundred thousand inhabitants,Latvia,2018,182.07
+Total,Per hundred thousand inhabitants,Latvia,2019,177.82
+Total,Per hundred thousand inhabitants,Latvia,2020,162.71
+Total,Per hundred thousand inhabitants,Latvia,2021,168.13
+Total,Per hundred thousand inhabitants,Latvia,2022,172.14
+Total,Per hundred thousand inhabitants,Montenegro,2013,171.37
+Total,Per hundred thousand inhabitants,Montenegro,2014,180.69
+Total,Per hundred thousand inhabitants,Montenegro,2015,181.8
+Total,Per hundred thousand inhabitants,Montenegro,2016,180.48
+Total,Per hundred thousand inhabitants,Montenegro,2017,179.79
+Total,Per hundred thousand inhabitants,Montenegro,2018,180.76
+Total,Per hundred thousand inhabitants,Montenegro,2019,175.19
+Total,Per hundred thousand inhabitants,Montenegro,2020,130.25
+Total,Per hundred thousand inhabitants,Montenegro,2021,148.21
+Total,Per hundred thousand inhabitants,Montenegro,2022,166.1
+Total,Per hundred thousand inhabitants,North Macedonia,2016,155.99
+Total,Per hundred thousand inhabitants,North Macedonia,2017,146.16
+Total,Per hundred thousand inhabitants,Malta,2013,145.95
+Total,Per hundred thousand inhabitants,Malta,2014,136.58
+Total,Per hundred thousand inhabitants,Malta,2015,129.41
+Total,Per hundred thousand inhabitants,Malta,2016,122.78
+Total,Per hundred thousand inhabitants,Malta,2017,128.4
+Total,Per hundred thousand inhabitants,Malta,2018,133.49
+Total,Per hundred thousand inhabitants,Malta,2019,152.77
+Total,Per hundred thousand inhabitants,Malta,2020,167.91
+Total,Per hundred thousand inhabitants,Malta,2021,118.97
+Total,Per hundred thousand inhabitants,Malta,2022,107.3
+Total,Per hundred thousand inhabitants,Netherlands,2013,75.81
+Total,Per hundred thousand inhabitants,Netherlands,2014,70.91
+Total,Per hundred thousand inhabitants,Netherlands,2015,64.2
+Total,Per hundred thousand inhabitants,Netherlands,2016,62.44
+Total,Per hundred thousand inhabitants,Netherlands,2017,63.66
+Total,Per hundred thousand inhabitants,Netherlands,2018,65.48
+Total,Per hundred thousand inhabitants,Netherlands,2019,68.15
+Total,Per hundred thousand inhabitants,Netherlands,2020,63.33
+Total,Per hundred thousand inhabitants,Netherlands,2021,64.71
+Total,Per hundred thousand inhabitants,Netherlands,2022,63.89
+Total,Per hundred thousand inhabitants,Norway,2013,76.59
+Total,Per hundred thousand inhabitants,Norway,2014,80.33
+Total,Per hundred thousand inhabitants,Norway,2015,78.51
+Total,Per hundred thousand inhabitants,Norway,2016,80.45
+Total,Per hundred thousand inhabitants,Norway,2017,79.19
+Total,Per hundred thousand inhabitants,Norway,2018,71.59
+Total,Per hundred thousand inhabitants,Norway,2019,66.83
+Total,Per hundred thousand inhabitants,Norway,2020,65.82
+Total,Per hundred thousand inhabitants,Norway,2021,67.72
+Total,Per hundred thousand inhabitants,Norway,2022,67.96
+Total,Per hundred thousand inhabitants,Poland,2013,210.61
+Total,Per hundred thousand inhabitants,Poland,2014,208.7
+Total,Per hundred thousand inhabitants,Poland,2015,191.27
+Total,Per hundred thousand inhabitants,Poland,2016,190.19
+Total,Per hundred thousand inhabitants,Poland,2017,196.14
+Total,Per hundred thousand inhabitants,Poland,2018,191.74
+Total,Per hundred thousand inhabitants,Poland,2019,196.49
+Total,Per hundred thousand inhabitants,Poland,2020,180.08
+Total,Per hundred thousand inhabitants,Poland,2021,190.99
+Total,Per hundred thousand inhabitants,Poland,2022,190.48
+Total,Per hundred thousand inhabitants,Portugal,2013,138.6
+Total,Per hundred thousand inhabitants,Portugal,2014,136.16
+Total,Per hundred thousand inhabitants,Portugal,2015,138.54
+Total,Per hundred thousand inhabitants,Portugal,2016,134.58
+Total,Per hundred thousand inhabitants,Portugal,2017,131.79
+Total,Per hundred thousand inhabitants,Portugal,2018,126.53
+Total,Per hundred thousand inhabitants,Portugal,2019,125.99
+Total,Per hundred thousand inhabitants,Portugal,2020,111.71
+Total,Per hundred thousand inhabitants,Portugal,2021,113.65
+Total,Per hundred thousand inhabitants,Portugal,2022,120.77
+Total,Per hundred thousand inhabitants,Romania,2013,167.0
+Total,Per hundred thousand inhabitants,Romania,2014,151.18
+Total,Per hundred thousand inhabitants,Romania,2015,142.59
+Total,Per hundred thousand inhabitants,Romania,2016,138.94
+Total,Per hundred thousand inhabitants,Romania,2017,119.37
+Total,Per hundred thousand inhabitants,Romania,2018,106.46
+Total,Per hundred thousand inhabitants,Romania,2019,105.99
+Total,Per hundred thousand inhabitants,Romania,2020,112.54
+Total,Per hundred thousand inhabitants,Romania,2021,119.72
+Total,Per hundred thousand inhabitants,Romania,2022,121.21
+Total,Per hundred thousand inhabitants,Serbia,2013,139.68
+Total,Per hundred thousand inhabitants,Serbia,2014,143.95
+Total,Per hundred thousand inhabitants,Serbia,2015,141.46
+Total,Per hundred thousand inhabitants,Serbia,2016,150.81
+Total,Per hundred thousand inhabitants,Serbia,2017,153.5
+Total,Per hundred thousand inhabitants,Serbia,2018,155.27
+Total,Per hundred thousand inhabitants,Serbia,2019,159.07
+Total,Per hundred thousand inhabitants,Serbia,2020,152.16
+Total,Per hundred thousand inhabitants,Serbia,2021,153.63
+Total,Per hundred thousand inhabitants,Serbia,2022,158.7
+Total,Per hundred thousand inhabitants,Sweden,2013,59.89
+Total,Per hundred thousand inhabitants,Sweden,2014,60.21
+Total,Per hundred thousand inhabitants,Sweden,2015,58.39
+Total,Per hundred thousand inhabitants,Sweden,2016,57.44
+Total,Per hundred thousand inhabitants,Sweden,2017,57.16
+Total,Per hundred thousand inhabitants,Sweden,2018,60.41
+Total,Per hundred thousand inhabitants,Sweden,2019,65.68
+Total,Per hundred thousand inhabitants,Sweden,2020,70.66
+Total,Per hundred thousand inhabitants,Sweden,2021,74.92
+Total,Per hundred thousand inhabitants,Sweden,2022,80.5
+Total,Per hundred thousand inhabitants,Slovenia,2013,66.06
+Total,Per hundred thousand inhabitants,Slovenia,2014,73.84
+Total,Per hundred thousand inhabitants,Slovenia,2015,67.82
+Total,Per hundred thousand inhabitants,Slovenia,2016,63.37
+Total,Per hundred thousand inhabitants,Slovenia,2018,65.12
+Total,Per hundred thousand inhabitants,Slovenia,2019,67.09
+Total,Per hundred thousand inhabitants,Slovenia,2020,69.14
+Total,Per hundred thousand inhabitants,Slovenia,2021,53.86
+Total,Per hundred thousand inhabitants,Slovenia,2022,65.49
+Total,Per hundred thousand inhabitants,Slovakia,2013,180.25
+Total,Per hundred thousand inhabitants,Slovakia,2014,185.01
+Total,Per hundred thousand inhabitants,Slovakia,2015,182.85
+Total,Per hundred thousand inhabitants,Slovakia,2016,184.2
+Total,Per hundred thousand inhabitants,Slovakia,2017,184.5
+Total,Per hundred thousand inhabitants,Slovakia,2018,189.12
+Total,Per hundred thousand inhabitants,Slovakia,2019,193.65
+Total,Per hundred thousand inhabitants,Slovakia,2020,192.73
+Total,Per hundred thousand inhabitants,Slovakia,2021,185.06
+Total,Per hundred thousand inhabitants,Slovakia,2022,181.04
+Total,Per hundred thousand inhabitants,Türkiye,2013,192.35
+Total,Per hundred thousand inhabitants,Türkiye,2014,207.91
+Total,Per hundred thousand inhabitants,Türkiye,2015,229.43
+Total,Per hundred thousand inhabitants,Türkiye,2016,254.92
+Total,Per hundred thousand inhabitants,Türkiye,2017,292.45
+Total,Per hundred thousand inhabitants,Türkiye,2018,327.73
+Total,Per hundred thousand inhabitants,Türkiye,2019,355.53
+Total,Per hundred thousand inhabitants,Türkiye,2020,322.15
+Total,Per hundred thousand inhabitants,Türkiye,2021,356.23
+Total,Per hundred thousand inhabitants,Türkiye,2022,403.04
+Total,Per hundred thousand inhabitants,England and Wales,2013,144.27
+Total,Per hundred thousand inhabitants,England and Wales,2014,146.35
+Total,Per hundred thousand inhabitants,England and Wales,2015,146.42
+Total,Per hundred thousand inhabitants,England and Wales,2016,143.78
+Total,Per hundred thousand inhabitants,England and Wales,2017,144.19
+Total,Per hundred thousand inhabitants,England and Wales,2018,138.91
+Total,Per hundred thousand inhabitants,Scotland (NUTS 2021),2013,148.38
+Total,Per hundred thousand inhabitants,Scotland (NUTS 2021),2014,144.84
+Total,Per hundred thousand inhabitants,Scotland (NUTS 2021),2015,144.57
+Total,Per hundred thousand inhabitants,Scotland (NUTS 2021),2016,140.64
+Total,Per hundred thousand inhabitants,Scotland (NUTS 2021),2017,137.34
+Total,Per hundred thousand inhabitants,Northern Ireland (UK) (NUTS 2021),2013,98.32
+Total,Per hundred thousand inhabitants,Northern Ireland (UK) (NUTS 2021),2014,93.02
+Total,Per hundred thousand inhabitants,Northern Ireland (UK) (NUTS 2021),2015,78.34
+Total,Per hundred thousand inhabitants,Northern Ireland (UK) (NUTS 2021),2016,75.7
+Total,Per hundred thousand inhabitants,Northern Ireland (UK) (NUTS 2021),2017,75.59
+Total,Per hundred thousand inhabitants,Northern Ireland (UK) (NUTS 2021),2018,75.0
+Total,Per hundred thousand inhabitants,Kosovo*,2016,93.02
+Total,Per hundred thousand inhabitants,Kosovo*,2017,95.82
+Total,Per hundred thousand inhabitants,Kosovo*,2018,87.13
+Total,Per hundred thousand inhabitants,Kosovo*,2019,100.58
+Total,Per hundred thousand inhabitants,Kosovo*,2020,78.33
