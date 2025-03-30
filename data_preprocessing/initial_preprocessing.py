@@ -22,7 +22,7 @@ def process_all_csv(csv_files, drop_columns, output_dir):
         df_processed.to_csv(output_file, index=False)
         print(f"Preprocessed {file_path} into {output_file}")
 
-# process_all_csv(csv_files, drop_columns, output_dir)
+process_all_csv(csv_files, drop_columns, output_dir)
 
 def create_notebooks_from_csv(preprocessed_dir, notebooks_output_dir):
     for csv_file in glob(os.path.join(preprocessed_dir, "*_preprocessed.csv")):
