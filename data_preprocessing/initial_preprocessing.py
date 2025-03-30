@@ -32,17 +32,32 @@ def create_notebooks_from_csv(preprocessed_dir, notebooks_output_dir):
         code = [
             "import pandas as pd",
             f"df = pd.read_csv('../preprocessed_data/{base_csv}')",
-            """if "unit" in df.columns and "Per hundred thousand inhabitants" in df["unit"].unique():
+            """
+for col in df.columns:
+    if df[col].nunique() == 1:
+        df = df.drop(columns=[col])
+        
+if "unit" in df.columns and "Per hundred thousand inhabitants" in df["unit"].unique():
     df = df[df["unit"] == "Per hundred thousand inhabitants"]
-df = df.drop(columns=["unit"])
+    df = df.drop(columns=["unit"])
 
 if "unit" in df.columns and (df["unit"] == "Person").all():
     df = df.drop(columns=["unit"])
 
-if "geo" in df.columns:
-    df = df[~df["geo"].str.startswith("Euro")]
+def remove_euro(row):
+    return any(value.startswith('Euro') for value in row.astype(str))
+
+df = df[~df.apply(remove_euro, axis=1)]
+
+def remove_total(row):
+    return any(value.startswith('Total') for value in row.astype(str))
+
+df = df[~df.apply(remove_total, axis=1)]
+
+df = df.dropna(subset=["OBS_VALUE"])
+
 for col in df.columns:
-    if df[col].nunique() == 1:
+    if "Foreign country" in col:
         df = df.drop(columns=[col])
     """,
             "df.head()",
@@ -60,7 +75,54 @@ for col in df.columns:
         """obs_value_name = None # WYPELNIC
 if obs_value_name:
     df = df.rename(columns={"OBS_VALUE": obs_value_name})""",
-        f"""df.to_csv("../initially_processed_data/{base_csv}.csv", index=False)"""
+        f"""df.to_csv("../initially_processed_data/{base_csv}", index=False)""",
+            f"""import seaborn as sns
+import matplotlib.pyplot as plt
+
+# Set the figure size for better visualization
+plt.figure(figsize=(20, 15))
+
+# Create subplots - one for each column (except OBS_VALUE)
+columns_to_analyze = [col for col in df.columns if col != 'OBS_VALUE']
+num_columns = len(columns_to_analyze)
+fig, axes = plt.subplots(num_columns, 1, figsize=(12, 6*num_columns))
+
+# For each column, aggregate OBS_VALUE and create a visualization
+for i, column in enumerate(columns_to_analyze):
+    # Group by the column and aggregate OBS_VALUE (using mean)
+    grouped_data = df.groupby(column)['OBS_VALUE'].mean().sort_values(ascending=False)
+    
+    # For columns with too many unique values, take top 20
+    if len(grouped_data) > 20:
+        grouped_data = grouped_data.head(20)
+    
+    # Create the plot
+    ax = axes[i]
+    grouped_data.plot(kind='bar', ax=ax)
+    ax.set_title(f'Average OBS_VALUE by {{column}}')
+    ax.set_ylabel('Average OBS_VALUE')
+    ax.set_xlabel(column)
+    ax.tick_params(axis='x', rotation=90)
+
+plt.tight_layout()
+plt.show()
+""",
+"""
+if "TIME_PERIOD" in df.columns:
+    max_time = df["TIME_PERIOD"].max()
+    df = df[df["TIME_PERIOD"] == max_time]
+
+if "geo" in df.columns and "OBS_VALUE" in df.columns:
+    import matplotlib.pyplot as plt
+    plt.figure(figsize=(10, 6))
+    df.groupby("geo")["OBS_VALUE"].mean().sort_values(ascending=False).plot(kind="bar")
+    plt.title(f"OBS_VALUE by geo for TIME_PERIOD {max_time}")
+    plt.ylabel("OBS_VALUE")
+    plt.xlabel("geo")
+    plt.xticks(rotation=90)
+    plt.tight_layout()
+    plt.show()
+"""
         ]
         nb["cells"] = [nbf.v4.new_code_cell(line) for line in code]
         with open(notebook_file, "w", encoding="utf-8") as f:
@@ -70,3 +132,8 @@ if obs_value_name:
 preprocessed_dir = "data\preprocessed_data"
 notebooks_output_dir = "data\preprocessed_data_notebooks"
 create_notebooks_from_csv(preprocessed_dir, notebooks_output_dir)
+
+for csv_file in glob(os.path.join("data\initially_processed_data", "*_preprocessed.csv")):
+    df = pd.read_csv(csv_file)
+    columns_to_print = [col for col in df.columns if col not in ["TIME_PERIOD", "OBS_VALUE"]]
+    print(f"Columns in {os.path.basename(csv_file)}: {columns_to_print}")
