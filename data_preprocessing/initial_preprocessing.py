@@ -22,7 +22,7 @@ def process_all_csv(csv_files, drop_columns, output_dir):
         df_processed.to_csv(output_file, index=False)
         print(f"Preprocessed {file_path} into {output_file}")
 
-process_all_csv(csv_files, drop_columns, output_dir)
+# process_all_csv(csv_files, drop_columns, output_dir)
 
 def create_notebooks_from_csv(preprocessed_dir, notebooks_output_dir):
     for csv_file in glob(os.path.join(preprocessed_dir, "*_preprocessed.csv")):
@@ -108,20 +108,62 @@ plt.tight_layout()
 plt.show()
 """,
 """
-if "TIME_PERIOD" in df.columns:
-    max_time = df["TIME_PERIOD"].max()
-    df = df[df["TIME_PERIOD"] == max_time]
+df_copy = df.copy()
 
-if "geo" in df.columns and "OBS_VALUE" in df.columns:
+if "TIME_PERIOD" in df_copy.columns:
+    max_time = df_copy["TIME_PERIOD"].max()
+    df_filtered = df_copy[df_copy["TIME_PERIOD"] == max_time]
+
+if "geo" in df_filtered.columns and "OBS_VALUE" in df_filtered.columns:
     import matplotlib.pyplot as plt
     plt.figure(figsize=(10, 6))
-    df.groupby("geo")["OBS_VALUE"].mean().sort_values(ascending=False).plot(kind="bar")
-    plt.title(f"OBS_VALUE by geo for TIME_PERIOD {max_time}")
+    df_filtered.groupby("geo")["OBS_VALUE"].mean().sort_values(ascending=False).plot(kind="bar")
+    plt.title(f"OBS_VALUE by geo for TIME_PERIOD {{max_time}}")
     plt.ylabel("OBS_VALUE")
     plt.xlabel("geo")
     plt.xticks(rotation=90)
     plt.tight_layout()
     plt.show()
+""",
+"""
+aggregated_obs_values = df.groupby(['geo', 'TIME_PERIOD'])['OBS_VALUE'].sum()
+
+threshold = 0.25 * df["TIME_PERIOD"].nunique()
+
+group = df.groupby('geo')
+
+countries_to_remove = []
+
+for geo, group_data in group:
+    time_period_counts = group_data['TIME_PERIOD'].value_counts()
+    missing_counts = df["TIME_PERIOD"].nunique() - time_period_counts.count()
+    
+    if missing_counts > threshold:
+        countries_to_remove.append(geo)
+
+df_copy = df[~df['geo'].isin(countries_to_remove)]
+aggregated_obs_values = df_copy.groupby(['geo', 'TIME_PERIOD'])['OBS_VALUE'].sum()
+
+top_threshold = aggregated_obs_values.groupby('geo').mean().quantile(0.9)
+top_countries = aggregated_obs_values.groupby('geo').mean()
+top_countries = top_countries[top_countries > top_threshold].index
+filtered_top_df = aggregated_obs_values.loc[top_countries].reset_index()
+
+bottom_threshold = aggregated_obs_values.groupby('geo').mean().quantile(0.1)
+bottom_countries = aggregated_obs_values.groupby('geo').mean()
+bottom_countries = bottom_countries[bottom_countries < bottom_threshold].index
+filtered_bottom_df = aggregated_obs_values.loc[bottom_countries].reset_index()
+
+
+import plotly.express as px
+
+fig = px.line(filtered_top_df, x='TIME_PERIOD', y='OBS_VALUE', color='geo', 
+              markers=True, title='Top 10% Countries by Aggregated OBS_VALUE')
+fig.show()
+
+fig = px.line(filtered_bottom_df, x='TIME_PERIOD', y='OBS_VALUE', color='geo', 
+              markers=True, title='Bottom 10% Countries by Aggregated OBS_VALUE')
+fig.show()
 """
         ]
         nb["cells"] = [nbf.v4.new_code_cell(line) for line in code]
