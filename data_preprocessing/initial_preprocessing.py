@@ -31,51 +31,53 @@ def create_notebooks_from_csv(preprocessed_dir, notebooks_output_dir):
         base_csv = os.path.basename(csv_file)
         code = [
             "import pandas as pd",
-            f"df = pd.read_csv('../preprocessed_data/{base_csv}')",
-            """
-for col in df.columns:
-    if df[col].nunique() == 1:
-        df = df.drop(columns=[col])
-        
-if "unit" in df.columns and "Per hundred thousand inhabitants" in df["unit"].unique():
-    df = df[df["unit"] == "Per hundred thousand inhabitants"]
-    df = df.drop(columns=["unit"])
-
-if "unit" in df.columns and (df["unit"] == "Person").all():
-    df = df.drop(columns=["unit"])
-
-def remove_euro(row):
-    return any(value.startswith('Euro') for value in row.astype(str))
-
-df = df[~df.apply(remove_euro, axis=1)]
-
-def remove_total(row):
-    return any(value.startswith('Total') for value in row.astype(str))
-
-df = df[~df.apply(remove_total, axis=1)]
-
-df = df.dropna(subset=["OBS_VALUE"])
-
-for col in df.columns:
-    if "Foreign country" in col:
-        df = df.drop(columns=[col])
-    """,
-            "df.head()",
-            "df.info()",
-            "df.duplicated().sum()",
-            "df.isnull().sum()",
-            """for col in df:
-    unique_vals = df[col].unique()
-    print(f"{col}: {unique_vals[:40]}")
-    if len(unique_vals) > 40:
-        print(f"... and {len(unique_vals) - 40} others")""",
-
-
-        "df",
-        """obs_value_name = None # WYPELNIC
-if obs_value_name:
-    df = df.rename(columns={"OBS_VALUE": obs_value_name})""",
-        f"""df.to_csv("../initially_processed_data/{base_csv}", index=False)""",
+            f"df = pd.read_csv('../processed_data/{base_csv}')",
+#             """
+#
+#
+# for col in df.columns:
+#     if df[col].nunique() == 1:
+#         df = df.drop(columns=[col])
+#
+# if "unit" in df.columns and "Per hundred thousand inhabitants" in df["unit"].unique():
+#     df = df[df["unit"] == "Per hundred thousand inhabitants"]
+#     df = df.drop(columns=["unit"])
+#
+# if "unit" in df.columns and (df["unit"] == "Person").all():
+#     df = df.drop(columns=["unit"])
+#
+# def remove_euro(row):
+#     return any(value.startswith('Euro') for value in row.astype(str))
+#
+# df = df[~df.apply(remove_euro, axis=1)]
+#
+# def remove_total(row):
+#     return any(value.startswith('Total') for value in row.astype(str))
+#
+# df = df[~df.apply(remove_total, axis=1)]
+#
+# df = df.dropna(subset=["OBS_VALUE"])
+#
+# for col in df.columns:
+#     if "Foreign country" in col:
+#         df = df.drop(columns=[col])
+#     """,
+#             "df.head()",
+#             "df.info()",
+#             "df.duplicated().sum()",
+#             "df.isnull().sum()",
+#             """for col in df:
+#     unique_vals = df[col].unique()
+#     print(f"{col}: {unique_vals[:40]}")
+#     if len(unique_vals) > 40:
+#         print(f"... and {len(unique_vals) - 40} others")""",
+#
+#
+#         "df",
+#         """obs_value_name = None # WYPELNIC
+# if obs_value_name:
+#     df = df.rename(columns={"OBS_VALUE": obs_value_name})""",
+#         f"""df.to_csv("../initially_processed_data/{base_csv}", index=False)""",
             f"""import seaborn as sns
 import matplotlib.pyplot as plt
 
