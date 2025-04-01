@@ -1,4 +1,4 @@
-citizen,geo,TIME_PERIOD,OBS_VALUE
+citizen,geo,year,number of citizens in country
 Andorra,Austria,2015,4
 Andorra,Austria,2016,3
 Andorra,Austria,2017,4
