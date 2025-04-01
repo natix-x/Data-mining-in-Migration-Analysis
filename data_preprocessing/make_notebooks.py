@@ -11,7 +11,7 @@ def create_notebook(csv_file, output_dir):
     graph_code = f"""\
 import pandas as pd
 import plotly.express as px
-df = pd.read_csv(r'..\processed_data\country_population.csv')
+df = pd.read_csv(r'..\processed_data\{file_name}')
 
 # ignore all rows with total values
 df = df[~df['geo'].str.contains('Total')]
