@@ -1,4 +1,4 @@
-geo,TIME_PERIOD,Total fertility rate
+geo,year,Total fertility rate
 Albania,2012,1.71
 Albania,2013,1.73
 Albania,2014,1.73
@@ -125,6 +125,22 @@ Denmark,2020,1.68
 Denmark,2021,1.72
 Denmark,2022,1.55
 Denmark,2023,1.5
+Euro area - 19 countries  (2015-2022),2012,1.56
+Euro area - 19 countries  (2015-2022),2013,1.54
+Euro area - 19 countries  (2015-2022),2014,1.56
+Euro area - 19 countries  (2015-2022),2015,1.56
+Euro area - 19 countries  (2015-2022),2016,1.58
+Euro area - 19 countries  (2015-2022),2017,1.56
+Euro area - 19 countries  (2015-2022),2018,1.53
+Euro area - 19 countries  (2015-2022),2019,1.52
+Euro area - 19 countries  (2015-2022),2020,1.49
+Euro area - 19 countries  (2015-2022),2021,1.51
+Euro area - 19 countries  (2015-2022),2022,1.45
+Euro area - 19 countries  (2015-2022),2023,1.38
+Euro area – 20 countries (from 2023),2020,1.49
+Euro area – 20 countries (from 2023),2021,1.52
+Euro area – 20 countries (from 2023),2022,1.45
+Euro area – 20 countries (from 2023),2023,1.38
 Estonia,2012,1.56
 Estonia,2013,1.52
 Estonia,2014,1.54
@@ -161,6 +177,18 @@ Spain,2020,1.18
 Spain,2021,1.18
 Spain,2022,1.16
 Spain,2023,1.12
+European Union - 27 countries (from 2020),2012,1.54
+European Union - 27 countries (from 2020),2013,1.51
+European Union - 27 countries (from 2020),2014,1.54
+European Union - 27 countries (from 2020),2015,1.54
+European Union - 27 countries (from 2020),2016,1.57
+European Union - 27 countries (from 2020),2017,1.56
+European Union - 27 countries (from 2020),2018,1.54
+European Union - 27 countries (from 2020),2019,1.53
+European Union - 27 countries (from 2020),2020,1.51
+European Union - 27 countries (from 2020),2021,1.53
+European Union - 27 countries (from 2020),2022,1.46
+European Union - 27 countries (from 2020),2023,1.38
 Finland,2012,1.8
 Finland,2013,1.75
 Finland,2014,1.71

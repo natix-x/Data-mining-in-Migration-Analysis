@@ -1,4 +1,4 @@
-reason,apprehen,geo,TIME_PERIOD,Migrants number,Migrants number per 100k inhabitants
+reason,apprehen,geo,year,Migrants number,Migrants number per 100k inhabitants
 Illegal entry,Between border crossing points - at land,Austria,2021,0,0.0
 Illegal entry,Between border crossing points - at land,Austria,2022,0,0.0
 Illegal entry,Between border crossing points - at land,Belgium,2021,0,0.0
@@ -32,6 +32,7 @@ Illegal entry,Between border crossing points - at land,Greece,2023,7620,73.17
 Illegal entry,Between border crossing points - at land,Spain,2021,0,0.0
 Illegal entry,Between border crossing points - at land,Spain,2022,0,0.0
 Illegal entry,Between border crossing points - at land,Spain,2023,0,0.0
+Illegal entry,Between border crossing points - at land,European Union - 27 countries (from 2020),2023,121010,
 Illegal entry,Between border crossing points - at land,Finland,2021,0,0.0
 Illegal entry,Between border crossing points - at land,Finland,2022,0,0.0
 Illegal entry,Between border crossing points - at land,Finland,2023,15,0.27
@@ -125,6 +126,8 @@ Illegal entry,Between border crossing points - at sea,Greece,2023,41715,400.57
 Illegal entry,Between border crossing points - at sea,Spain,2021,0,0.0
 Illegal entry,Between border crossing points - at sea,Spain,2022,0,0.0
 Illegal entry,Between border crossing points - at sea,Spain,2023,0,0.0
+Illegal entry,Between border crossing points - at sea,European Union - 27 countries (from 2020),2021,72285,
+Illegal entry,Between border crossing points - at sea,European Union - 27 countries (from 2020),2023,199475,
 Illegal entry,Between border crossing points - at sea,Finland,2021,0,0.0
 Illegal entry,Between border crossing points - at sea,Finland,2022,0,0.0
 Illegal entry,Between border crossing points - at sea,Finland,2023,0,0.0
@@ -218,6 +221,7 @@ Illegal entry,"At the border crossing point – at sea, land, air",Greece,2023,1
 Illegal entry,"At the border crossing point – at sea, land, air",Spain,2021,0,0.0
 Illegal entry,"At the border crossing point – at sea, land, air",Spain,2022,0,0.0
 Illegal entry,"At the border crossing point – at sea, land, air",Spain,2023,0,0.0
+Illegal entry,"At the border crossing point – at sea, land, air",European Union - 27 countries (from 2020),2023,12925,
 Illegal entry,"At the border crossing point – at sea, land, air",Finland,2021,5,0.09
 Illegal entry,"At the border crossing point – at sea, land, air",Finland,2022,40,0.72
 Illegal entry,"At the border crossing point – at sea, land, air",Finland,2023,20,0.36
@@ -313,6 +317,7 @@ Illegal entry,In the external border area,Greece,2023,49435,474.7
 Illegal entry,In the external border area,Spain,2021,0,0.0
 Illegal entry,In the external border area,Spain,2022,0,0.0
 Illegal entry,In the external border area,Spain,2023,0,0.0
+Illegal entry,In the external border area,European Union - 27 countries (from 2020),2023,333405,
 Illegal entry,In the external border area,Finland,2021,5,0.09
 Illegal entry,In the external border area,Finland,2022,40,0.72
 Illegal entry,In the external border area,Finland,2023,35,0.63
@@ -408,6 +413,7 @@ Illegal entry,In the inland area,Greece,2023,22445,215.53
 Illegal entry,In the inland area,Spain,2021,0,0.0
 Illegal entry,In the inland area,Spain,2022,0,0.0
 Illegal entry,In the inland area,Spain,2023,0,0.0
+Illegal entry,In the inland area,European Union - 27 countries (from 2020),2023,343140,
 Illegal entry,In the inland area,Finland,2021,395,7.14
 Illegal entry,In the inland area,Finland,2022,240,4.33
 Illegal entry,In the inland area,Finland,2023,310,5.57
@@ -504,6 +510,7 @@ Illegal entry,Total,Greece,2023,71880,690.23
 Illegal entry,Total,Spain,2021,0,0.0
 Illegal entry,Total,Spain,2022,0,0.0
 Illegal entry,Total,Spain,2023,0,0.0
+Illegal entry,Total,European Union - 27 countries (from 2020),2023,676545,
 Illegal entry,Total,Finland,2021,400,7.23
 Illegal entry,Total,Finland,2022,285,5.14
 Illegal entry,Total,Finland,2023,345,6.2
@@ -600,6 +607,7 @@ Overstay,Between border crossing points - at land,Greece,2023,0,0.0
 Overstay,Between border crossing points - at land,Spain,2021,0,0.0
 Overstay,Between border crossing points - at land,Spain,2022,0,0.0
 Overstay,Between border crossing points - at land,Spain,2023,0,0.0
+Overstay,Between border crossing points - at land,European Union - 27 countries (from 2020),2023,6635,
 Overstay,Between border crossing points - at land,Finland,2021,0,0.0
 Overstay,Between border crossing points - at land,Finland,2022,0,0.0
 Overstay,Between border crossing points - at land,Finland,2023,0,0.0
@@ -693,6 +701,8 @@ Overstay,Between border crossing points - at sea,Greece,2023,0,0.0
 Overstay,Between border crossing points - at sea,Spain,2021,0,0.0
 Overstay,Between border crossing points - at sea,Spain,2022,0,0.0
 Overstay,Between border crossing points - at sea,Spain,2023,0,0.0
+Overstay,Between border crossing points - at sea,European Union - 27 countries (from 2020),2021,0,
+Overstay,Between border crossing points - at sea,European Union - 27 countries (from 2020),2023,5,
 Overstay,Between border crossing points - at sea,Finland,2021,0,0.0
 Overstay,Between border crossing points - at sea,Finland,2022,0,0.0
 Overstay,Between border crossing points - at sea,Finland,2023,0,0.0
@@ -786,6 +796,7 @@ Overstay,"At the border crossing point – at sea, land, air",Greece,2023,0,0.0
 Overstay,"At the border crossing point – at sea, land, air",Spain,2021,0,0.0
 Overstay,"At the border crossing point – at sea, land, air",Spain,2022,0,0.0
 Overstay,"At the border crossing point – at sea, land, air",Spain,2023,0,0.0
+Overstay,"At the border crossing point – at sea, land, air",European Union - 27 countries (from 2020),2023,76950,
 Overstay,"At the border crossing point – at sea, land, air",Finland,2021,65,1.17
 Overstay,"At the border crossing point – at sea, land, air",Finland,2022,375,6.76
 Overstay,"At the border crossing point – at sea, land, air",Finland,2023,415,7.46
@@ -881,6 +892,7 @@ Overstay,In the external border area,Greece,2023,0,0.0
 Overstay,In the external border area,Spain,2021,0,0.0
 Overstay,In the external border area,Spain,2022,0,0.0
 Overstay,In the external border area,Spain,2023,0,0.0
+Overstay,In the external border area,European Union - 27 countries (from 2020),2023,83590,
 Overstay,In the external border area,Finland,2021,65,1.17
 Overstay,In the external border area,Finland,2022,375,6.76
 Overstay,In the external border area,Finland,2023,415,7.46
@@ -976,6 +988,7 @@ Overstay,In the inland area,Greece,2023,225,2.16
 Overstay,In the inland area,Spain,2021,30615,64.59
 Overstay,In the inland area,Spain,2022,68100,143.41
 Overstay,In the inland area,Spain,2023,90860,188.96
+Overstay,In the inland area,European Union - 27 countries (from 2020),2023,108955,
 Overstay,In the inland area,Finland,2021,290,5.24
 Overstay,In the inland area,Finland,2022,240,4.33
 Overstay,In the inland area,Finland,2023,340,6.11
@@ -1072,6 +1085,7 @@ Overstay,Total,Greece,2023,225,2.16
 Overstay,Total,Spain,2021,30615,64.59
 Overstay,Total,Spain,2022,68100,143.41
 Overstay,Total,Spain,2023,90860,188.96
+Overstay,Total,European Union - 27 countries (from 2020),2023,192545,
 Overstay,Total,Finland,2021,355,6.42
 Overstay,Total,Finland,2022,620,11.17
 Overstay,Total,Finland,2023,755,13.57
@@ -1168,6 +1182,7 @@ Other reason,Between border crossing points - at land,Greece,2023,0,0.0
 Other reason,Between border crossing points - at land,Spain,2021,0,0.0
 Other reason,Between border crossing points - at land,Spain,2022,0,0.0
 Other reason,Between border crossing points - at land,Spain,2023,0,0.0
+Other reason,Between border crossing points - at land,European Union - 27 countries (from 2020),2023,8010,
 Other reason,Between border crossing points - at land,Finland,2021,0,0.0
 Other reason,Between border crossing points - at land,Finland,2022,0,0.0
 Other reason,Between border crossing points - at land,Finland,2023,0,0.0
@@ -1261,6 +1276,8 @@ Other reason,Between border crossing points - at sea,Greece,2023,0,0.0
 Other reason,Between border crossing points - at sea,Spain,2021,0,0.0
 Other reason,Between border crossing points - at sea,Spain,2022,0,0.0
 Other reason,Between border crossing points - at sea,Spain,2023,0,0.0
+Other reason,Between border crossing points - at sea,European Union - 27 countries (from 2020),2021,0,
+Other reason,Between border crossing points - at sea,European Union - 27 countries (from 2020),2023,40,
 Other reason,Between border crossing points - at sea,Finland,2021,0,0.0
 Other reason,Between border crossing points - at sea,Finland,2022,0,0.0
 Other reason,Between border crossing points - at sea,Finland,2023,0,0.0
@@ -1354,6 +1371,7 @@ Other reason,"At the border crossing point – at sea, land, air",Greece,2023,0,
 Other reason,"At the border crossing point – at sea, land, air",Spain,2021,0,0.0
 Other reason,"At the border crossing point – at sea, land, air",Spain,2022,0,0.0
 Other reason,"At the border crossing point – at sea, land, air",Spain,2023,0,0.0
+Other reason,"At the border crossing point – at sea, land, air",European Union - 27 countries (from 2020),2023,15580,
 Other reason,"At the border crossing point – at sea, land, air",Finland,2021,0,0.0
 Other reason,"At the border crossing point – at sea, land, air",Finland,2022,0,0.0
 Other reason,"At the border crossing point – at sea, land, air",Finland,2023,0,0.0
@@ -1450,6 +1468,7 @@ Other reason,In the external border area,Greece,2023,0,0.0
 Other reason,In the external border area,Spain,2021,0,0.0
 Other reason,In the external border area,Spain,2022,0,0.0
 Other reason,In the external border area,Spain,2023,0,0.0
+Other reason,In the external border area,European Union - 27 countries (from 2020),2023,23630,
 Other reason,In the external border area,Finland,2021,0,0.0
 Other reason,In the external border area,Finland,2022,0,0.0
 Other reason,In the external border area,Finland,2023,0,0.0
@@ -1545,6 +1564,7 @@ Other reason,In the inland area,Greece,2023,0,0.0
 Other reason,In the inland area,Spain,2021,0,0.0
 Other reason,In the inland area,Spain,2022,0,0.0
 Other reason,In the inland area,Spain,2023,0,0.0
+Other reason,In the inland area,European Union - 27 countries (from 2020),2023,308925,
 Other reason,In the inland area,Finland,2021,335,6.05
 Other reason,In the inland area,Finland,2022,285,5.14
 Other reason,In the inland area,Finland,2023,0,0.0
@@ -1642,6 +1662,7 @@ Other reason,Total,Greece,2023,0,0.0
 Other reason,Total,Spain,2021,0,0.0
 Other reason,Total,Spain,2022,0,0.0
 Other reason,Total,Spain,2023,0,0.0
+Other reason,Total,European Union - 27 countries (from 2020),2023,332560,
 Other reason,Total,Finland,2021,335,6.05
 Other reason,Total,Finland,2022,285,5.14
 Other reason,Total,Finland,2023,0,0.0
@@ -1738,6 +1759,7 @@ Total,Between border crossing points - at land,Greece,2023,7620,73.17
 Total,Between border crossing points - at land,Spain,2021,0,0.0
 Total,Between border crossing points - at land,Spain,2022,0,0.0
 Total,Between border crossing points - at land,Spain,2023,0,0.0
+Total,Between border crossing points - at land,European Union - 27 countries (from 2020),2023,135655,
 Total,Between border crossing points - at land,Finland,2021,0,0.0
 Total,Between border crossing points - at land,Finland,2022,0,0.0
 Total,Between border crossing points - at land,Finland,2023,15,0.27
@@ -1831,6 +1853,8 @@ Total,Between border crossing points - at sea,Greece,2023,41715,400.57
 Total,Between border crossing points - at sea,Spain,2021,0,0.0
 Total,Between border crossing points - at sea,Spain,2022,0,0.0
 Total,Between border crossing points - at sea,Spain,2023,0,0.0
+Total,Between border crossing points - at sea,European Union - 27 countries (from 2020),2021,72285,
+Total,Between border crossing points - at sea,European Union - 27 countries (from 2020),2023,199520,
 Total,Between border crossing points - at sea,Finland,2021,0,0.0
 Total,Between border crossing points - at sea,Finland,2022,0,0.0
 Total,Between border crossing points - at sea,Finland,2023,0,0.0
@@ -1924,6 +1948,7 @@ Total,"At the border crossing point – at sea, land, air",Greece,2023,100,0.96
 Total,"At the border crossing point – at sea, land, air",Spain,2021,0,0.0
 Total,"At the border crossing point – at sea, land, air",Spain,2022,0,0.0
 Total,"At the border crossing point – at sea, land, air",Spain,2023,0,0.0
+Total,"At the border crossing point – at sea, land, air",European Union - 27 countries (from 2020),2023,105455,
 Total,"At the border crossing point – at sea, land, air",Finland,2021,70,1.26
 Total,"At the border crossing point – at sea, land, air",Finland,2022,420,7.57
 Total,"At the border crossing point – at sea, land, air",Finland,2023,435,7.82
@@ -2020,6 +2045,7 @@ Total,In the external border area,Greece,2023,49435,474.7
 Total,In the external border area,Spain,2021,0,0.0
 Total,In the external border area,Spain,2022,0,0.0
 Total,In the external border area,Spain,2023,0,0.0
+Total,In the external border area,European Union - 27 countries (from 2020),2023,500090,
 Total,In the external border area,Finland,2021,70,1.26
 Total,In the external border area,Finland,2022,420,7.57
 Total,In the external border area,Finland,2023,450,8.09
@@ -2115,6 +2141,7 @@ Total,In the inland area,Greece,2023,22665,217.64
 Total,In the inland area,Spain,2021,30615,64.59
 Total,In the inland area,Spain,2022,68100,143.41
 Total,In the inland area,Spain,2023,90860,188.96
+Total,In the inland area,European Union - 27 countries (from 2020),2023,761020,
 Total,In the inland area,Finland,2021,1025,18.52
 Total,In the inland area,Finland,2022,770,13.88
 Total,In the inland area,Finland,2023,650,11.68
@@ -2288,6 +2315,22 @@ Total,Total,Spain,2020,72265,152.72
 Total,Total,Spain,2021,30615,64.59
 Total,Total,Spain,2022,68100,143.41
 Total,Total,Spain,2023,90860,188.96
+Total,Total,European Union - 27 countries (from 2020),2014,606850,
+Total,Total,European Union - 27 countries (from 2020),2015,2085465,
+Total,Total,European Union - 27 countries (from 2020),2016,924035,
+Total,Total,European Union - 27 countries (from 2020),2017,563825,
+Total,Total,European Union - 27 countries (from 2020),2018,572195,
+Total,Total,European Union - 27 countries (from 2020),2019,627900,
+Total,Total,European Union - 27 countries (from 2020),2020,557455,
+Total,Total,European Union - 27 countries (from 2020),2021,679730,
+Total,Total,European Union - 27 countries (from 2020),2022,1120380,
+Total,Total,European Union - 27 countries (from 2020),2023,1265350,
+Total,Total,European Union - 28 countries (2013-2020),2014,672215,
+Total,Total,European Union - 28 countries (2013-2020),2015,2155485,
+Total,Total,European Union - 28 countries (2013-2020),2016,983935,
+Total,Total,European Union - 28 countries (2013-2020),2017,618730,
+Total,Total,European Union - 28 countries (2013-2020),2018,600025,
+Total,Total,European Union - 28 countries (2013-2020),2019,650175,
 Total,Total,Finland,2014,2930,53.75
 Total,Total,Finland,2015,14285,261.07
 Total,Total,Finland,2016,2130,38.82

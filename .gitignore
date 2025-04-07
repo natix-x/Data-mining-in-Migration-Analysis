@@ -1,2 +1,5 @@
 .idea/
 venv/
+data/third_country_nationals_ordered_to_leave.csv
+data/illegally_present_third_country_nationals.csv
+data/preprocessed_data/illegally_present_third_country_nationals_preprocessed.csv

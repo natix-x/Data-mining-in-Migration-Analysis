@@ -1,4 +1,4 @@
-citizen,geo,TIME_PERIOD,OBS_VALUE
+citizen,geo,year,number of citizens in country
 Andorra,Austria,2015,4
 Andorra,Austria,2016,3
 Andorra,Austria,2017,4
@@ -10617,6 +10617,7 @@ Candidate countries from 2022 (8 countries) except reporting country,Denmark,202
 Candidate countries from 2022 (8 countries) except reporting country,Estonia,2023,50370
 Candidate countries from 2022 (8 countries) except reporting country,Greece,2023,414409
 Candidate countries from 2022 (8 countries) except reporting country,Spain,2023,228217
+Candidate countries from 2022 (8 countries) except reporting country,European Union - 27 countries (from 2020),2023,7208287
 Candidate countries from 2022 (8 countries) except reporting country,Finland,2023,19402
 Candidate countries from 2022 (8 countries) except reporting country,France,2023,406690
 Candidate countries from 2022 (8 countries) except reporting country,Croatia,2023,32344
@@ -10649,6 +10650,7 @@ Candidate countries from 2023 (9 countries) except reporting country,Denmark,202
 Candidate countries from 2023 (9 countries) except reporting country,Estonia,2024,63220
 Candidate countries from 2023 (9 countries) except reporting country,Greece,2024,421031
 Candidate countries from 2023 (9 countries) except reporting country,Spain,2024,269488
+Candidate countries from 2023 (9 countries) except reporting country,European Union - 27 countries (from 2020),2024,7893413
 Candidate countries from 2023 (9 countries) except reporting country,Finland,2024,40570
 Candidate countries from 2023 (9 countries) except reporting country,France,2024,471955
 Candidate countries from 2023 (9 countries) except reporting country,Croatia,2024,54012
@@ -16506,6 +16508,8 @@ European Free Trade Association except reporting country,Spain,2021,25420
 European Free Trade Association except reporting country,Spain,2022,27228
 European Free Trade Association except reporting country,Spain,2023,28027
 European Free Trade Association except reporting country,Spain,2024,27884
+European Free Trade Association except reporting country,European Union - 27 countries (from 2020),2023,243745
+European Free Trade Association except reporting country,European Union - 27 countries (from 2020),2024,244283
 European Free Trade Association except reporting country,Finland,2015,1384
 European Free Trade Association except reporting country,Finland,2016,1424
 European Free Trade Association except reporting country,Finland,2017,1460
@@ -18209,6 +18213,8 @@ EU27 countries (from 2020) except reporting country,Spain,2021,1627751
 EU27 countries (from 2020) except reporting country,Spain,2022,1646458
 EU27 countries (from 2020) except reporting country,Spain,2023,1690732
 EU27 countries (from 2020) except reporting country,Spain,2024,1724292
+EU27 countries (from 2020) except reporting country,European Union - 27 countries (from 2020),2023,13707425
+EU27 countries (from 2020) except reporting country,European Union - 27 countries (from 2020),2024,13974500
 EU27 countries (from 2020) except reporting country,Finland,2017,92649
 EU27 countries (from 2020) except reporting country,Finland,2018,93694
 EU27 countries (from 2020) except reporting country,Finland,2019,95138
@@ -20175,6 +20181,16 @@ Foreign country and stateless,Spain,2021,5402702
 Foreign country and stateless,Spain,2022,5509134
 Foreign country and stateless,Spain,2023,6089620
 Foreign country and stateless,Spain,2024,6502282
+Foreign country and stateless,European Union - 27 countries (from 2020),2015,29542079
+Foreign country and stateless,European Union - 27 countries (from 2020),2016,31162014
+Foreign country and stateless,European Union - 27 countries (from 2020),2017,32215985
+Foreign country and stateless,European Union - 27 countries (from 2020),2018,33591066
+Foreign country and stateless,European Union - 27 countries (from 2020),2019,34963579
+Foreign country and stateless,European Union - 27 countries (from 2020),2020,36405654
+Foreign country and stateless,European Union - 27 countries (from 2020),2021,37185923
+Foreign country and stateless,European Union - 27 countries (from 2020),2022,37593444
+Foreign country and stateless,European Union - 27 countries (from 2020),2023,40588592
+Foreign country and stateless,European Union - 27 countries (from 2020),2024,43006349
 Foreign country and stateless,Finland,2015,218803
 Foreign country and stateless,Finland,2016,228224
 Foreign country and stateless,Finland,2017,242003
@@ -37105,6 +37121,16 @@ Reporting country,Spain,2021,41998096
 Reporting country,Spain,2022,41977709
 Reporting country,Spain,2023,41995741
 Reporting country,Spain,2024,42117413
+Reporting country,European Union - 27 countries (from 2020),2015,413247841
+Reporting country,European Union - 27 countries (from 2020),2016,412714333
+Reporting country,European Union - 27 countries (from 2020),2017,412331992
+Reporting country,European Union - 27 countries (from 2020),2018,411596342
+Reporting country,European Union - 27 countries (from 2020),2019,411079636
+Reporting country,European Union - 27 countries (from 2020),2020,410508697
+Reporting country,European Union - 27 countries (from 2020),2021,408583990
+Reporting country,European Union - 27 countries (from 2020),2022,408287841
+Reporting country,European Union - 27 countries (from 2020),2023,407021139
+Reporting country,European Union - 27 countries (from 2020),2024,406216013
 Reporting country,Finland,2015,5252078
 Reporting country,Finland,2016,5257543
 Reporting country,Finland,2017,5259658
@@ -37723,6 +37749,8 @@ Non-EU27 countries (from 2020) nor reporting country,Spain,2021,3771839
 Non-EU27 countries (from 2020) nor reporting country,Spain,2022,3859102
 Non-EU27 countries (from 2020) nor reporting country,Spain,2023,4394884
 Non-EU27 countries (from 2020) nor reporting country,Spain,2024,4773620
+Non-EU27 countries (from 2020) nor reporting country,European Union - 27 countries (from 2020),2023,26820150
+Non-EU27 countries (from 2020) nor reporting country,European Union - 27 countries (from 2020),2024,28974079
 Non-EU27 countries (from 2020) nor reporting country,Finland,2017,148319
 Non-EU27 countries (from 2020) nor reporting country,Finland,2018,153009
 Non-EU27 countries (from 2020) nor reporting country,Finland,2019,159675
@@ -48523,6 +48551,8 @@ Stateless,Spain,2021,3112
 Stateless,Spain,2022,3574
 Stateless,Spain,2023,4004
 Stateless,Spain,2024,4370
+Stateless,European Union - 27 countries (from 2020),2023,61017
+Stateless,European Union - 27 countries (from 2020),2024,57770
 Stateless,Finland,2015,833
 Stateless,Finland,2016,886
 Stateless,Finland,2017,1035
@@ -51518,6 +51548,16 @@ Total,Spain,2021,47400798
 Total,Spain,2022,47486843
 Total,Spain,2023,48085361
 Total,Spain,2024,48619695
+Total,European Union - 27 countries (from 2020),2015,442911027
+Total,European Union - 27 countries (from 2020),2016,443987823
+Total,European Union - 27 countries (from 2020),2017,444655529
+Total,European Union - 27 countries (from 2020),2018,445287011
+Total,European Union - 27 countries (from 2020),2019,446135629
+Total,European Union - 27 countries (from 2020),2020,447015600
+Total,European Union - 27 countries (from 2020),2021,445872542
+Total,European Union - 27 countries (from 2020),2022,445972024
+Total,European Union - 27 countries (from 2020),2023,447695350
+Total,European Union - 27 countries (from 2020),2024,449306184
 Total,Finland,2015,5471753
 Total,Finland,2016,5487308
 Total,Finland,2017,5503297
@@ -53689,6 +53729,16 @@ Unknown,Spain,2021,0
 Unknown,Spain,2022,0
 Unknown,Spain,2023,0
 Unknown,Spain,2024,0
+Unknown,European Union - 27 countries (from 2020),2015,121107
+Unknown,European Union - 27 countries (from 2020),2016,111476
+Unknown,European Union - 27 countries (from 2020),2017,107552
+Unknown,European Union - 27 countries (from 2020),2018,99603
+Unknown,European Union - 27 countries (from 2020),2019,92414
+Unknown,European Union - 27 countries (from 2020),2020,101249
+Unknown,European Union - 27 countries (from 2020),2021,102629
+Unknown,European Union - 27 countries (from 2020),2022,90739
+Unknown,European Union - 27 countries (from 2020),2023,85619
+Unknown,European Union - 27 countries (from 2020),2024,83822
 Unknown,Finland,2015,872
 Unknown,Finland,2016,1541
 Unknown,Finland,2017,1636
