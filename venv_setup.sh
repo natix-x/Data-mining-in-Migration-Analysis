@@ -1,11 +1,9 @@
 #!/bin/bash
 
-python -m venv venv
+# Exit immediately if a command exits with a non-zero status
+set -e
 
-# Activate the virtual environment
-echo "Activating the virtual environment..."
-source venv/bin/activate
-
-# Install requirements
-echo "Installing requirements..."
+python3 -m venv .venv
+source .venv/bin/activate
+pip install --upgrade pip
 pip install -r requirements.txt
