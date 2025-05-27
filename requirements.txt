@@ -2,6 +2,7 @@ matplotlib
 numpy
 pandas
 seaborn
-nbformat
+pycountry
 plotly
 scikit-learn
+nbformat

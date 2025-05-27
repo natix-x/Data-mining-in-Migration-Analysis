@@ -4,7 +4,7 @@ python -m venv venv
 
 :: Activate virtual environment
 echo Activating virtual environment...
-call venv\Scripts\activate
+call .venv\Scripts\activate
 
 :: Install requirements
 pip install -r requirements.txt
