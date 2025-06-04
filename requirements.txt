@@ -7,3 +7,4 @@ plotly
 scikit-learn
 nbformat
 statsmodels
+ipykernel
