@@ -6,3 +6,4 @@ pycountry
 plotly
 scikit-learn
 nbformat
+statsmodels
