@@ -21,7 +21,7 @@ All data used for analysis is listed and linked in [data_sources.md](data/data_s
 
 ### Data analysis overview
 
-Main Research Questions:
+Main Research Question:\
 How is the number of immigrants in European countries related to economic and social factors?
 
 Main Components of the Analysis:
