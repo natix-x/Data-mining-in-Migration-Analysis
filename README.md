@@ -13,7 +13,7 @@
 
 The aim of this project was to analyze migration-related data within the European Union. The project was carried out by a 3-person team as part of the "Data Mining" course at AGH UST. Our main goal was to identify patterns and trends in migration and investigate their correlations with key socioeconomic indicators such as employment, income, fertility rate, crime, and more. A significant part of the project focused on socio-demographic profiling of migrants — we analyzed attributes such as age, gender, education level, and employment status in order to better understand the structure of migrant populations across EU countries. The results of our work were presented during a final project session, where we discussed key findings and demonstrated selected visualizations.
 
-A detailed documentation can be found [HERE](documentation/report.pdf), and the presentation is available [HERE](documentation/presentation.pdf).
+A documentation in polish can be found [HERE](documentation/report.pdf), and the presentation (also in polish) is available [HERE](documentation/presentation.pdf).
 
 ### Data
 
