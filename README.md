@@ -13,7 +13,7 @@
 
 The aim of this project was to analyze migration-related data within the European Union. The project was carried out by a 3-person team as part of the "Data Mining" course at AGH UST. Our main goal was to identify patterns and trends in migration and investigate their correlations with key socioeconomic indicators such as employment, income, fertility rate, crime, and more. A significant part of the project focused on socio-demographic profiling of migrants — we analyzed attributes such as age, gender, education level, and employment status in order to better understand the structure of migrant populations across EU countries. The results of our work were presented during a final project session, where we discussed key findings and demonstrated selected visualizations.
 
-A detailed documentation can be found [HERE](), and the presentation is available [HERE]().
+A detailed documentation can be found [HERE](documentation/report.pdf), and the presentation is available [HERE](documentation/presentation.pdf).
 
 ### Data
 
@@ -26,10 +26,15 @@ How is the number of immigrants in European countries related to economic and so
 
 Main Components of the Analysis:
 
-1. Socio-demographic Profiling of Migrants - analysis of age, gender, education level, employment status, and migration motives.
+1. Socio-demographic Profiling of Migrants:
 
-2. Migration Patterns and Flows
-   Trends in migration over time (2012–2024), by origin and destination + Special focus on migration from Ukraine post-2022. Mapping intra-EU vs. extra-EU flows.
+   - Analysis of age, gender, education level, employment status, and migration motives.
+
+2. Migration Patterns and Flows:
+
+   - Trends in migration over time (2012–2024), by origin and destination
+   - Special focus on migration from Ukraine post-2022.
+   - Mapping intra-EU vs. extra-EU flows.
 
 3. Labor Market Impact
 
@@ -58,9 +63,9 @@ Main Components of the Analysis:
 ### Project structure
 
 ```
-├── data/                      # Raw data (original downloaded datasets, unmodified)
+├── data/                     # Raw data (original downloaded datasets, unmodified)
 │
-├── data_preprocessing/       # Scripts and notebooks for data cleaning and transformation
+├── data_preprocessing/       # Notebooks for data cleaning and transformation
 │
 ├── processed_data/           # Cleaned and ready-to-analyze datasets
 │
@@ -68,7 +73,7 @@ Main Components of the Analysis:
 │
 ├── data_analysis/            # Final analysis, statistical modeling, correlation studies
 │
-├── documentation/            # Reports, presentation
+├── documentation/            # Report, presentation
 
 ```
 
