@@ -58,7 +58,7 @@ Main Components of the Analysis:
 6. Clustering and Pattern Detection
    - K-means clustering based on migration, employment, and crime data.
 
-- Identification of outliers and structural similarities between countries.
+   - Identification of outliers and structural similarities between countries.
 
 ### Project structure
 
