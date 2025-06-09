@@ -28,14 +28,13 @@ Below listed datasets from Eurostat were used:
       - [Prisoners by citizenship - crim_pris_ctz](https://ec.europa.eu/eurostat/databrowser/view/CRIM_PRIS_CTZ/default/table?lang=en)
     - Social indicators:
 
-           * 	[HICP - annual data (average index and rate of change) - prc_hicp_aind](https://ec.europa.eu/eurostat/databrowser/product/view/prc_hicp_aind?category=prc.prc_hicp)
-           * [Inability to face unexpected financial expenses - ilc_mdes04](https://ec.europa.eu/eurostat/databrowser/view/ILC_MDES04__custom_70943/bookmark/table?lang=en&bookmarkId=8e195f40-5d4b-40db-9a11-49a57cef26f5)
-           * [Trust in others by sex, age and educational attainment - ilc_pw03](https://ec.europa.eu/eurostat/databrowser/view/ilc_pw03/default/table?lang=en)
-           * [Mean and median income by group of citizenship (population aged 18 and over)](https://ec.europa.eu/eurostat/databrowser/view/ilc_di15/default/table?lang=en)
+      - [HICP - annual data (average index and rate of change) - prc_hicp_aind](https://ec.europa.eu/eurostat/databrowser/product/view/prc_hicp_aind?category=prc.prc_hicp)
+      - [Inability to face unexpected financial expenses - ilc_mdes04](https://ec.europa.eu/eurostat/databrowser/view/ILC_MDES04__custom_70943/bookmark/table?lang=en&bookmarkId=8e195f40-5d4b-40db-9a11-49a57cef26f5)
+      - [Trust in others by sex, age and educational attainment - ilc_pw03](https://ec.europa.eu/eurostat/databrowser/view/ilc_pw03/default/table?lang=en)
+      - [Mean and median income by group of citizenship (population aged 18 and over)](https://ec.europa.eu/eurostat/databrowser/view/ilc_di15/default/table?lang=en)
 
-      ilc*di15](#https://ec.europa.eu/eurostat/databrowser/view/ilc_di15/default/table?lang=en)
-      * [Self-perceived health by sex, age and groups of country of citizenship - hlth_silc_24](https://ec.europa.eu/eurostat/databrowser/view/hlth_silc_24/default/table?lang=en&category=mi.mii.mii_health.mii_hlth_state)
-      \_ [Total fertility rate - tps00199](https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en)
+      - [Self-perceived health by sex, age and groups of country of citizenship - hlth_silc_24](https://ec.europa.eu/eurostat/databrowser/view/hlth_silc_24/default/table?lang=en&category=mi.mii.mii_health.mii_hlth_state)
+      - [Total fertility rate - tps00199](https://ec.europa.eu/eurostat/databrowser/view/tps00199/default/table?lang=en)
 
 2.  [RefugeeDataFinder](https://www.unhcr.org/refugee-statistics/download?data_finder%5BdataGroup%5D=solutions&data_finder%5Bdataset%5D=solutionsIdpReturnees&data_finder%5BdisplayType%5D=totals&data_finder%5Byear__filterType%5D=range&data_finder%5Byear__rangeFrom%5D=2008&data_finder%5Byear__rangeTo%5D=2024&data-finder=on&data_finder%5Bcoo__displayType%5D=custom&data_finder%5Bcoo__country%5D%5B%5D=200&data_finder%5Bcoo__country%5D%5B%5D=2&data_finder%5Byear__%5D=&data_finder%5Bcoo__%5D=&data_finder%5Badvanced__%5D=&data_finder%5Bsubmit%5D=)
 
