@@ -1,4 +1,4 @@
-# Data-mining-in-Crime-Analysis
+# Data-mining-in-Migration-Analysis
 
 ## Table of contents:
 
